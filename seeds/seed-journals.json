@@ -1,0 +1,14 @@
+[
+  { "name": "Nature", "rss_url": "https://www.nature.com/nature.rss", "domain": "core-bio", "field_tags": ["multidisciplinary", "genomics", "evolution"], "tier": "flagship" },
+  { "name": "Science", "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science", "domain": "core-bio", "field_tags": ["multidisciplinary"], "tier": "flagship" },
+  { "name": "Cell", "rss_url": "https://www.cell.com/cell/current.rss", "domain": "core-bio", "field_tags": ["molecular-biology", "cell-biology"], "tier": "flagship" },
+  { "name": "Nature Genetics", "rss_url": "https://www.nature.com/ng.rss", "domain": "core-bio", "field_tags": ["genomics", "genetics"], "tier": "top" },
+  { "name": "Nature Ecology & Evolution", "rss_url": "https://www.nature.com/natecolevol.rss", "domain": "core-bio", "field_tags": ["evolution", "genomics"], "tier": "top" },
+  { "name": "Cell Genomics", "rss_url": "https://www.cell.com/cell-genomics/current.rss", "domain": "core-bio", "field_tags": ["genomics"], "tier": "specialist" },
+  { "name": "Genome Research", "rss_url": "https://genome.cshlp.org/rss/current.xml", "domain": "core-bio", "field_tags": ["genomics"], "tier": "top" },
+  { "name": "Current Biology", "rss_url": "https://www.cell.com/current-biology/current.rss", "domain": "core-bio", "field_tags": ["evolution", "cell-biology"], "tier": "top" },
+  { "name": "The New England Journal of Medicine", "domain": "medicine", "field_tags": ["clinical", "medicine"], "tier": "flagship" },
+  { "name": "The Lancet", "domain": "medicine", "field_tags": ["clinical", "medicine"], "tier": "flagship" },
+  { "name": "JAMA", "domain": "medicine", "field_tags": ["clinical", "medicine"], "tier": "flagship" },
+  { "name": "Nature Medicine", "domain": "medicine", "field_tags": ["medicine", "translational"], "tier": "top" }
+]
