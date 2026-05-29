@@ -28,4 +28,5 @@ test('validateEntry flags bad enums and missing fields', () => {
   assert.ok(errors.some((e) => e.includes('issn')));
   assert.ok(errors.some((e) => e.includes('domain')));
   assert.ok(errors.some((e) => e.includes('backends')));
+  assert.ok(errors.some((e) => e.includes('tier')));
 });
