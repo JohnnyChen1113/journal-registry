@@ -1,0 +1,35 @@
+{
+  "issn_l": "2666-979X",
+  "issn": [
+    "2666-979X"
+  ],
+  "name": "Cell Genomics",
+  "publisher": "Elsevier BV",
+  "homepage": "https://www.sciencedirect.com/journal/cell-genomics",
+  "openalex_source_id": "S4210194377",
+  "works_per_year": 131,
+  "oa_status": "oa",
+  "domain": "core-bio",
+  "field_tags": [
+    "genomics"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": "https://www.cell.com/cell-genomics/current.rss",
+    "status": "live",
+    "last_item_date": "2026-05-13",
+    "last_checked": "2026-05-29"
+  },
+  "backends": [
+    "rss",
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-29",
+  "updated_at": "2026-05-29"
+}

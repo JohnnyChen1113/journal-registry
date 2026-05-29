@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><title>journal-registry</title></head>
+  <body>
+    <outline type="rss" text="Nature" xmlUrl="https://www.nature.com/nature.rss"/>
+    <outline type="rss" text="Science" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=science"/>
+    <outline type="rss" text="Cell" xmlUrl="https://www.cell.com/cell/current.rss"/>
+    <outline type="rss" text="Nature Genetics" xmlUrl="https://www.nature.com/ng.rss"/>
+    <outline type="rss" text="Nature Ecology &amp; Evolution" xmlUrl="https://www.nature.com/natecolevol.rss"/>
+    <outline type="rss" text="Cell Genomics" xmlUrl="https://www.cell.com/cell-genomics/current.rss"/>
+    <outline type="rss" text="Current Biology" xmlUrl="https://www.cell.com/current-biology/current.rss"/>
+  </body>
+</opml>

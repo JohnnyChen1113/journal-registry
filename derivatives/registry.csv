@@ -1,0 +1,13 @@
+issn_l,name,publisher,domain,tier,rss_status,backends
+"0028-0836","Nature","Nature Portfolio","core-bio","flagship","live","rss|crossref|openalex"
+"0036-8075","Science","American Association for the Advancement of Science","core-bio","flagship","live","rss|crossref|openalex"
+"0092-8674","Cell","Cell Press","core-bio","flagship","live","rss|crossref|openalex"
+"1061-4036","Nature Genetics","Nature Portfolio","core-bio","top","live","rss|crossref|openalex"
+"2397-334X","Nature Ecology & Evolution","Nature Portfolio","core-bio","top","live","rss|crossref|openalex"
+"2666-979X","Cell Genomics","Elsevier BV","core-bio","specialist","live","rss|crossref|openalex"
+"1088-9051","Genome Research","Cold Spring Harbor Laboratory Press","core-bio","top","dead","crossref|openalex"
+"0960-9822","Current Biology","Elsevier BV","core-bio","top","live","rss|crossref|openalex"
+"2163-3061","The New England Journal of Medicine","","medicine","flagship","none","crossref|openalex"
+"0140-6736","The Lancet","Elsevier BV","medicine","flagship","none","crossref|openalex"
+"0098-7484","JAMA","American Medical Association","medicine","flagship","none","crossref|openalex"
+"1078-8956","Nature Medicine","Nature Portfolio","medicine","top","none","crossref|openalex"

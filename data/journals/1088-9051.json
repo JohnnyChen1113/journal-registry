@@ -1,0 +1,35 @@
+{
+  "issn_l": "1088-9051",
+  "issn": [
+    "1088-9051",
+    "1549-5469"
+  ],
+  "name": "Genome Research",
+  "publisher": "Cold Spring Harbor Laboratory Press",
+  "homepage": "http://genome.cshlp.org/",
+  "openalex_source_id": "S43092948",
+  "works_per_year": 165,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "genomics"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": "https://genome.cshlp.org/rss/current.xml",
+    "status": "dead",
+    "last_item_date": null,
+    "last_checked": "2026-05-29"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-29",
+  "updated_at": "2026-05-29"
+}

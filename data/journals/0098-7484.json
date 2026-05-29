@@ -1,0 +1,36 @@
+{
+  "issn_l": "0098-7484",
+  "issn": [
+    "0098-7484",
+    "1538-3598"
+  ],
+  "name": "JAMA",
+  "publisher": "American Medical Association",
+  "homepage": "http://jama.ama-assn.org/",
+  "openalex_source_id": "S172573765",
+  "works_per_year": 1486,
+  "oa_status": "closed",
+  "domain": "medicine",
+  "field_tags": [
+    "clinical",
+    "medicine"
+  ],
+  "tier": "flagship",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-05-29"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-29",
+  "updated_at": "2026-05-29"
+}

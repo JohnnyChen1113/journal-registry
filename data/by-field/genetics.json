@@ -1,0 +1,39 @@
+[
+  {
+    "issn_l": "1061-4036",
+    "issn": [
+      "1061-4036",
+      "1546-1718"
+    ],
+    "name": "Nature Genetics",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/ng/",
+    "openalex_source_id": "S137905309",
+    "works_per_year": 323,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "genomics",
+      "genetics"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/ng.rss",
+      "status": "live",
+      "last_item_date": "2026-05-28",
+      "last_checked": "2026-05-29"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-29",
+    "updated_at": "2026-05-29"
+  }
+]

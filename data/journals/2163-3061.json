@@ -1,0 +1,36 @@
+{
+  "issn_l": "2163-3061",
+  "issn": [
+    "2163-3061",
+    "2163-307X"
+  ],
+  "name": "The New England Journal of Medicine",
+  "publisher": null,
+  "homepage": "http://proquest.umi.com/pqdweb?RQT=318&VName=HNP&pmid=43377",
+  "openalex_source_id": "S4210202533",
+  "works_per_year": 1,
+  "oa_status": "closed",
+  "domain": "medicine",
+  "field_tags": [
+    "clinical",
+    "medicine"
+  ],
+  "tier": "flagship",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-05-29"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-29",
+  "updated_at": "2026-05-29"
+}

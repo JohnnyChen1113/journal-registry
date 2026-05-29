@@ -1,0 +1,76 @@
+[
+  {
+    "issn_l": "0092-8674",
+    "issn": [
+      "0092-8674",
+      "1097-4172"
+    ],
+    "name": "Cell",
+    "publisher": "Cell Press",
+    "homepage": "https://www.sciencedirect.com/journal/cell",
+    "openalex_source_id": "S110447773",
+    "works_per_year": 439,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "molecular-biology",
+      "cell-biology"
+    ],
+    "tier": "flagship",
+    "rss": {
+      "url": "https://www.cell.com/cell/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-28",
+      "last_checked": "2026-05-29"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-29",
+    "updated_at": "2026-05-29"
+  },
+  {
+    "issn_l": "0960-9822",
+    "issn": [
+      "0960-9822",
+      "1879-0445"
+    ],
+    "name": "Current Biology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/current-biology",
+    "openalex_source_id": "S128425624",
+    "works_per_year": 726,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "evolution",
+      "cell-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/current-biology/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-18",
+      "last_checked": "2026-05-29"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-29",
+    "updated_at": "2026-05-29"
+  }
+]

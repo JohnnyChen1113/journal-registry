@@ -1,0 +1,113 @@
+[
+  {
+    "issn_l": "0028-0836",
+    "issn": [
+      "0028-0836",
+      "1476-4687"
+    ],
+    "name": "Nature",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/nature/",
+    "openalex_source_id": "S137773608",
+    "works_per_year": 3612,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "multidisciplinary",
+      "genomics",
+      "evolution"
+    ],
+    "tier": "flagship",
+    "rss": {
+      "url": "https://www.nature.com/nature.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-29"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-29",
+    "updated_at": "2026-05-29"
+  },
+  {
+    "issn_l": "2397-334X",
+    "issn": [
+      "2397-334X"
+    ],
+    "name": "Nature Ecology & Evolution",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/natecolevol/",
+    "openalex_source_id": "S2764884935",
+    "works_per_year": 276,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "evolution",
+      "genomics"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/natecolevol.rss",
+      "status": "live",
+      "last_item_date": "2026-05-28",
+      "last_checked": "2026-05-29"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-29",
+    "updated_at": "2026-05-29"
+  },
+  {
+    "issn_l": "0960-9822",
+    "issn": [
+      "0960-9822",
+      "1879-0445"
+    ],
+    "name": "Current Biology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/current-biology",
+    "openalex_source_id": "S128425624",
+    "works_per_year": 726,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "evolution",
+      "cell-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/current-biology/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-18",
+      "last_checked": "2026-05-29"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-29",
+    "updated_at": "2026-05-29"
+  }
+]
