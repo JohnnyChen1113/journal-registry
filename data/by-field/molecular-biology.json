@@ -35,5 +35,300 @@
     },
     "added_at": "2026-05-30",
     "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2050-084X",
+    "issn": [
+      "2050-084X"
+    ],
+    "name": "eLife",
+    "publisher": "eLife Sciences Publications Ltd",
+    "homepage": "http://elifesciences.org/",
+    "openalex_source_id": "S1336409049",
+    "works_per_year": 4387,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "multidisciplinary",
+      "molecular-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://elifesciences.org/rss/recent.xml",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0305-1048",
+    "issn": [
+      "0305-1048",
+      "1362-4954",
+      "1362-4962"
+    ],
+    "name": "Nucleic Acids Research",
+    "publisher": "Oxford University Press",
+    "homepage": "http://nar.oxfordjournals.org/",
+    "openalex_source_id": "S134668137",
+    "works_per_year": 1133,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "genomics",
+      "molecular-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1097-2765",
+    "issn": [
+      "1097-2765",
+      "1097-4164"
+    ],
+    "name": "Molecular Cell",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/molecular-cell",
+    "openalex_source_id": "S156208185",
+    "works_per_year": 313,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "molecular-biology",
+      "cell-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/molecular-cell/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-21",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1545-9985",
+    "issn": [
+      "1545-9985",
+      "1545-9993"
+    ],
+    "name": "Nature Structural & Molecular Biology",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/nsmb/",
+    "openalex_source_id": "S139253143",
+    "works_per_year": 218,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "molecular-biology",
+      "structural-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nsmb.rss",
+      "status": "live",
+      "last_item_date": "2026-05-27",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0261-4189",
+    "issn": [
+      "0261-4189",
+      "1460-2075"
+    ],
+    "name": "The EMBO Journal",
+    "publisher": "Springer Nature",
+    "homepage": "http://emboj.embopress.org/",
+    "openalex_source_id": "S127916151",
+    "works_per_year": 268,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "molecular-biology",
+      "cell-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2211-1247",
+    "issn": [
+      "2211-1247",
+      "2639-1856"
+    ],
+    "name": "Cell Reports",
+    "publisher": "Cell Press",
+    "homepage": "https://www.sciencedirect.com/journal/cell-reports",
+    "openalex_source_id": "S169236886",
+    "works_per_year": 1205,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "molecular-biology",
+      "cell-biology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": "https://www.cell.com/cell-reports/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1544-9173",
+    "issn": [
+      "1544-9173",
+      "1545-7885"
+    ],
+    "name": "PLOS Biology",
+    "publisher": "Public Library of Science",
+    "homepage": "http://www.plosbiology.org/",
+    "openalex_source_id": "S154343897",
+    "works_per_year": 428,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "multidisciplinary",
+      "molecular-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://journals.plos.org/plosbiology/feed/atom",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1471-0072",
+    "issn": [
+      "1471-0072",
+      "1471-0080"
+    ],
+    "name": "Nature Reviews Molecular Cell Biology",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/nrm/",
+    "openalex_source_id": "S196724125",
+    "works_per_year": 95,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "molecular-biology",
+      "cell-biology",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nrm.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   }
 ]

@@ -72,5 +72,219 @@
     },
     "added_at": "2026-05-30",
     "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0027-8424",
+    "issn": [
+      "0027-8424",
+      "1091-6490"
+    ],
+    "name": "Proceedings of the National Academy of Sciences",
+    "publisher": "National Academy of Sciences",
+    "homepage": "http://www.pnas.org/",
+    "openalex_source_id": "S125754415",
+    "works_per_year": 3443,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "multidisciplinary"
+    ],
+    "tier": "flagship",
+    "rss": {
+      "url": "https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas",
+      "status": "live",
+      "last_item_date": "2026-05-26",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2050-084X",
+    "issn": [
+      "2050-084X"
+    ],
+    "name": "eLife",
+    "publisher": "eLife Sciences Publications Ltd",
+    "homepage": "http://elifesciences.org/",
+    "openalex_source_id": "S1336409049",
+    "works_per_year": 4387,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "multidisciplinary",
+      "molecular-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://elifesciences.org/rss/recent.xml",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2041-1723",
+    "issn": [
+      "2041-1723"
+    ],
+    "name": "Nature Communications",
+    "publisher": "Nature Portfolio",
+    "homepage": "http://www.nature.com/ncomms/index.html",
+    "openalex_source_id": "S64187185",
+    "works_per_year": 9761,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "multidisciplinary"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/ncomms.rss",
+      "status": "live",
+      "last_item_date": "2026-05-30",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2375-2548",
+    "issn": [
+      "2375-2548"
+    ],
+    "name": "Science Advances",
+    "publisher": "American Association for the Advancement of Science",
+    "homepage": "https://www.science.org/journal/sciadv",
+    "openalex_source_id": "S2737427234",
+    "works_per_year": 2249,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "multidisciplinary"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1544-9173",
+    "issn": [
+      "1544-9173",
+      "1545-7885"
+    ],
+    "name": "PLOS Biology",
+    "publisher": "Public Library of Science",
+    "homepage": "http://www.plosbiology.org/",
+    "openalex_source_id": "S154343897",
+    "works_per_year": 428,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "multidisciplinary",
+      "molecular-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://journals.plos.org/plosbiology/feed/atom",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2399-3642",
+    "issn": [
+      "2399-3642"
+    ],
+    "name": "Communications Biology",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/commsbio/",
+    "openalex_source_id": "S4210225776",
+    "works_per_year": 1542,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "multidisciplinary"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": "https://www.nature.com/commsbio.rss",
+      "status": "live",
+      "last_item_date": "2026-05-30",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   }
 ]

@@ -1,0 +1,37 @@
+{
+  "issn_l": "1087-0156",
+  "issn": [
+    "1087-0156",
+    "1546-1696"
+  ],
+  "name": "Nature Biotechnology",
+  "publisher": "Nature Portfolio",
+  "homepage": "http://www.nature.com/nbt",
+  "openalex_source_id": "S106963461",
+  "works_per_year": 367,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "methods",
+    "biotechnology"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": "https://www.nature.com/nbt.rss",
+    "status": "live",
+    "last_item_date": "2026-05-29",
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "rss",
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

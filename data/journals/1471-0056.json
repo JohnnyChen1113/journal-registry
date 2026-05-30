@@ -1,0 +1,38 @@
+{
+  "issn_l": "1471-0056",
+  "issn": [
+    "1471-0056",
+    "1471-0064"
+  ],
+  "name": "Nature Reviews Genetics",
+  "publisher": "Nature Portfolio",
+  "homepage": "http://www.nature.com/nrg/index.html",
+  "openalex_source_id": "S8553189",
+  "works_per_year": 98,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "genetics",
+    "genomics",
+    "reviews"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": "https://www.nature.com/nrg.rss",
+    "status": "live",
+    "last_item_date": "2026-05-29",
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "rss",
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

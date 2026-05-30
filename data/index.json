@@ -171,5 +171,597 @@
       "crossref",
       "openalex"
     ]
+  },
+  {
+    "issn_l": "0027-8424",
+    "name": "Proceedings of the National Academy of Sciences",
+    "domain": "core-bio",
+    "field_tags": [
+      "multidisciplinary"
+    ],
+    "tier": "flagship",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2050-084X",
+    "name": "eLife",
+    "domain": "core-bio",
+    "field_tags": [
+      "multidisciplinary",
+      "molecular-biology"
+    ],
+    "tier": "top",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2041-1723",
+    "name": "Nature Communications",
+    "domain": "core-bio",
+    "field_tags": [
+      "multidisciplinary"
+    ],
+    "tier": "top",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2375-2548",
+    "name": "Science Advances",
+    "domain": "core-bio",
+    "field_tags": [
+      "multidisciplinary"
+    ],
+    "tier": "top",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1474-7596",
+    "name": "Genome Biology",
+    "domain": "core-bio",
+    "field_tags": [
+      "genomics",
+      "methods"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0305-1048",
+    "name": "Nucleic Acids Research",
+    "domain": "core-bio",
+    "field_tags": [
+      "genomics",
+      "molecular-biology"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0002-9297",
+    "name": "American Journal of Human Genetics",
+    "domain": "core-bio",
+    "field_tags": [
+      "genetics",
+      "human-genetics"
+    ],
+    "tier": "top",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1553-7390",
+    "name": "PLOS Genetics",
+    "domain": "core-bio",
+    "field_tags": [
+      "genetics",
+      "genomics"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2160-1836",
+    "name": "G3: Genes, Genomes, Genetics",
+    "domain": "core-bio",
+    "field_tags": [
+      "genetics",
+      "genomics"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1471-0056",
+    "name": "Nature Reviews Genetics",
+    "domain": "core-bio",
+    "field_tags": [
+      "genetics",
+      "genomics",
+      "reviews"
+    ],
+    "tier": "top",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1756-994X",
+    "name": "Genome Medicine",
+    "domain": "core-bio",
+    "field_tags": [
+      "genomics",
+      "medicine"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0737-4038",
+    "name": "Molecular Biology and Evolution",
+    "domain": "core-bio",
+    "field_tags": [
+      "evolution",
+      "genomics"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0962-1083",
+    "name": "Molecular Ecology",
+    "domain": "core-bio",
+    "field_tags": [
+      "evolution",
+      "ecology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1063-5157",
+    "name": "Systematic Biology",
+    "domain": "core-bio",
+    "field_tags": [
+      "evolution",
+      "phylogenetics"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0014-3820",
+    "name": "Evolution",
+    "domain": "core-bio",
+    "field_tags": [
+      "evolution"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0169-5347",
+    "name": "Trends in Ecology & Evolution",
+    "domain": "core-bio",
+    "field_tags": [
+      "evolution",
+      "reviews"
+    ],
+    "tier": "top",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1759-6653",
+    "name": "Genome Biology and Evolution",
+    "domain": "core-bio",
+    "field_tags": [
+      "evolution",
+      "genomics"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1097-2765",
+    "name": "Molecular Cell",
+    "domain": "core-bio",
+    "field_tags": [
+      "molecular-biology",
+      "cell-biology"
+    ],
+    "tier": "top",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1465-7392",
+    "name": "Nature Cell Biology",
+    "domain": "core-bio",
+    "field_tags": [
+      "cell-biology"
+    ],
+    "tier": "top",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1534-5807",
+    "name": "Developmental Cell",
+    "domain": "core-bio",
+    "field_tags": [
+      "cell-biology",
+      "development"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1545-9985",
+    "name": "Nature Structural & Molecular Biology",
+    "domain": "core-bio",
+    "field_tags": [
+      "molecular-biology",
+      "structural-biology"
+    ],
+    "tier": "top",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0261-4189",
+    "name": "The EMBO Journal",
+    "domain": "core-bio",
+    "field_tags": [
+      "molecular-biology",
+      "cell-biology"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2211-1247",
+    "name": "Cell Reports",
+    "domain": "core-bio",
+    "field_tags": [
+      "molecular-biology",
+      "cell-biology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1544-9173",
+    "name": "PLOS Biology",
+    "domain": "core-bio",
+    "field_tags": [
+      "multidisciplinary",
+      "molecular-biology"
+    ],
+    "tier": "top",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1471-0072",
+    "name": "Nature Reviews Molecular Cell Biology",
+    "domain": "core-bio",
+    "field_tags": [
+      "molecular-biology",
+      "cell-biology",
+      "reviews"
+    ],
+    "tier": "top",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1548-7091",
+    "name": "Nature Methods",
+    "domain": "core-bio",
+    "field_tags": [
+      "methods"
+    ],
+    "tier": "top",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1087-0156",
+    "name": "Nature Biotechnology",
+    "domain": "core-bio",
+    "field_tags": [
+      "methods",
+      "biotechnology"
+    ],
+    "tier": "top",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2405-4712",
+    "name": "Cell Systems",
+    "domain": "core-bio",
+    "field_tags": [
+      "systems-biology",
+      "methods"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1367-4803",
+    "name": "Bioinformatics",
+    "domain": "core-bio",
+    "field_tags": [
+      "bioinformatics",
+      "methods"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2399-3642",
+    "name": "Communications Biology",
+    "domain": "core-bio",
+    "field_tags": [
+      "multidisciplinary"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0959-8138",
+    "name": "The BMJ",
+    "domain": "medicine",
+    "field_tags": [
+      "clinical",
+      "medicine"
+    ],
+    "tier": "flagship",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0003-4819",
+    "name": "Annals of Internal Medicine",
+    "domain": "medicine",
+    "field_tags": [
+      "clinical",
+      "internal-medicine"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1946-6234",
+    "name": "Science Translational Medicine",
+    "domain": "medicine",
+    "field_tags": [
+      "translational",
+      "medicine"
+    ],
+    "tier": "top",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2666-3791",
+    "name": "Cell Reports Medicine",
+    "domain": "medicine",
+    "field_tags": [
+      "translational",
+      "medicine"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2666-6340",
+    "name": "Med",
+    "domain": "medicine",
+    "field_tags": [
+      "clinical",
+      "translational"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1470-2045",
+    "name": "The Lancet Oncology",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "clinical"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1473-3099",
+    "name": "The Lancet Infectious Diseases",
+    "domain": "medicine",
+    "field_tags": [
+      "infectious-disease",
+      "clinical"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2374-2437",
+    "name": "JAMA Oncology",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "clinical"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1535-6108",
+    "name": "Cancer Cell",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "cancer-biology"
+    ],
+    "tier": "top",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0006-4971",
+    "name": "Blood",
+    "domain": "medicine",
+    "field_tags": [
+      "hematology",
+      "clinical"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0009-7322",
+    "name": "Circulation",
+    "domain": "medicine",
+    "field_tags": [
+      "cardiology",
+      "clinical"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
   }
 ]

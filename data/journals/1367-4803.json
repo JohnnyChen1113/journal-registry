@@ -1,0 +1,36 @@
+{
+  "issn_l": "1367-4803",
+  "issn": [
+    "1367-4803",
+    "1367-4811"
+  ],
+  "name": "Bioinformatics",
+  "publisher": "Oxford University Press",
+  "homepage": "http://bioinformatics.oxfordjournals.org/",
+  "openalex_source_id": "S52395412",
+  "works_per_year": 579,
+  "oa_status": "oa",
+  "domain": "core-bio",
+  "field_tags": [
+    "bioinformatics",
+    "methods"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

@@ -1,0 +1,185 @@
+[
+  {
+    "issn_l": "1474-7596",
+    "issn": [
+      "1474-7596",
+      "1474-760X"
+    ],
+    "name": "Genome Biology",
+    "publisher": "BioMed Central",
+    "homepage": "https://genomebiology.biomedcentral.com/",
+    "openalex_source_id": "S81160022",
+    "works_per_year": 322,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "genomics",
+      "methods"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1548-7091",
+    "issn": [
+      "1548-7091",
+      "1548-7105"
+    ],
+    "name": "Nature Methods",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/nmeth/",
+    "openalex_source_id": "S127827428",
+    "works_per_year": 326,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "methods"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nmeth.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1087-0156",
+    "issn": [
+      "1087-0156",
+      "1546-1696"
+    ],
+    "name": "Nature Biotechnology",
+    "publisher": "Nature Portfolio",
+    "homepage": "http://www.nature.com/nbt",
+    "openalex_source_id": "S106963461",
+    "works_per_year": 367,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "methods",
+      "biotechnology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nbt.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2405-4712",
+    "issn": [
+      "2405-4712",
+      "2405-4720",
+      "2639-5460"
+    ],
+    "name": "Cell Systems",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/cell-systems",
+    "openalex_source_id": "S2764739556",
+    "works_per_year": 103,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "systems-biology",
+      "methods"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": "https://www.cell.com/cell-systems/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-20",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1367-4803",
+    "issn": [
+      "1367-4803",
+      "1367-4811"
+    ],
+    "name": "Bioinformatics",
+    "publisher": "Oxford University Press",
+    "homepage": "http://bioinformatics.oxfordjournals.org/",
+    "openalex_source_id": "S52395412",
+    "works_per_year": 579,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "bioinformatics",
+      "methods"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  }
+]

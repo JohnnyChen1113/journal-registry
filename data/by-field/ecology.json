@@ -1,0 +1,38 @@
+[
+  {
+    "issn_l": "0962-1083",
+    "issn": [
+      "0962-1083",
+      "1365-294X"
+    ],
+    "name": "Molecular Ecology",
+    "publisher": "Wiley",
+    "homepage": "http://www.wiley.com/bw/journal.asp?ref=0962-1083",
+    "openalex_source_id": "S22454499",
+    "works_per_year": 349,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "evolution",
+      "ecology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  }
+]

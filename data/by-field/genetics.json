@@ -35,5 +35,152 @@
     },
     "added_at": "2026-05-30",
     "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0002-9297",
+    "issn": [
+      "0002-9297",
+      "1537-6605"
+    ],
+    "name": "American Journal of Human Genetics",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/the-american-journal-of-human-genetics",
+    "openalex_source_id": "S134425043",
+    "works_per_year": 182,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "genetics",
+      "human-genetics"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/ajhg/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-07",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1553-7390",
+    "issn": [
+      "1553-7390",
+      "1553-7404"
+    ],
+    "name": "PLOS Genetics",
+    "publisher": "Public Library of Science",
+    "homepage": "http://www.plosgenetics.org/",
+    "openalex_source_id": "S103870658",
+    "works_per_year": 282,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "genetics",
+      "genomics"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": "https://journals.plos.org/plosgenetics/feed/atom",
+      "status": "live",
+      "last_item_date": "2026-05-28",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2160-1836",
+    "issn": [
+      "2160-1836"
+    ],
+    "name": "G3: Genes, Genomes, Genetics",
+    "publisher": "Genetics Society of America",
+    "homepage": "http://www.g3journal.org/",
+    "openalex_source_id": "S109822313",
+    "works_per_year": 255,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "genetics",
+      "genomics"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1471-0056",
+    "issn": [
+      "1471-0056",
+      "1471-0064"
+    ],
+    "name": "Nature Reviews Genetics",
+    "publisher": "Nature Portfolio",
+    "homepage": "http://www.nature.com/nrg/index.html",
+    "openalex_source_id": "S8553189",
+    "works_per_year": 98,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "genetics",
+      "genomics",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nrg.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   }
 ]

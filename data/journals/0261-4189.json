@@ -1,0 +1,36 @@
+{
+  "issn_l": "0261-4189",
+  "issn": [
+    "0261-4189",
+    "1460-2075"
+  ],
+  "name": "The EMBO Journal",
+  "publisher": "Springer Nature",
+  "homepage": "http://emboj.embopress.org/",
+  "openalex_source_id": "S127916151",
+  "works_per_year": 268,
+  "oa_status": "oa",
+  "domain": "core-bio",
+  "field_tags": [
+    "molecular-biology",
+    "cell-biology"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

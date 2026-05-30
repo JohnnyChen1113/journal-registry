@@ -1,0 +1,38 @@
+[
+  {
+    "issn_l": "0006-4971",
+    "issn": [
+      "0006-4971",
+      "1528-0020"
+    ],
+    "name": "Blood",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/blood",
+    "openalex_source_id": "S200071133",
+    "works_per_year": 6127,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "hematology",
+      "clinical"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  }
+]

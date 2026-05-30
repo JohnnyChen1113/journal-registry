@@ -9,5 +9,28 @@
     <outline type="rss" text="Nature Ecology &amp; Evolution" xmlUrl="https://www.nature.com/natecolevol.rss"/>
     <outline type="rss" text="Cell Genomics" xmlUrl="https://www.cell.com/cell-genomics/current.rss"/>
     <outline type="rss" text="Current Biology" xmlUrl="https://www.cell.com/current-biology/current.rss"/>
+    <outline type="rss" text="Proceedings of the National Academy of Sciences" xmlUrl="https://www.pnas.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=pnas"/>
+    <outline type="rss" text="eLife" xmlUrl="https://elifesciences.org/rss/recent.xml"/>
+    <outline type="rss" text="Nature Communications" xmlUrl="https://www.nature.com/ncomms.rss"/>
+    <outline type="rss" text="Science Advances" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=sciadv"/>
+    <outline type="rss" text="American Journal of Human Genetics" xmlUrl="https://www.cell.com/ajhg/current.rss"/>
+    <outline type="rss" text="PLOS Genetics" xmlUrl="https://journals.plos.org/plosgenetics/feed/atom"/>
+    <outline type="rss" text="Nature Reviews Genetics" xmlUrl="https://www.nature.com/nrg.rss"/>
+    <outline type="rss" text="Trends in Ecology &amp; Evolution" xmlUrl="https://www.cell.com/trends/ecology-evolution/current.rss"/>
+    <outline type="rss" text="Molecular Cell" xmlUrl="https://www.cell.com/molecular-cell/current.rss"/>
+    <outline type="rss" text="Nature Cell Biology" xmlUrl="https://www.nature.com/ncb.rss"/>
+    <outline type="rss" text="Developmental Cell" xmlUrl="https://www.cell.com/developmental-cell/current.rss"/>
+    <outline type="rss" text="Nature Structural &amp; Molecular Biology" xmlUrl="https://www.nature.com/nsmb.rss"/>
+    <outline type="rss" text="Cell Reports" xmlUrl="https://www.cell.com/cell-reports/current.rss"/>
+    <outline type="rss" text="PLOS Biology" xmlUrl="https://journals.plos.org/plosbiology/feed/atom"/>
+    <outline type="rss" text="Nature Reviews Molecular Cell Biology" xmlUrl="https://www.nature.com/nrm.rss"/>
+    <outline type="rss" text="Nature Methods" xmlUrl="https://www.nature.com/nmeth.rss"/>
+    <outline type="rss" text="Nature Biotechnology" xmlUrl="https://www.nature.com/nbt.rss"/>
+    <outline type="rss" text="Cell Systems" xmlUrl="https://www.cell.com/cell-systems/current.rss"/>
+    <outline type="rss" text="Communications Biology" xmlUrl="https://www.nature.com/commsbio.rss"/>
+    <outline type="rss" text="Science Translational Medicine" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=stm"/>
+    <outline type="rss" text="Cell Reports Medicine" xmlUrl="https://www.cell.com/cell-reports-medicine/current.rss"/>
+    <outline type="rss" text="Med" xmlUrl="https://www.cell.com/med/current.rss"/>
+    <outline type="rss" text="Cancer Cell" xmlUrl="https://www.cell.com/cancer-cell/current.rss"/>
   </body>
 </opml>

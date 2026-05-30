@@ -1,0 +1,37 @@
+{
+  "issn_l": "1544-9173",
+  "issn": [
+    "1544-9173",
+    "1545-7885"
+  ],
+  "name": "PLOS Biology",
+  "publisher": "Public Library of Science",
+  "homepage": "http://www.plosbiology.org/",
+  "openalex_source_id": "S154343897",
+  "works_per_year": 428,
+  "oa_status": "oa",
+  "domain": "core-bio",
+  "field_tags": [
+    "multidisciplinary",
+    "molecular-biology"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": "https://journals.plos.org/plosbiology/feed/atom",
+    "status": "live",
+    "last_item_date": "2026-05-29",
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "rss",
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

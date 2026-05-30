@@ -1,0 +1,36 @@
+{
+  "issn_l": "2666-3791",
+  "issn": [
+    "2666-3791"
+  ],
+  "name": "Cell Reports Medicine",
+  "publisher": "Elsevier BV",
+  "homepage": "https://www.journals.elsevier.com/cell-reports-medicine",
+  "openalex_source_id": "S4210207453",
+  "works_per_year": 373,
+  "oa_status": "oa",
+  "domain": "medicine",
+  "field_tags": [
+    "translational",
+    "medicine"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": "https://www.cell.com/cell-reports-medicine/current.rss",
+    "status": "live",
+    "last_item_date": "2026-05-19",
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "rss",
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

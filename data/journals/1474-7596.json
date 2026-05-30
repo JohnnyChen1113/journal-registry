@@ -1,0 +1,36 @@
+{
+  "issn_l": "1474-7596",
+  "issn": [
+    "1474-7596",
+    "1474-760X"
+  ],
+  "name": "Genome Biology",
+  "publisher": "BioMed Central",
+  "homepage": "https://genomebiology.biomedcentral.com/",
+  "openalex_source_id": "S81160022",
+  "works_per_year": 322,
+  "oa_status": "oa",
+  "domain": "core-bio",
+  "field_tags": [
+    "genomics",
+    "methods"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

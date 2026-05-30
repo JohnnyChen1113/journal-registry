@@ -1,0 +1,36 @@
+{
+  "issn_l": "1473-3099",
+  "issn": [
+    "1473-3099",
+    "1474-4457"
+  ],
+  "name": "The Lancet Infectious Diseases",
+  "publisher": "Elsevier BV",
+  "homepage": "https://www.journals.elsevier.com/the-lancet-infectious-diseases",
+  "openalex_source_id": "S23772524",
+  "works_per_year": 417,
+  "oa_status": "closed",
+  "domain": "medicine",
+  "field_tags": [
+    "infectious-disease",
+    "clinical"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

@@ -1,0 +1,111 @@
+[
+  {
+    "issn_l": "1470-2045",
+    "issn": [
+      "1470-2045",
+      "1474-5488"
+    ],
+    "name": "The Lancet Oncology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/the-lancet-oncology",
+    "openalex_source_id": "S116900674",
+    "works_per_year": 376,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "clinical"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2374-2437",
+    "issn": [
+      "2374-2437",
+      "2374-2445"
+    ],
+    "name": "JAMA Oncology",
+    "publisher": "American Medical Association",
+    "homepage": "https://jamanetwork.com/journals/jamaoncology",
+    "openalex_source_id": "S2756165422",
+    "works_per_year": 285,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "clinical"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1535-6108",
+    "issn": [
+      "1535-6108",
+      "1878-3686"
+    ],
+    "name": "Cancer Cell",
+    "publisher": "Cell Press",
+    "homepage": "https://www.sciencedirect.com/journal/cancer-cell",
+    "openalex_source_id": "S25671836",
+    "works_per_year": 167,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "cancer-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/cancer-cell/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-11",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  }
+]

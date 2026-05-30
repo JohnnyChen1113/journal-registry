@@ -1,0 +1,38 @@
+{
+  "issn_l": "2405-4712",
+  "issn": [
+    "2405-4712",
+    "2405-4720",
+    "2639-5460"
+  ],
+  "name": "Cell Systems",
+  "publisher": "Elsevier BV",
+  "homepage": "https://www.journals.elsevier.com/cell-systems",
+  "openalex_source_id": "S2764739556",
+  "works_per_year": 103,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "systems-biology",
+    "methods"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": "https://www.cell.com/cell-systems/current.rss",
+    "status": "live",
+    "last_item_date": "2026-05-20",
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "rss",
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

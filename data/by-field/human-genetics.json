@@ -1,0 +1,39 @@
+[
+  {
+    "issn_l": "0002-9297",
+    "issn": [
+      "0002-9297",
+      "1537-6605"
+    ],
+    "name": "American Journal of Human Genetics",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/the-american-journal-of-human-genetics",
+    "openalex_source_id": "S134425043",
+    "works_per_year": 182,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "genetics",
+      "human-genetics"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/ajhg/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-07",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  }
+]

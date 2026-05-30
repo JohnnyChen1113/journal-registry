@@ -10,5 +10,53 @@
   { "name": "The New England Journal of Medicine", "issn": "0028-4793", "domain": "medicine", "field_tags": ["clinical", "medicine"], "tier": "flagship" },
   { "name": "The Lancet", "issn": "0140-6736", "domain": "medicine", "field_tags": ["clinical", "medicine"], "tier": "flagship" },
   { "name": "JAMA", "issn": "0098-7484", "domain": "medicine", "field_tags": ["clinical", "medicine"], "tier": "flagship" },
-  { "name": "Nature Medicine", "issn": "1078-8956", "domain": "medicine", "field_tags": ["medicine", "translational"], "tier": "top" }
+  { "name": "Nature Medicine", "issn": "1078-8956", "domain": "medicine", "field_tags": ["medicine", "translational"], "tier": "top" },
+
+  { "name": "Proceedings of the National Academy of Sciences", "issn": "0027-8424", "rss_url": "https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas", "domain": "core-bio", "field_tags": ["multidisciplinary"], "tier": "flagship" },
+  { "name": "eLife", "issn": "2050-084X", "rss_url": "https://elifesciences.org/rss/recent.xml", "domain": "core-bio", "field_tags": ["multidisciplinary", "molecular-biology"], "tier": "top" },
+  { "name": "Nature Communications", "issn": "2041-1723", "rss_url": "https://www.nature.com/ncomms.rss", "domain": "core-bio", "field_tags": ["multidisciplinary"], "tier": "top" },
+  { "name": "Science Advances", "issn": "2375-2548", "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv", "domain": "core-bio", "field_tags": ["multidisciplinary"], "tier": "top" },
+
+  { "name": "Genome Biology", "issn": "1474-7596", "domain": "core-bio", "field_tags": ["genomics", "methods"], "tier": "top" },
+  { "name": "Nucleic Acids Research", "issn": "0305-1048", "domain": "core-bio", "field_tags": ["genomics", "molecular-biology"], "tier": "top" },
+  { "name": "American Journal of Human Genetics", "issn": "0002-9297", "rss_url": "https://www.cell.com/ajhg/current.rss", "domain": "core-bio", "field_tags": ["genetics", "human-genetics"], "tier": "top" },
+  { "name": "PLOS Genetics", "issn": "1553-7390", "rss_url": "https://journals.plos.org/plosgenetics/feed/atom", "domain": "core-bio", "field_tags": ["genetics", "genomics"], "tier": "specialist" },
+  { "name": "G3: Genes, Genomes, Genetics", "issn": "2160-1836", "domain": "core-bio", "field_tags": ["genetics", "genomics"], "tier": "specialist" },
+  { "name": "Nature Reviews Genetics", "issn": "1471-0056", "rss_url": "https://www.nature.com/nrg.rss", "domain": "core-bio", "field_tags": ["genetics", "genomics", "reviews"], "tier": "top" },
+  { "name": "Genome Medicine", "issn": "1756-994X", "domain": "core-bio", "field_tags": ["genomics", "medicine"], "tier": "specialist" },
+
+  { "name": "Molecular Biology and Evolution", "issn": "0737-4038", "domain": "core-bio", "field_tags": ["evolution", "genomics"], "tier": "top" },
+  { "name": "Molecular Ecology", "issn": "0962-1083", "domain": "core-bio", "field_tags": ["evolution", "ecology"], "tier": "specialist" },
+  { "name": "Systematic Biology", "issn": "1063-5157", "domain": "core-bio", "field_tags": ["evolution", "phylogenetics"], "tier": "top" },
+  { "name": "Evolution", "issn": "0014-3820", "domain": "core-bio", "field_tags": ["evolution"], "tier": "specialist" },
+  { "name": "Trends in Ecology & Evolution", "issn": "0169-5347", "rss_url": "https://www.cell.com/trends/ecology-evolution/current.rss", "domain": "core-bio", "field_tags": ["evolution", "reviews"], "tier": "top" },
+  { "name": "Genome Biology and Evolution", "issn": "1759-6653", "domain": "core-bio", "field_tags": ["evolution", "genomics"], "tier": "specialist" },
+
+  { "name": "Molecular Cell", "issn": "1097-2765", "rss_url": "https://www.cell.com/molecular-cell/current.rss", "domain": "core-bio", "field_tags": ["molecular-biology", "cell-biology"], "tier": "top" },
+  { "name": "Nature Cell Biology", "issn": "1465-7392", "rss_url": "https://www.nature.com/ncb.rss", "domain": "core-bio", "field_tags": ["cell-biology"], "tier": "top" },
+  { "name": "Developmental Cell", "issn": "1534-5807", "rss_url": "https://www.cell.com/developmental-cell/current.rss", "domain": "core-bio", "field_tags": ["cell-biology", "development"], "tier": "specialist" },
+  { "name": "Nature Structural & Molecular Biology", "issn": "1545-9985", "rss_url": "https://www.nature.com/nsmb.rss", "domain": "core-bio", "field_tags": ["molecular-biology", "structural-biology"], "tier": "top" },
+  { "name": "The EMBO Journal", "issn": "0261-4189", "domain": "core-bio", "field_tags": ["molecular-biology", "cell-biology"], "tier": "top" },
+  { "name": "Cell Reports", "issn": "2211-1247", "rss_url": "https://www.cell.com/cell-reports/current.rss", "domain": "core-bio", "field_tags": ["molecular-biology", "cell-biology"], "tier": "specialist" },
+  { "name": "PLOS Biology", "issn": "1544-9173", "rss_url": "https://journals.plos.org/plosbiology/feed/atom", "domain": "core-bio", "field_tags": ["multidisciplinary", "molecular-biology"], "tier": "top" },
+  { "name": "Nature Reviews Molecular Cell Biology", "issn": "1471-0072", "rss_url": "https://www.nature.com/nrm.rss", "domain": "core-bio", "field_tags": ["molecular-biology", "cell-biology", "reviews"], "tier": "top" },
+
+  { "name": "Nature Methods", "issn": "1548-7091", "rss_url": "https://www.nature.com/nmeth.rss", "domain": "core-bio", "field_tags": ["methods"], "tier": "top" },
+  { "name": "Nature Biotechnology", "issn": "1087-0156", "rss_url": "https://www.nature.com/nbt.rss", "domain": "core-bio", "field_tags": ["methods", "biotechnology"], "tier": "top" },
+  { "name": "Cell Systems", "issn": "2405-4712", "rss_url": "https://www.cell.com/cell-systems/current.rss", "domain": "core-bio", "field_tags": ["systems-biology", "methods"], "tier": "specialist" },
+  { "name": "Bioinformatics", "issn": "1367-4803", "domain": "core-bio", "field_tags": ["bioinformatics", "methods"], "tier": "specialist" },
+  { "name": "Communications Biology", "issn": "2399-3642", "rss_url": "https://www.nature.com/commsbio.rss", "domain": "core-bio", "field_tags": ["multidisciplinary"], "tier": "specialist" },
+
+  { "name": "The BMJ", "issn": "0959-8138", "domain": "medicine", "field_tags": ["clinical", "medicine"], "tier": "flagship" },
+  { "name": "Annals of Internal Medicine", "issn": "0003-4819", "domain": "medicine", "field_tags": ["clinical", "internal-medicine"], "tier": "top" },
+
+  { "name": "Science Translational Medicine", "issn": "1946-6234", "rss_url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=stm", "domain": "medicine", "field_tags": ["translational", "medicine"], "tier": "top" },
+  { "name": "Cell Reports Medicine", "issn": "2666-3791", "rss_url": "https://www.cell.com/cell-reports-medicine/current.rss", "domain": "medicine", "field_tags": ["translational", "medicine"], "tier": "specialist" },
+  { "name": "Med", "issn": "2666-6340", "rss_url": "https://www.cell.com/med/current.rss", "domain": "medicine", "field_tags": ["clinical", "translational"], "tier": "specialist" },
+  { "name": "The Lancet Oncology", "issn": "1470-2045", "domain": "medicine", "field_tags": ["oncology", "clinical"], "tier": "top" },
+  { "name": "The Lancet Infectious Diseases", "issn": "1473-3099", "domain": "medicine", "field_tags": ["infectious-disease", "clinical"], "tier": "top" },
+  { "name": "JAMA Oncology", "issn": "2374-2437", "domain": "medicine", "field_tags": ["oncology", "clinical"], "tier": "specialist" },
+  { "name": "Cancer Cell", "issn": "1535-6108", "rss_url": "https://www.cell.com/cancer-cell/current.rss", "domain": "medicine", "field_tags": ["oncology", "cancer-biology"], "tier": "top" },
+  { "name": "Blood", "issn": "0006-4971", "domain": "medicine", "field_tags": ["hematology", "clinical"], "tier": "top" },
+  { "name": "Circulation", "issn": "0009-7322", "domain": "medicine", "field_tags": ["cardiology", "clinical"], "tier": "top" }
 ]

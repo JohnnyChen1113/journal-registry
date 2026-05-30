@@ -1,0 +1,35 @@
+{
+  "issn_l": "0959-8138",
+  "issn": [
+    "0959-8138"
+  ],
+  "name": "The BMJ",
+  "publisher": "BMJ",
+  "homepage": "http://www.bmj.com/thebmj",
+  "openalex_source_id": "S192814187",
+  "works_per_year": 3018,
+  "oa_status": "closed",
+  "domain": "medicine",
+  "field_tags": [
+    "clinical",
+    "medicine"
+  ],
+  "tier": "flagship",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

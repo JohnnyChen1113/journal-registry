@@ -1,0 +1,35 @@
+{
+  "issn_l": "2041-1723",
+  "issn": [
+    "2041-1723"
+  ],
+  "name": "Nature Communications",
+  "publisher": "Nature Portfolio",
+  "homepage": "http://www.nature.com/ncomms/index.html",
+  "openalex_source_id": "S64187185",
+  "works_per_year": 9761,
+  "oa_status": "oa",
+  "domain": "core-bio",
+  "field_tags": [
+    "multidisciplinary"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": "https://www.nature.com/ncomms.rss",
+    "status": "live",
+    "last_item_date": "2026-05-30",
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "rss",
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

@@ -1,0 +1,35 @@
+{
+  "issn_l": "1756-994X",
+  "issn": [
+    "1756-994X"
+  ],
+  "name": "Genome Medicine",
+  "publisher": "BioMed Central",
+  "homepage": "https://genomemedicine.biomedcentral.com/",
+  "openalex_source_id": "S149201819",
+  "works_per_year": 133,
+  "oa_status": "oa",
+  "domain": "core-bio",
+  "field_tags": [
+    "genomics",
+    "medicine"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

@@ -1,0 +1,38 @@
+{
+  "issn_l": "1471-0072",
+  "issn": [
+    "1471-0072",
+    "1471-0080"
+  ],
+  "name": "Nature Reviews Molecular Cell Biology",
+  "publisher": "Nature Portfolio",
+  "homepage": "https://www.nature.com/nrm/",
+  "openalex_source_id": "S196724125",
+  "works_per_year": 95,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "molecular-biology",
+    "cell-biology",
+    "reviews"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": "https://www.nature.com/nrm.rss",
+    "status": "live",
+    "last_item_date": "2026-05-29",
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "rss",
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

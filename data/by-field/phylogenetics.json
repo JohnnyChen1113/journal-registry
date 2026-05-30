@@ -1,0 +1,38 @@
+[
+  {
+    "issn_l": "1063-5157",
+    "issn": [
+      "1063-5157",
+      "1076-836X"
+    ],
+    "name": "Systematic Biology",
+    "publisher": "Oxford University Press",
+    "homepage": "http://sysbio.oxfordjournals.org/",
+    "openalex_source_id": "S65478581",
+    "works_per_year": 69,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "evolution",
+      "phylogenetics"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  }
+]

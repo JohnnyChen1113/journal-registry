@@ -1,0 +1,37 @@
+{
+  "issn_l": "1097-2765",
+  "issn": [
+    "1097-2765",
+    "1097-4164"
+  ],
+  "name": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "homepage": "https://www.sciencedirect.com/journal/molecular-cell",
+  "openalex_source_id": "S156208185",
+  "works_per_year": 313,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "molecular-biology",
+    "cell-biology"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": "https://www.cell.com/molecular-cell/current.rss",
+    "status": "live",
+    "last_item_date": "2026-05-21",
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "rss",
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

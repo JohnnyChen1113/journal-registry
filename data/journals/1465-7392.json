@@ -1,0 +1,36 @@
+{
+  "issn_l": "1465-7392",
+  "issn": [
+    "1465-7392",
+    "1476-4679"
+  ],
+  "name": "Nature Cell Biology",
+  "publisher": "Nature Portfolio",
+  "homepage": "http://www.nature.com/naturecellbiology",
+  "openalex_source_id": "S151741590",
+  "works_per_year": 222,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "cell-biology"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": "https://www.nature.com/ncb.rss",
+    "status": "live",
+    "last_item_date": "2026-05-28",
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "rss",
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}
