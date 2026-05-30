@@ -1,0 +1,36 @@
+[
+  {
+    "issn_l": "2662-8465",
+    "issn": [
+      "2662-8465"
+    ],
+    "name": "Nature Aging",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/nataging/",
+    "openalex_source_id": "S4210214063",
+    "works_per_year": 195,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "aging"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  }
+]

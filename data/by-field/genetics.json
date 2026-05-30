@@ -182,5 +182,42 @@
     },
     "added_at": "2026-05-30",
     "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0168-9525",
+    "issn": [
+      "0168-9525",
+      "1362-4555"
+    ],
+    "name": "Trends in Genetics",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/trends-in-genetics",
+    "openalex_source_id": "S139283865",
+    "works_per_year": 114,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "genetics",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/trends/genetics/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-01",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   }
 ]

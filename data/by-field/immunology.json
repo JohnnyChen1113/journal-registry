@@ -1,0 +1,148 @@
+[
+  {
+    "issn_l": "1529-2908",
+    "issn": [
+      "1529-2908",
+      "1529-2916"
+    ],
+    "name": "Nature Immunology",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/ni/",
+    "openalex_source_id": "S41063453",
+    "works_per_year": 277,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "immunology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/ni.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1474-1733",
+    "issn": [
+      "1474-1733",
+      "1474-1741"
+    ],
+    "name": "Nature Reviews Immunology",
+    "publisher": "Nature Portfolio",
+    "homepage": "http://www.nature.com/nrmicro/index.html",
+    "openalex_source_id": "S93373720",
+    "works_per_year": 110,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "immunology",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nri.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1074-7613",
+    "issn": [
+      "1074-7613",
+      "1097-4180"
+    ],
+    "name": "Immunity",
+    "publisher": "Cell Press",
+    "homepage": "https://www.sciencedirect.com/topics/immunology-and-microbiology/immunity",
+    "openalex_source_id": "S199671312",
+    "works_per_year": 209,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "immunology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/immunity/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-12",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1471-4906",
+    "issn": [
+      "1471-4906",
+      "1471-4981"
+    ],
+    "name": "Trends in Immunology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/trends-in-immunology",
+    "openalex_source_id": "S84926904",
+    "works_per_year": 114,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "immunology",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/trends/immunology/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-05",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  }
+]

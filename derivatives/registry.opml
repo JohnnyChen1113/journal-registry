@@ -32,5 +32,37 @@
     <outline type="rss" text="Cell Reports Medicine" xmlUrl="https://www.cell.com/cell-reports-medicine/current.rss"/>
     <outline type="rss" text="Med" xmlUrl="https://www.cell.com/med/current.rss"/>
     <outline type="rss" text="Cancer Cell" xmlUrl="https://www.cell.com/cancer-cell/current.rss"/>
+    <outline type="rss" text="Nature Microbiology" xmlUrl="https://www.nature.com/nmicrobiol.rss"/>
+    <outline type="rss" text="Nature Immunology" xmlUrl="https://www.nature.com/ni.rss"/>
+    <outline type="rss" text="Nature Neuroscience" xmlUrl="https://www.nature.com/neuro.rss"/>
+    <outline type="rss" text="Nature Plants" xmlUrl="https://www.nature.com/nplants.rss"/>
+    <outline type="rss" text="Nature Metabolism" xmlUrl="https://www.nature.com/natmetab.rss"/>
+    <outline type="rss" text="Nature Chemical Biology" xmlUrl="https://www.nature.com/nchembio.rss"/>
+    <outline type="rss" text="Nature Protocols" xmlUrl="https://www.nature.com/nprot.rss"/>
+    <outline type="rss" text="Nature Reviews Microbiology" xmlUrl="https://www.nature.com/nrmicro.rss"/>
+    <outline type="rss" text="Nature Reviews Immunology" xmlUrl="https://www.nature.com/nri.rss"/>
+    <outline type="rss" text="Nature Reviews Neuroscience" xmlUrl="https://www.nature.com/nrn.rss"/>
+    <outline type="rss" text="Nature Reviews Cancer" xmlUrl="https://www.nature.com/nrc.rss"/>
+    <outline type="rss" text="Neuron" xmlUrl="https://www.cell.com/neuron/current.rss"/>
+    <outline type="rss" text="Immunity" xmlUrl="https://www.cell.com/immunity/current.rss"/>
+    <outline type="rss" text="Cell Host &amp; Microbe" xmlUrl="https://www.cell.com/cell-host-microbe/current.rss"/>
+    <outline type="rss" text="Cell Stem Cell" xmlUrl="https://www.cell.com/cell-stem-cell/current.rss"/>
+    <outline type="rss" text="Cell Metabolism" xmlUrl="https://www.cell.com/cell-metabolism/current.rss"/>
+    <outline type="rss" text="Cell Chemical Biology" xmlUrl="https://www.cell.com/cell-chemical-biology/current.rss"/>
+    <outline type="rss" text="Structure" xmlUrl="https://www.cell.com/structure/current.rss"/>
+    <outline type="rss" text="Biophysical Journal" xmlUrl="https://www.cell.com/biophysj/current.rss"/>
+    <outline type="rss" text="Cell Reports Methods" xmlUrl="https://www.cell.com/cell-reports-methods/current.rss"/>
+    <outline type="rss" text="Molecular Plant" xmlUrl="https://www.cell.com/molecular-plant/current.rss"/>
+    <outline type="rss" text="iScience" xmlUrl="https://www.cell.com/iscience/current.rss"/>
+    <outline type="rss" text="STAR Protocols" xmlUrl="https://www.cell.com/star-protocols/current.rss"/>
+    <outline type="rss" text="Trends in Genetics" xmlUrl="https://www.cell.com/trends/genetics/current.rss"/>
+    <outline type="rss" text="Trends in Cell Biology" xmlUrl="https://www.cell.com/trends/cell-biology/current.rss"/>
+    <outline type="rss" text="Trends in Microbiology" xmlUrl="https://www.cell.com/trends/microbiology/current.rss"/>
+    <outline type="rss" text="Trends in Immunology" xmlUrl="https://www.cell.com/trends/immunology/current.rss"/>
+    <outline type="rss" text="Trends in Neurosciences" xmlUrl="https://www.cell.com/trends/neurosciences/current.rss"/>
+    <outline type="rss" text="Trends in Biochemical Sciences" xmlUrl="https://www.cell.com/trends/biochemical-sciences/current.rss"/>
+    <outline type="rss" text="Trends in Plant Science" xmlUrl="https://www.cell.com/trends/plant-science/current.rss"/>
+    <outline type="rss" text="Trends in Biotechnology" xmlUrl="https://www.cell.com/trends/biotechnology/current.rss"/>
+    <outline type="rss" text="Trends in Cancer" xmlUrl="https://www.cell.com/trends/cancer/current.rss"/>
   </body>
 </opml>

@@ -1,0 +1,35 @@
+{
+  "issn_l": "2058-5276",
+  "issn": [
+    "2058-5276"
+  ],
+  "name": "Nature Microbiology",
+  "publisher": "Nature Portfolio",
+  "homepage": "http://www.nature.com/nmicrobiol/",
+  "openalex_source_id": "S2764926557",
+  "works_per_year": 275,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "microbiology"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": "https://www.nature.com/nmicrobiol.rss",
+    "status": "live",
+    "last_item_date": "2026-05-28",
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "rss",
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

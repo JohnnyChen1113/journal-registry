@@ -1,0 +1,36 @@
+{
+  "issn_l": "1074-7613",
+  "issn": [
+    "1074-7613",
+    "1097-4180"
+  ],
+  "name": "Immunity",
+  "publisher": "Cell Press",
+  "homepage": "https://www.sciencedirect.com/topics/immunology-and-microbiology/immunity",
+  "openalex_source_id": "S199671312",
+  "works_per_year": 209,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "immunology"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": "https://www.cell.com/immunity/current.rss",
+    "status": "live",
+    "last_item_date": "2026-05-12",
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "rss",
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

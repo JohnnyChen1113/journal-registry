@@ -1,0 +1,37 @@
+{
+  "issn_l": "1360-1385",
+  "issn": [
+    "1360-1385",
+    "1878-4372"
+  ],
+  "name": "Trends in Plant Science",
+  "publisher": "Elsevier BV",
+  "homepage": "https://www.sciencedirect.com/journal/trends-in-plant-science",
+  "openalex_source_id": "S201780205",
+  "works_per_year": 163,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "plant-biology",
+    "reviews"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": "https://www.cell.com/trends/plant-science/current.rss",
+    "status": "live",
+    "last_item_date": "2026-05-01",
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "rss",
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

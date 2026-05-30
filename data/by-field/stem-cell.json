@@ -1,0 +1,39 @@
+[
+  {
+    "issn_l": "1875-9777",
+    "issn": [
+      "1875-9777",
+      "1934-5909"
+    ],
+    "name": "Cell Stem Cell",
+    "publisher": "Elsevier BV",
+    "homepage": "http://www.cell.com/cell-stem-cell/home",
+    "openalex_source_id": "S128124174",
+    "works_per_year": 138,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "stem-cell",
+      "development"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/cell-stem-cell/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-07",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  }
+]

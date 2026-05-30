@@ -181,5 +181,111 @@
     },
     "added_at": "2026-05-30",
     "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1750-2799",
+    "issn": [
+      "1750-2799",
+      "1754-2189"
+    ],
+    "name": "Nature Protocols",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/nprot/",
+    "openalex_source_id": "S109387254",
+    "works_per_year": 147,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "methods"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nprot.rss",
+      "status": "live",
+      "last_item_date": "2026-05-28",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2667-2375",
+    "issn": [
+      "2667-2375"
+    ],
+    "name": "Cell Reports Methods",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/cell-reports-methods",
+    "openalex_source_id": "S4210214705",
+    "works_per_year": 148,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "methods"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": "https://www.cell.com/cell-reports-methods/current.rss",
+      "status": "live",
+      "last_item_date": "2026-04-21",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2666-1667",
+    "issn": [
+      "2666-1667"
+    ],
+    "name": "STAR Protocols",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/star-protocols",
+    "openalex_source_id": "S4210212477",
+    "works_per_year": 583,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "methods"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": "https://www.cell.com/star-protocols/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   }
 ]

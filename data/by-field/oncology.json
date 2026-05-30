@@ -107,5 +107,114 @@
     },
     "added_at": "2026-05-30",
     "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2662-1347",
+    "issn": [
+      "2662-1347"
+    ],
+    "name": "Nature Cancer",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/natcancer/",
+    "openalex_source_id": "S4210236562",
+    "works_per_year": 163,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "cancer-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1474-175X",
+    "issn": [
+      "1474-175X",
+      "1474-1768"
+    ],
+    "name": "Nature Reviews Cancer",
+    "publisher": "Nature Portfolio",
+    "homepage": "http://www.nature.com/nrc/index.html",
+    "openalex_source_id": "S160464432",
+    "works_per_year": 96,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nrc.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2405-8025",
+    "issn": [
+      "2405-8025",
+      "2405-8033"
+    ],
+    "name": "Trends in Cancer",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/trends-in-cancer",
+    "openalex_source_id": "S2765069123",
+    "works_per_year": 110,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "reviews"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": "https://www.cell.com/trends/cancer/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-01",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   }
 ]

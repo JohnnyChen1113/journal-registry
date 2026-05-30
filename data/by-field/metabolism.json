@@ -1,26 +1,24 @@
 [
   {
-    "issn_l": "1087-0156",
+    "issn_l": "2522-5812",
     "issn": [
-      "1087-0156",
-      "1546-1696"
+      "2522-5812"
     ],
-    "name": "Nature Biotechnology",
+    "name": "Nature Metabolism",
     "publisher": "Nature Portfolio",
-    "homepage": "http://www.nature.com/nbt",
-    "openalex_source_id": "S106963461",
-    "works_per_year": 367,
+    "homepage": "https://www.nature.com/natmetab/",
+    "openalex_source_id": "S4210232714",
+    "works_per_year": 199,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
-      "methods",
-      "biotechnology"
+      "metabolism"
     ],
     "tier": "top",
     "rss": {
-      "url": "https://www.nature.com/nbt.rss",
+      "url": "https://www.nature.com/natmetab.rss",
       "status": "live",
-      "last_item_date": "2026-05-29",
+      "last_item_date": "2026-05-27",
       "last_checked": "2026-05-30"
     },
     "backends": [
@@ -37,28 +35,26 @@
     "updated_at": "2026-05-30"
   },
   {
-    "issn_l": "0167-7799",
+    "issn_l": "1550-4131",
     "issn": [
-      "0167-7799",
-      "0167-9430",
-      "1879-3096"
+      "1550-4131",
+      "1932-7420"
     ],
-    "name": "Trends in Biotechnology",
-    "publisher": "Elsevier BV",
-    "homepage": "https://www.sciencedirect.com/journal/trends-in-biotechnology",
-    "openalex_source_id": "S147849156",
-    "works_per_year": 206,
+    "name": "Cell Metabolism",
+    "publisher": "Cell Press",
+    "homepage": "https://www.sciencedirect.com/journal/cell-metabolism",
+    "openalex_source_id": "S177533077",
+    "works_per_year": 172,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
-      "biotechnology",
-      "reviews"
+      "metabolism"
     ],
     "tier": "top",
     "rss": {
-      "url": "https://www.cell.com/trends/biotechnology/current.rss",
+      "url": "https://www.cell.com/cell-metabolism/current.rss",
       "status": "live",
-      "last_item_date": "2026-05-01",
+      "last_item_date": "2026-05-05",
       "last_checked": "2026-05-30"
     },
     "backends": [

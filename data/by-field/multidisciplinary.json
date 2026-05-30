@@ -286,5 +286,40 @@
     },
     "added_at": "2026-05-30",
     "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2589-0042",
+    "issn": [
+      "2589-0042"
+    ],
+    "name": "iScience",
+    "publisher": "Cell Press",
+    "homepage": "https://www.sciencedirect.com/journal/iscience",
+    "openalex_source_id": "S2898358376",
+    "works_per_year": 2375,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "multidisciplinary"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": "https://www.cell.com/iscience/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   }
 ]

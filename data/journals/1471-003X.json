@@ -1,0 +1,37 @@
+{
+  "issn_l": "1471-003X",
+  "issn": [
+    "1471-003X",
+    "1471-0048"
+  ],
+  "name": "Nature Reviews Neuroscience",
+  "publisher": "Nature Portfolio",
+  "homepage": "http://www.nature.com/nrn/",
+  "openalex_source_id": "S26843219",
+  "works_per_year": 90,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "neuroscience",
+    "reviews"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": "https://www.nature.com/nrn.rss",
+    "status": "live",
+    "last_item_date": "2026-05-21",
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "rss",
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

@@ -324,5 +324,42 @@
     },
     "added_at": "2026-05-30",
     "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2055-026X",
+    "issn": [
+      "2055-026X",
+      "2055-0278"
+    ],
+    "name": "Nature Plants",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/nplants/",
+    "openalex_source_id": "S2764671299",
+    "works_per_year": 238,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "evolution"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nplants.rss",
+      "status": "live",
+      "last_item_date": "2026-05-28",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   }
 ]

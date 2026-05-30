@@ -1,0 +1,38 @@
+{
+  "issn_l": "0167-7799",
+  "issn": [
+    "0167-7799",
+    "0167-9430",
+    "1879-3096"
+  ],
+  "name": "Trends in Biotechnology",
+  "publisher": "Elsevier BV",
+  "homepage": "https://www.sciencedirect.com/journal/trends-in-biotechnology",
+  "openalex_source_id": "S147849156",
+  "works_per_year": 206,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "biotechnology",
+    "reviews"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": "https://www.cell.com/trends/biotechnology/current.rss",
+    "status": "live",
+    "last_item_date": "2026-05-01",
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "rss",
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

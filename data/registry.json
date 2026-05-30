@@ -1920,5 +1920,1240 @@
     },
     "added_at": "2026-05-30",
     "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2058-5276",
+    "issn": [
+      "2058-5276"
+    ],
+    "name": "Nature Microbiology",
+    "publisher": "Nature Portfolio",
+    "homepage": "http://www.nature.com/nmicrobiol/",
+    "openalex_source_id": "S2764926557",
+    "works_per_year": 275,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "microbiology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nmicrobiol.rss",
+      "status": "live",
+      "last_item_date": "2026-05-28",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1529-2908",
+    "issn": [
+      "1529-2908",
+      "1529-2916"
+    ],
+    "name": "Nature Immunology",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/ni/",
+    "openalex_source_id": "S41063453",
+    "works_per_year": 277,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "immunology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/ni.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1097-6256",
+    "issn": [
+      "1097-6256",
+      "1546-1726"
+    ],
+    "name": "Nature Neuroscience",
+    "publisher": "Nature Portfolio",
+    "homepage": "http://www.nature.com/neuro/",
+    "openalex_source_id": "S2298632",
+    "works_per_year": 259,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "neuroscience"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/neuro.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2055-026X",
+    "issn": [
+      "2055-026X",
+      "2055-0278"
+    ],
+    "name": "Nature Plants",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/nplants/",
+    "openalex_source_id": "S2764671299",
+    "works_per_year": 238,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "evolution"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nplants.rss",
+      "status": "live",
+      "last_item_date": "2026-05-28",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2522-5812",
+    "issn": [
+      "2522-5812"
+    ],
+    "name": "Nature Metabolism",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/natmetab/",
+    "openalex_source_id": "S4210232714",
+    "works_per_year": 199,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "metabolism"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/natmetab.rss",
+      "status": "live",
+      "last_item_date": "2026-05-27",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1552-4450",
+    "issn": [
+      "1552-4450",
+      "1552-4469"
+    ],
+    "name": "Nature Chemical Biology",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/nchembio/",
+    "openalex_source_id": "S51309854",
+    "works_per_year": 242,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "chemical-biology",
+      "molecular-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nchembio.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1750-2799",
+    "issn": [
+      "1750-2799",
+      "1754-2189"
+    ],
+    "name": "Nature Protocols",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/nprot/",
+    "openalex_source_id": "S109387254",
+    "works_per_year": 147,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "methods"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nprot.rss",
+      "status": "live",
+      "last_item_date": "2026-05-28",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2662-8465",
+    "issn": [
+      "2662-8465"
+    ],
+    "name": "Nature Aging",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/nataging/",
+    "openalex_source_id": "S4210214063",
+    "works_per_year": 195,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "aging"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1740-1526",
+    "issn": [
+      "1740-1526",
+      "1740-1534"
+    ],
+    "name": "Nature Reviews Microbiology",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/nrmicro/",
+    "openalex_source_id": "S56802129",
+    "works_per_year": 105,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "microbiology",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nrmicro.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1474-1733",
+    "issn": [
+      "1474-1733",
+      "1474-1741"
+    ],
+    "name": "Nature Reviews Immunology",
+    "publisher": "Nature Portfolio",
+    "homepage": "http://www.nature.com/nrmicro/index.html",
+    "openalex_source_id": "S93373720",
+    "works_per_year": 110,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "immunology",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nri.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1471-003X",
+    "issn": [
+      "1471-003X",
+      "1471-0048"
+    ],
+    "name": "Nature Reviews Neuroscience",
+    "publisher": "Nature Portfolio",
+    "homepage": "http://www.nature.com/nrn/",
+    "openalex_source_id": "S26843219",
+    "works_per_year": 90,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "neuroscience",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nrn.rss",
+      "status": "live",
+      "last_item_date": "2026-05-21",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2662-1347",
+    "issn": [
+      "2662-1347"
+    ],
+    "name": "Nature Cancer",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/natcancer/",
+    "openalex_source_id": "S4210236562",
+    "works_per_year": 163,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "cancer-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1474-175X",
+    "issn": [
+      "1474-175X",
+      "1474-1768"
+    ],
+    "name": "Nature Reviews Cancer",
+    "publisher": "Nature Portfolio",
+    "homepage": "http://www.nature.com/nrc/index.html",
+    "openalex_source_id": "S160464432",
+    "works_per_year": 96,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nrc.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0896-6273",
+    "issn": [
+      "0896-6273",
+      "1097-4199"
+    ],
+    "name": "Neuron",
+    "publisher": "Cell Press",
+    "homepage": "https://www.sciencedirect.com/journal/neuron",
+    "openalex_source_id": "S45757444",
+    "works_per_year": 302,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "neuroscience"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/neuron/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-20",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1074-7613",
+    "issn": [
+      "1074-7613",
+      "1097-4180"
+    ],
+    "name": "Immunity",
+    "publisher": "Cell Press",
+    "homepage": "https://www.sciencedirect.com/topics/immunology-and-microbiology/immunity",
+    "openalex_source_id": "S199671312",
+    "works_per_year": 209,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "immunology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/immunity/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-12",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1931-3128",
+    "issn": [
+      "1931-3128",
+      "1934-6069"
+    ],
+    "name": "Cell Host & Microbe",
+    "publisher": "Cell Press",
+    "homepage": "https://www.sciencedirect.com/journal/cell-host-and-microbe",
+    "openalex_source_id": "S207313999",
+    "works_per_year": 177,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "microbiology",
+      "host-pathogen"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/cell-host-microbe/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-13",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1875-9777",
+    "issn": [
+      "1875-9777",
+      "1934-5909"
+    ],
+    "name": "Cell Stem Cell",
+    "publisher": "Elsevier BV",
+    "homepage": "http://www.cell.com/cell-stem-cell/home",
+    "openalex_source_id": "S128124174",
+    "works_per_year": 138,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "stem-cell",
+      "development"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/cell-stem-cell/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-07",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1550-4131",
+    "issn": [
+      "1550-4131",
+      "1932-7420"
+    ],
+    "name": "Cell Metabolism",
+    "publisher": "Cell Press",
+    "homepage": "https://www.sciencedirect.com/journal/cell-metabolism",
+    "openalex_source_id": "S177533077",
+    "works_per_year": 172,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "metabolism"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/cell-metabolism/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-05",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2451-9448",
+    "issn": [
+      "2451-9448",
+      "2451-9456"
+    ],
+    "name": "Cell Chemical Biology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.cell.com/cell-chemical-biology/home",
+    "openalex_source_id": "S4210231961",
+    "works_per_year": 123,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "chemical-biology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": "https://www.cell.com/cell-chemical-biology/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-21",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0969-2126",
+    "issn": [
+      "0969-2126",
+      "1878-4186"
+    ],
+    "name": "Structure",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/structure",
+    "openalex_source_id": "S7112016",
+    "works_per_year": 178,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "structural-biology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": "https://www.cell.com/structure/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-07",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0006-3495",
+    "issn": [
+      "0006-3495",
+      "1542-0086"
+    ],
+    "name": "Biophysical Journal",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/biophysical-journal",
+    "openalex_source_id": "S98085912",
+    "works_per_year": 2956,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "biophysics"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": "https://www.cell.com/biophysj/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-19",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2667-2375",
+    "issn": [
+      "2667-2375"
+    ],
+    "name": "Cell Reports Methods",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/cell-reports-methods",
+    "openalex_source_id": "S4210214705",
+    "works_per_year": 148,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "methods"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": "https://www.cell.com/cell-reports-methods/current.rss",
+      "status": "live",
+      "last_item_date": "2026-04-21",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1674-2052",
+    "issn": [
+      "1674-2052",
+      "1752-9859",
+      "1752-9867"
+    ],
+    "name": "Molecular Plant",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/molecular-plant",
+    "openalex_source_id": "S150334665",
+    "works_per_year": 157,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/molecular-plant/current.rss",
+      "status": "live",
+      "last_item_date": "2026-04-15",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2589-0042",
+    "issn": [
+      "2589-0042"
+    ],
+    "name": "iScience",
+    "publisher": "Cell Press",
+    "homepage": "https://www.sciencedirect.com/journal/iscience",
+    "openalex_source_id": "S2898358376",
+    "works_per_year": 2375,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "multidisciplinary"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": "https://www.cell.com/iscience/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2666-1667",
+    "issn": [
+      "2666-1667"
+    ],
+    "name": "STAR Protocols",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/star-protocols",
+    "openalex_source_id": "S4210212477",
+    "works_per_year": 583,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "methods"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": "https://www.cell.com/star-protocols/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0168-9525",
+    "issn": [
+      "0168-9525",
+      "1362-4555"
+    ],
+    "name": "Trends in Genetics",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/trends-in-genetics",
+    "openalex_source_id": "S139283865",
+    "works_per_year": 114,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "genetics",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/trends/genetics/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-01",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0962-8924",
+    "issn": [
+      "0962-8924",
+      "1879-3088"
+    ],
+    "name": "Trends in Cell Biology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/trends-in-cell-biology",
+    "openalex_source_id": "S118628157",
+    "works_per_year": 98,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "cell-biology",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/trends/cell-biology/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-01",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0966-842X",
+    "issn": [
+      "0966-842X",
+      "1878-4380"
+    ],
+    "name": "Trends in Microbiology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/trends-in-microbiology",
+    "openalex_source_id": "S587692",
+    "works_per_year": 144,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "microbiology",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/trends/microbiology/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-01",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1471-4906",
+    "issn": [
+      "1471-4906",
+      "1471-4981"
+    ],
+    "name": "Trends in Immunology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/trends-in-immunology",
+    "openalex_source_id": "S84926904",
+    "works_per_year": 114,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "immunology",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/trends/immunology/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-05",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0166-2236",
+    "issn": [
+      "0166-2236",
+      "1878-108X"
+    ],
+    "name": "Trends in Neurosciences",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/trends-in-neurosciences",
+    "openalex_source_id": "S114966740",
+    "works_per_year": 102,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "neuroscience",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/trends/neurosciences/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-01",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0968-0004",
+    "issn": [
+      "0968-0004",
+      "1362-4326"
+    ],
+    "name": "Trends in Biochemical Sciences",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/trends-in-biochemical-sciences",
+    "openalex_source_id": "S136233269",
+    "works_per_year": 117,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "biochemistry",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/trends/biochemical-sciences/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-01",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1360-1385",
+    "issn": [
+      "1360-1385",
+      "1878-4372"
+    ],
+    "name": "Trends in Plant Science",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/trends-in-plant-science",
+    "openalex_source_id": "S201780205",
+    "works_per_year": 163,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/trends/plant-science/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-01",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0167-7799",
+    "issn": [
+      "0167-7799",
+      "0167-9430",
+      "1879-3096"
+    ],
+    "name": "Trends in Biotechnology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/trends-in-biotechnology",
+    "openalex_source_id": "S147849156",
+    "works_per_year": 206,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "biotechnology",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/trends/biotechnology/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-01",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2405-8025",
+    "issn": [
+      "2405-8025",
+      "2405-8033"
+    ],
+    "name": "Trends in Cancer",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/trends-in-cancer",
+    "openalex_source_id": "S2765069123",
+    "works_per_year": 110,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "reviews"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": "https://www.cell.com/trends/cancer/current.rss",
+      "status": "live",
+      "last_item_date": "2026-05-01",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   }
 ]

@@ -330,5 +330,42 @@
     },
     "added_at": "2026-05-30",
     "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1552-4450",
+    "issn": [
+      "1552-4450",
+      "1552-4469"
+    ],
+    "name": "Nature Chemical Biology",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/nchembio/",
+    "openalex_source_id": "S51309854",
+    "works_per_year": 242,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "chemical-biology",
+      "molecular-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nchembio.rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   }
 ]

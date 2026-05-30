@@ -1,0 +1,37 @@
+{
+  "issn_l": "0968-0004",
+  "issn": [
+    "0968-0004",
+    "1362-4326"
+  ],
+  "name": "Trends in Biochemical Sciences",
+  "publisher": "Elsevier BV",
+  "homepage": "https://www.journals.elsevier.com/trends-in-biochemical-sciences",
+  "openalex_source_id": "S136233269",
+  "works_per_year": 117,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "biochemistry",
+    "reviews"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": "https://www.cell.com/trends/biochemical-sciences/current.rss",
+    "status": "live",
+    "last_item_date": "2026-05-01",
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "rss",
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}
