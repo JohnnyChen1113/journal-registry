@@ -7,7 +7,7 @@ issn_l,name,publisher,domain,tier,rss_status,backends
 "2666-979X","Cell Genomics","Elsevier BV","core-bio","specialist","live","rss|crossref|openalex"
 "1088-9051","Genome Research","Cold Spring Harbor Laboratory Press","core-bio","top","dead","crossref|openalex"
 "0960-9822","Current Biology","Elsevier BV","core-bio","top","live","rss|crossref|openalex"
-"2163-3061","The New England Journal of Medicine","","medicine","flagship","none","crossref|openalex"
+"0028-4793","The New England Journal of Medicine","Massachusetts Medical Society","medicine","flagship","none","crossref|openalex"
 "0140-6736","The Lancet","Elsevier BV","medicine","flagship","none","crossref|openalex"
 "0098-7484","JAMA","American Medical Association","medicine","flagship","none","crossref|openalex"
 "1078-8956","Nature Medicine","Nature Portfolio","medicine","top","none","crossref|openalex"

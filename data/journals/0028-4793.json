@@ -1,14 +1,14 @@
 {
-  "issn_l": "2163-3061",
+  "issn_l": "0028-4793",
   "issn": [
-    "2163-3061",
-    "2163-307X"
+    "0028-4793",
+    "1533-4406"
   ],
   "name": "The New England Journal of Medicine",
-  "publisher": null,
-  "homepage": "http://proquest.umi.com/pqdweb?RQT=318&VName=HNP&pmid=43377",
-  "openalex_source_id": "S4210202533",
-  "works_per_year": 1,
+  "publisher": "Massachusetts Medical Society",
+  "homepage": "http://www.nejm.org/",
+  "openalex_source_id": "S62468778",
+  "works_per_year": 822,
   "oa_status": "closed",
   "domain": "medicine",
   "field_tags": [
@@ -20,7 +20,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-05-29"
+    "last_checked": "2026-05-30"
   },
   "backends": [
     "crossref",
@@ -31,6 +31,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-05-29",
-  "updated_at": "2026-05-29"
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
 }

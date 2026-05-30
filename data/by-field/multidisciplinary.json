@@ -22,7 +22,7 @@
       "url": "https://www.nature.com/nature.rss",
       "status": "live",
       "last_item_date": "2026-05-29",
-      "last_checked": "2026-05-29"
+      "last_checked": "2026-05-30"
     },
     "backends": [
       "rss",
@@ -34,8 +34,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-29",
-    "updated_at": "2026-05-29"
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   },
   {
     "issn_l": "0036-8075",
@@ -58,7 +58,7 @@
       "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
       "status": "live",
       "last_item_date": "2026-05-28",
-      "last_checked": "2026-05-29"
+      "last_checked": "2026-05-30"
     },
     "backends": [
       "rss",
@@ -70,7 +70,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-29",
-    "updated_at": "2026-05-29"
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   }
 ]

@@ -22,7 +22,7 @@
       "url": "https://www.nature.com/nature.rss",
       "status": "live",
       "last_item_date": "2026-05-29",
-      "last_checked": "2026-05-29"
+      "last_checked": "2026-05-30"
     },
     "backends": [
       "rss",
@@ -34,8 +34,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-29",
-    "updated_at": "2026-05-29"
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   },
   {
     "issn_l": "1061-4036",
@@ -59,7 +59,7 @@
       "url": "https://www.nature.com/ng.rss",
       "status": "live",
       "last_item_date": "2026-05-28",
-      "last_checked": "2026-05-29"
+      "last_checked": "2026-05-30"
     },
     "backends": [
       "rss",
@@ -71,8 +71,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-29",
-    "updated_at": "2026-05-29"
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   },
   {
     "issn_l": "2397-334X",
@@ -95,7 +95,7 @@
       "url": "https://www.nature.com/natecolevol.rss",
       "status": "live",
       "last_item_date": "2026-05-28",
-      "last_checked": "2026-05-29"
+      "last_checked": "2026-05-30"
     },
     "backends": [
       "rss",
@@ -107,8 +107,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-29",
-    "updated_at": "2026-05-29"
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   },
   {
     "issn_l": "2666-979X",
@@ -130,7 +130,7 @@
       "url": "https://www.cell.com/cell-genomics/current.rss",
       "status": "live",
       "last_item_date": "2026-05-13",
-      "last_checked": "2026-05-29"
+      "last_checked": "2026-05-30"
     },
     "backends": [
       "rss",
@@ -142,8 +142,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-29",
-    "updated_at": "2026-05-29"
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   },
   {
     "issn_l": "1088-9051",
@@ -166,7 +166,7 @@
       "url": "https://genome.cshlp.org/rss/current.xml",
       "status": "dead",
       "last_item_date": null,
-      "last_checked": "2026-05-29"
+      "last_checked": "2026-05-30"
     },
     "backends": [
       "crossref",
@@ -177,7 +177,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-29",
-    "updated_at": "2026-05-29"
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   }
 ]
