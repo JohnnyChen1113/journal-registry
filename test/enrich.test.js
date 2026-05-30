@@ -34,3 +34,11 @@ test('resolveSource searches by name and picks best match', async () => {
   assert.equal(src.issn_l, '1476-4687');
   assert.match(calls[0], /\/sources\?search=Nature/);
 });
+
+test('resolveSource uses issn lookup when seed.issn is provided', async () => {
+  const calls = [];
+  const fakeFetchJson = async (url) => { calls.push(url); return { id: 'https://openalex.org/S2', display_name: 'NEJM', issn_l: '0028-4793' }; };
+  const src = await resolveSource({ name: 'NEJM', issn: '0028-4793' }, { fetchJson: fakeFetchJson });
+  assert.equal(src.issn_l, '0028-4793');
+  assert.match(calls[0], /\/sources\/issn:0028-4793/);
+});
