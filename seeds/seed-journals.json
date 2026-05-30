@@ -95,5 +95,22 @@
   { "name": "Trends in Biochemical Sciences", "issn": "0968-0004", "rss_url": "https://www.cell.com/trends/biochemical-sciences/current.rss", "domain": "core-bio", "field_tags": ["biochemistry", "reviews"], "tier": "top" },
   { "name": "Trends in Plant Science", "issn": "1360-1385", "rss_url": "https://www.cell.com/trends/plant-science/current.rss", "domain": "core-bio", "field_tags": ["plant-biology", "reviews"], "tier": "top" },
   { "name": "Trends in Biotechnology", "issn": "0167-7799", "rss_url": "https://www.cell.com/trends/biotechnology/current.rss", "domain": "core-bio", "field_tags": ["biotechnology", "reviews"], "tier": "top" },
-  { "name": "Trends in Cancer", "issn": "2405-8025", "rss_url": "https://www.cell.com/trends/cancer/current.rss", "domain": "medicine", "field_tags": ["oncology", "reviews"], "tier": "specialist" }
+  { "name": "Trends in Cancer", "issn": "2405-8025", "rss_url": "https://www.cell.com/trends/cancer/current.rss", "domain": "medicine", "field_tags": ["oncology", "reviews"], "tier": "specialist" },
+
+  { "name": "The Plant Cell", "issn": "1040-4651", "domain": "core-bio", "field_tags": ["plant-biology", "cell-biology"], "tier": "flagship" },
+  { "name": "Plant Physiology", "issn": "0032-0889", "domain": "core-bio", "field_tags": ["plant-biology", "physiology"], "tier": "top" },
+  { "name": "The Plant Journal", "issn": "0960-7412", "domain": "core-bio", "field_tags": ["plant-biology", "genomics"], "tier": "top" },
+  { "name": "New Phytologist", "issn": "0028-646X", "domain": "core-bio", "field_tags": ["plant-biology", "ecology"], "tier": "top" },
+  { "name": "Plant Communications", "issn": "2590-3462", "rss_url": "https://www.cell.com/plant-communications/current.rss", "domain": "core-bio", "field_tags": ["plant-biology", "genomics"], "tier": "top" },
+  { "name": "Journal of Experimental Botany", "issn": "0022-0957", "domain": "core-bio", "field_tags": ["plant-biology"], "tier": "top" },
+  { "name": "Plant Biotechnology Journal", "issn": "1467-7644", "domain": "core-bio", "field_tags": ["plant-biology", "biotechnology"], "tier": "top" },
+  { "name": "Current Opinion in Plant Biology", "issn": "1369-5266", "domain": "core-bio", "field_tags": ["plant-biology", "reviews"], "tier": "top" },
+  { "name": "Annual Review of Plant Biology", "issn": "1543-5008", "domain": "core-bio", "field_tags": ["plant-biology", "reviews"], "tier": "top" },
+  { "name": "Plant, Cell & Environment", "issn": "0140-7791", "domain": "core-bio", "field_tags": ["plant-biology", "physiology"], "tier": "specialist" },
+  { "name": "Plant and Cell Physiology", "issn": "0032-0781", "domain": "core-bio", "field_tags": ["plant-biology", "physiology"], "tier": "specialist" },
+  { "name": "Journal of Integrative Plant Biology", "issn": "1672-9072", "domain": "core-bio", "field_tags": ["plant-biology"], "tier": "specialist" },
+  { "name": "Horticulture Research", "issn": "2052-7276", "domain": "core-bio", "field_tags": ["plant-biology", "horticulture"], "tier": "specialist" },
+  { "name": "Annals of Botany", "issn": "0305-7364", "domain": "core-bio", "field_tags": ["plant-biology", "botany"], "tier": "specialist" },
+  { "name": "Frontiers in Plant Science", "issn": "1664-462X", "rss_url": "https://www.frontiersin.org/journals/plant-science/rss", "domain": "core-bio", "field_tags": ["plant-biology"], "tier": "specialist" },
+  { "name": "Molecular Plant Pathology", "issn": "1364-3703", "domain": "core-bio", "field_tags": ["plant-biology", "plant-pathology"], "tier": "specialist" }
 ]

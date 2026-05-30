@@ -3155,5 +3155,578 @@
     },
     "added_at": "2026-05-30",
     "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1040-4651",
+    "issn": [
+      "1040-4651",
+      "1532-298X"
+    ],
+    "name": "The Plant Cell",
+    "publisher": "Oxford University Press",
+    "homepage": "http://www.plantcell.org/",
+    "openalex_source_id": "S48849333",
+    "works_per_year": 260,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "cell-biology"
+    ],
+    "tier": "flagship",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0032-0889",
+    "issn": [
+      "0032-0889",
+      "1532-2548"
+    ],
+    "name": "Plant Physiology",
+    "publisher": "Oxford University Press",
+    "homepage": "http://www.plantphysiol.org/",
+    "openalex_source_id": "S42294715",
+    "works_per_year": 559,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "physiology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0960-7412",
+    "issn": [
+      "0960-7412",
+      "1365-313X"
+    ],
+    "name": "The Plant Journal",
+    "publisher": "Wiley",
+    "homepage": "https://onlinelibrary.wiley.com/journal/1365313X",
+    "openalex_source_id": "S67862205",
+    "works_per_year": 560,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "genomics"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0028-646X",
+    "issn": [
+      "0028-646X",
+      "1469-8137"
+    ],
+    "name": "New Phytologist",
+    "publisher": "Wiley",
+    "homepage": "https://nph.onlinelibrary.wiley.com/journal/14698137",
+    "openalex_source_id": "S58631098",
+    "works_per_year": 772,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "ecology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2590-3462",
+    "issn": [
+      "2590-3462"
+    ],
+    "name": "Plant Communications",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.cell.com/plant-communications/home",
+    "openalex_source_id": "S4210223803",
+    "works_per_year": 208,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "genomics"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/plant-communications/current.rss",
+      "status": "live",
+      "last_item_date": "2026-04-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0022-0957",
+    "issn": [
+      "0022-0957",
+      "1460-2431"
+    ],
+    "name": "Journal of Experimental Botany",
+    "publisher": "Oxford University Press",
+    "homepage": "http://jxb.oxfordjournals.org/",
+    "openalex_source_id": "S32610980",
+    "works_per_year": 444,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1467-7644",
+    "issn": [
+      "1467-7644",
+      "1467-7652"
+    ],
+    "name": "Plant Biotechnology Journal",
+    "publisher": "Wiley",
+    "homepage": "https://onlinelibrary.wiley.com/journal/14677652",
+    "openalex_source_id": "S36510773",
+    "works_per_year": 358,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "biotechnology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1369-5266",
+    "issn": [
+      "1369-5266",
+      "1879-0356"
+    ],
+    "name": "Current Opinion in Plant Biology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/current-opinion-in-plant-biology",
+    "openalex_source_id": "S69957782",
+    "works_per_year": 92,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1543-5008",
+    "issn": [
+      "1543-5008",
+      "1545-2123"
+    ],
+    "name": "Annual Review of Plant Biology",
+    "publisher": "Annual Reviews",
+    "homepage": "http://www.annualreviews.org/journal/arplant",
+    "openalex_source_id": "S176558078",
+    "works_per_year": 27,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0140-7791",
+    "issn": [
+      "0140-7791",
+      "1365-3040"
+    ],
+    "name": "Plant, Cell & Environment",
+    "publisher": "Wiley",
+    "homepage": "https://onlinelibrary.wiley.com/journal/13653040",
+    "openalex_source_id": "S170036492",
+    "works_per_year": 515,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "physiology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0032-0781",
+    "issn": [
+      "0032-0781",
+      "1471-9053"
+    ],
+    "name": "Plant and Cell Physiology",
+    "publisher": "Oxford University Press",
+    "homepage": "http://pcp.oxfordjournals.org",
+    "openalex_source_id": "S110997964",
+    "works_per_year": 135,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "physiology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1672-9072",
+    "issn": [
+      "1672-9072",
+      "1744-7909"
+    ],
+    "name": "Journal of Integrative Plant Biology",
+    "publisher": "Wiley",
+    "homepage": "https://onlinelibrary.wiley.com/journal/17447909",
+    "openalex_source_id": "S58990993",
+    "works_per_year": 237,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "2052-7276",
+    "issn": [
+      "2052-7276",
+      "2662-6810"
+    ],
+    "name": "Horticulture Research",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/hortres/",
+    "openalex_source_id": "S2764753230",
+    "works_per_year": 312,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "horticulture"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "0305-7364",
+    "issn": [
+      "0305-7364",
+      "1095-8290"
+    ],
+    "name": "Annals of Botany",
+    "publisher": "Oxford University Press",
+    "homepage": "http://aob.oxfordjournals.org/",
+    "openalex_source_id": "S2254258",
+    "works_per_year": 237,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "botany"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1664-462X",
+    "issn": [
+      "1664-462X"
+    ],
+    "name": "Frontiers in Plant Science",
+    "publisher": "Frontiers Media",
+    "homepage": "http://journal.frontiersin.org/journal/plant-science",
+    "openalex_source_id": "S2493613807",
+    "works_per_year": 2644,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": "https://www.frontiersin.org/journals/plant-science/rss",
+      "status": "live",
+      "last_item_date": "2026-05-29",
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1364-3703",
+    "issn": [
+      "1364-3703",
+      "1464-6722"
+    ],
+    "name": "Molecular Plant Pathology",
+    "publisher": "Wiley",
+    "homepage": "http://www.blackwellpublishing.com/journal.asp?ref=1464-6722&site=1",
+    "openalex_source_id": "S207933444",
+    "works_per_year": 133,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "plant-pathology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   }
 ]

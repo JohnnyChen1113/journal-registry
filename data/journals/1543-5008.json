@@ -1,0 +1,36 @@
+{
+  "issn_l": "1543-5008",
+  "issn": [
+    "1543-5008",
+    "1545-2123"
+  ],
+  "name": "Annual Review of Plant Biology",
+  "publisher": "Annual Reviews",
+  "homepage": "http://www.annualreviews.org/journal/arplant",
+  "openalex_source_id": "S176558078",
+  "works_per_year": 27,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "plant-biology",
+    "reviews"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

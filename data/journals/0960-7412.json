@@ -1,0 +1,36 @@
+{
+  "issn_l": "0960-7412",
+  "issn": [
+    "0960-7412",
+    "1365-313X"
+  ],
+  "name": "The Plant Journal",
+  "publisher": "Wiley",
+  "homepage": "https://onlinelibrary.wiley.com/journal/1365313X",
+  "openalex_source_id": "S67862205",
+  "works_per_year": 560,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "plant-biology",
+    "genomics"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

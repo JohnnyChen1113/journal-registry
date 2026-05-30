@@ -73,5 +73,41 @@
     },
     "added_at": "2026-05-30",
     "updated_at": "2026-05-30"
+  },
+  {
+    "issn_l": "1467-7644",
+    "issn": [
+      "1467-7644",
+      "1467-7652"
+    ],
+    "name": "Plant Biotechnology Journal",
+    "publisher": "Wiley",
+    "homepage": "https://onlinelibrary.wiley.com/journal/14677652",
+    "openalex_source_id": "S36510773",
+    "works_per_year": 358,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "biotechnology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
   }
 ]

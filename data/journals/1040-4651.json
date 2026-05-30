@@ -1,0 +1,36 @@
+{
+  "issn_l": "1040-4651",
+  "issn": [
+    "1040-4651",
+    "1532-298X"
+  ],
+  "name": "The Plant Cell",
+  "publisher": "Oxford University Press",
+  "homepage": "http://www.plantcell.org/",
+  "openalex_source_id": "S48849333",
+  "works_per_year": 260,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "plant-biology",
+    "cell-biology"
+  ],
+  "tier": "flagship",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

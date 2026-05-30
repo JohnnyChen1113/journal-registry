@@ -1,0 +1,38 @@
+[
+  {
+    "issn_l": "0305-7364",
+    "issn": [
+      "0305-7364",
+      "1095-8290"
+    ],
+    "name": "Annals of Botany",
+    "publisher": "Oxford University Press",
+    "homepage": "http://aob.oxfordjournals.org/",
+    "openalex_source_id": "S2254258",
+    "works_per_year": 237,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "botany"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-05-30"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-05-30",
+    "updated_at": "2026-05-30"
+  }
+]

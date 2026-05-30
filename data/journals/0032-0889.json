@@ -1,0 +1,36 @@
+{
+  "issn_l": "0032-0889",
+  "issn": [
+    "0032-0889",
+    "1532-2548"
+  ],
+  "name": "Plant Physiology",
+  "publisher": "Oxford University Press",
+  "homepage": "http://www.plantphysiol.org/",
+  "openalex_source_id": "S42294715",
+  "works_per_year": 559,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "plant-biology",
+    "physiology"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}

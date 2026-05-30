@@ -64,5 +64,7 @@
     <outline type="rss" text="Trends in Plant Science" xmlUrl="https://www.cell.com/trends/plant-science/current.rss"/>
     <outline type="rss" text="Trends in Biotechnology" xmlUrl="https://www.cell.com/trends/biotechnology/current.rss"/>
     <outline type="rss" text="Trends in Cancer" xmlUrl="https://www.cell.com/trends/cancer/current.rss"/>
+    <outline type="rss" text="Plant Communications" xmlUrl="https://www.cell.com/plant-communications/current.rss"/>
+    <outline type="rss" text="Frontiers in Plant Science" xmlUrl="https://www.frontiersin.org/journals/plant-science/rss"/>
   </body>
 </opml>

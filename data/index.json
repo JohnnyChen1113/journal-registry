@@ -1255,5 +1255,228 @@
       "crossref",
       "openalex"
     ]
+  },
+  {
+    "issn_l": "1040-4651",
+    "name": "The Plant Cell",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "cell-biology"
+    ],
+    "tier": "flagship",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0032-0889",
+    "name": "Plant Physiology",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "physiology"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0960-7412",
+    "name": "The Plant Journal",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "genomics"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0028-646X",
+    "name": "New Phytologist",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "ecology"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2590-3462",
+    "name": "Plant Communications",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "genomics"
+    ],
+    "tier": "top",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0022-0957",
+    "name": "Journal of Experimental Botany",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1467-7644",
+    "name": "Plant Biotechnology Journal",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "biotechnology"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1369-5266",
+    "name": "Current Opinion in Plant Biology",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "reviews"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1543-5008",
+    "name": "Annual Review of Plant Biology",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "reviews"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0140-7791",
+    "name": "Plant, Cell & Environment",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "physiology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0032-0781",
+    "name": "Plant and Cell Physiology",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "physiology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1672-9072",
+    "name": "Journal of Integrative Plant Biology",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2052-7276",
+    "name": "Horticulture Research",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "horticulture"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0305-7364",
+    "name": "Annals of Botany",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "botany"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1664-462X",
+    "name": "Frontiers in Plant Science",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1364-3703",
+    "name": "Molecular Plant Pathology",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "plant-pathology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
   }
 ]

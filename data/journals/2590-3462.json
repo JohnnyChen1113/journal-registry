@@ -1,0 +1,36 @@
+{
+  "issn_l": "2590-3462",
+  "issn": [
+    "2590-3462"
+  ],
+  "name": "Plant Communications",
+  "publisher": "Elsevier BV",
+  "homepage": "https://www.cell.com/plant-communications/home",
+  "openalex_source_id": "S4210223803",
+  "works_per_year": 208,
+  "oa_status": "oa",
+  "domain": "core-bio",
+  "field_tags": [
+    "plant-biology",
+    "genomics"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": "https://www.cell.com/plant-communications/current.rss",
+    "status": "live",
+    "last_item_date": "2026-04-29",
+    "last_checked": "2026-05-30"
+  },
+  "backends": [
+    "rss",
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-05-30",
+  "updated_at": "2026-05-30"
+}
