@@ -8,7 +8,7 @@
   "publisher": "Wiley",
   "homepage": "http://www.blackwellpublishing.com/journal.asp?ref=1464-6722&site=1",
   "openalex_source_id": "S207933444",
-  "works_per_year": 133,
+  "works_per_year": 134,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -20,7 +20,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-05-30"
+    "last_checked": "2026-05-31"
   },
   "backends": [
     "crossref",
@@ -31,6 +31,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-05-30",
-  "updated_at": "2026-05-30"
+  "added_at": "2026-05-31",
+  "updated_at": "2026-05-31"
 }

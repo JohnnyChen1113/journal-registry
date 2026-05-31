@@ -1,0 +1,1602 @@
+[
+  {
+    "issn_l": "0008-5472",
+    "issn": [
+      "0008-5472",
+      "1538-7445"
+    ],
+    "name": "Cancer Research",
+    "publisher": "American Association for Cancer Research",
+    "homepage": "http://cancerres.aacrjournals.org/",
+    "openalex_source_id": "S168522863",
+    "works_per_year": 9207,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "cancer genomics and diagnostics",
+      "cancer, hypoxia, and metabolism",
+      "rna modifications and cancer"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1556-5068",
+    "issn": [
+      "1556-5068"
+    ],
+    "name": "SSRN Electronic Journal",
+    "publisher": "RELX Group (Netherlands)",
+    "homepage": "http://www.ssrn.com/en/",
+    "openalex_source_id": "S4210172589",
+    "works_per_year": 1,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "corporate finance and governance",
+      "financial markets and investment strategies",
+      "banking stability, regulation, efficiency"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2045-2322",
+    "issn": [
+      "2045-2322"
+    ],
+    "name": "Scientific Reports",
+    "publisher": "Nature Portfolio",
+    "homepage": "http://www.nature.com/srep/index.html",
+    "openalex_source_id": "S196734849",
+    "works_per_year": 33687,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "cancer-related molecular mechanisms research",
+      "microrna in disease regulation",
+      "rna modifications and cancer"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1422-0067",
+    "issn": [
+      "1422-0067",
+      "1661-6596"
+    ],
+    "name": "International Journal of Molecular Sciences",
+    "publisher": "Multidisciplinary Digital Publishing Institute",
+    "homepage": "http://www.mdpi.com/journal/ijms/",
+    "openalex_source_id": "S10623703",
+    "works_per_year": 10078,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "microrna in disease regulation",
+      "plant molecular biology research",
+      "cancer-related molecular mechanisms research"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2223-7747",
+    "issn": [
+      "2223-7747"
+    ],
+    "name": "Plants",
+    "publisher": "Multidisciplinary Digital Publishing Institute",
+    "homepage": "http://www.mdpi.com/journal/plants",
+    "openalex_source_id": "S4210230202",
+    "works_per_year": 3011,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "plant stress responses and tolerance",
+      "plant molecular biology research",
+      "plant-microbe interactions and immunity"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0732-183X",
+    "issn": [
+      "0732-183X",
+      "1527-7755"
+    ],
+    "name": "Journal of Clinical Oncology",
+    "publisher": "Lippincott Williams & Wilkins",
+    "homepage": "http://www.jco.org/",
+    "openalex_source_id": "S15137598",
+    "works_per_year": 8687,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "lung cancer treatments and mutations",
+      "cancer treatment and pharmacology",
+      "cancer genomics and diagnostics"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0021-9258",
+    "issn": [
+      "0021-9258",
+      "1067-8816",
+      "1083-351X"
+    ],
+    "name": "Journal of Biological Chemistry",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/journal-of-biological-chemistry",
+    "openalex_source_id": "S140251998",
+    "works_per_year": 2437,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "rna and protein synthesis mechanisms",
+      "glycosylation and glycoproteins research",
+      "protein kinase regulation and gtpase signaling"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1664-3224",
+    "issn": [
+      "1664-3224"
+    ],
+    "name": "Frontiers in Immunology",
+    "publisher": "Frontiers Media",
+    "homepage": "http://journal.frontiersin.org/journal/immunology",
+    "openalex_source_id": "S2595292759",
+    "works_per_year": 5553,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "immune cell function and interaction",
+      "t-cell and b-cell immunology",
+      "immunotherapy and immune responses"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2331-8422",
+    "issn": [
+      "2331-8422"
+    ],
+    "name": "ArXiv.org",
+    "publisher": null,
+    "homepage": null,
+    "openalex_source_id": "S4393918464",
+    "works_per_year": 104478,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "topic modeling",
+      "particle physics theoretical and experimental studies",
+      "multimodal machine learning applications"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1471-2229",
+    "issn": [
+      "1471-2229"
+    ],
+    "name": "BMC Plant Biology",
+    "publisher": "BioMed Central",
+    "homepage": "https://link.springer.com/journal/12870",
+    "openalex_source_id": "S6444338",
+    "works_per_year": 1436,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "plant molecular biology research",
+      "plant gene expression analysis",
+      "plant stress responses and tolerance"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1064-3745",
+    "issn": [
+      "1064-3745",
+      "1940-6029"
+    ],
+    "name": "Methods in molecular biology",
+    "publisher": "Springer Science+Business Media",
+    "homepage": "http://www.springer.com/series/7651",
+    "openalex_source_id": "S4210172139",
+    "works_per_year": 1978,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "rna and protein synthesis mechanisms",
+      "crispr and genetic engineering",
+      "monoclonal and polyclonal antibodies research"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2198-3844",
+    "issn": [
+      "2198-3844"
+    ],
+    "name": "Advanced Science",
+    "publisher": "Wiley",
+    "homepage": "https://onlinelibrary.wiley.com/journal/21983844",
+    "openalex_source_id": "S2737737698",
+    "works_per_year": 3850,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "nanoplatforms for cancer theranostics",
+      "advanced sensor and energy harvesting materials",
+      "advancements in battery materials"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1664-302X",
+    "issn": [
+      "1664-302X"
+    ],
+    "name": "Frontiers in Microbiology",
+    "publisher": "Frontiers Media",
+    "homepage": "http://www.frontiersin.org/microbiology",
+    "openalex_source_id": "S2484704948",
+    "works_per_year": 2715,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "gut microbiota and health",
+      "microbial community ecology and physiology",
+      "antibiotic resistance in bacteria"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1932-6203",
+    "issn": [
+      "1932-6203"
+    ],
+    "name": "PLoS ONE",
+    "publisher": "Public Library of Science",
+    "homepage": "http://www.plosone.org/",
+    "openalex_source_id": "S202381698",
+    "works_per_year": 14870,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "hiv/aids research and interventions",
+      "plant and animal studies",
+      "hiv research and treatment"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0141-8130",
+    "issn": [
+      "0141-8130",
+      "1879-0003"
+    ],
+    "name": "International Journal of Biological Macromolecules",
+    "publisher": "Elsevier BV",
+    "homepage": "http://www.journals.elsevier.com/international-journal-of-biological-macromolecules/",
+    "openalex_source_id": "S83853393",
+    "works_per_year": 7317,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "nanocomposite films for food packaging",
+      "polysaccharides and plant cell walls",
+      "polysaccharides composition and applications"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2052-4463",
+    "issn": [
+      "2052-4463"
+    ],
+    "name": "Scientific Data",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/sdata/",
+    "openalex_source_id": "S2607323502",
+    "works_per_year": 1542,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "genomics and phylogenetic studies",
+      "chromosomal and genetic variations",
+      "remote sensing in agriculture"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2576-098X",
+    "issn": [
+      "2576-098X"
+    ],
+    "name": "Microbiology Resource Announcements",
+    "publisher": "American Society for Microbiology",
+    "homepage": "http://MRA.asm.org",
+    "openalex_source_id": "S4210232526",
+    "works_per_year": 766,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "genomics and phylogenetic studies",
+      "bacteriophages and microbial interactions",
+      "microbial community ecology and physiology"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1471-2164",
+    "issn": [
+      "1471-2164"
+    ],
+    "name": "BMC Genomics",
+    "publisher": "BioMed Central",
+    "homepage": "https://bmcgenomics.biomedcentral.com/",
+    "openalex_source_id": "S28614077",
+    "works_per_year": 1019,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "genomics and phylogenetic studies",
+      "plant molecular biology research",
+      "genetic mapping and diversity in plants and animals"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0022-1767",
+    "issn": [
+      "0022-1767",
+      "1550-6606"
+    ],
+    "name": "The Journal of Immunology",
+    "publisher": "American Association of Immunologists",
+    "homepage": "http://www.jimmunol.org/",
+    "openalex_source_id": "S38008053",
+    "works_per_year": 1532,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "immune cell function and interaction",
+      "t-cell and b-cell immunology",
+      "immunotherapy and immune responses"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1467-5463",
+    "issn": [
+      "1467-5463",
+      "1477-4054"
+    ],
+    "name": "Briefings in Bioinformatics",
+    "publisher": "Oxford University Press",
+    "homepage": "http://bib.oxfordjournals.org/",
+    "openalex_source_id": "S91767247",
+    "works_per_year": 601,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "bioinformatics and genomic networks",
+      "gene expression and cancer classification",
+      "genomics and phylogenetic studies"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0981-9428",
+    "issn": [
+      "0981-9428",
+      "1873-2690"
+    ],
+    "name": "Plant Physiology and Biochemistry",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/plant-physiology-and-biochemistry",
+    "openalex_source_id": "S115455909",
+    "works_per_year": 945,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "plant stress responses and tolerance",
+      "plant molecular biology research",
+      "photosynthetic processes and mechanisms"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2398-502X",
+    "issn": [
+      "2398-502X"
+    ],
+    "name": "Wellcome Open Research",
+    "publisher": "Wellcome",
+    "homepage": "https://wellcomeopenresearch.org/",
+    "openalex_source_id": "S4210218052",
+    "works_per_year": 702,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "genomics and phylogenetic studies",
+      "lepidoptera: biology and taxonomy",
+      "genetic diversity and population structure"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2076-2607",
+    "issn": [
+      "2076-2607"
+    ],
+    "name": "Microorganisms",
+    "publisher": "Multidisciplinary Digital Publishing Institute",
+    "homepage": "http://www.mdpi.com/journal/microorganisms",
+    "openalex_source_id": "S4210222090",
+    "works_per_year": 2231,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "gut microbiota and health",
+      "microbial community ecology and physiology",
+      "probiotics and fermented foods"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2073-4425",
+    "issn": [
+      "2073-4425"
+    ],
+    "name": "Genes",
+    "publisher": "Multidisciplinary Digital Publishing Institute",
+    "homepage": "http://www.mdpi.com/journal/genes/",
+    "openalex_source_id": "S194631498",
+    "works_per_year": 1239,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "genomics and phylogenetic studies",
+      "cancer-related molecular mechanisms research",
+      "plant molecular biology research"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1466-5026",
+    "issn": [
+      "1466-5026",
+      "1466-5034"
+    ],
+    "name": "INTERNATIONAL JOURNAL OF SYSTEMATIC AND EVOLUTIONARY MICROBIOLOGY",
+    "publisher": "Microbiology Society",
+    "homepage": "http://ijs.sgmjournals.org/",
+    "openalex_source_id": "S102181007",
+    "works_per_year": 324,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "genomics and phylogenetic studies",
+      "microbial community ecology and physiology",
+      "plant pathogens and fungal diseases"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2311-7524",
+    "issn": [
+      "2311-7524"
+    ],
+    "name": "Horticulturae",
+    "publisher": "Multidisciplinary Digital Publishing Institute",
+    "homepage": "http://www.mdpi.com/journal/horticulturae",
+    "openalex_source_id": "S2737241975",
+    "works_per_year": 1183,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "plant physiology and cultivation studies",
+      "horticultural and viticultural research",
+      "postharvest quality and shelf life management"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1078-0432",
+    "issn": [
+      "1078-0432",
+      "1557-3265"
+    ],
+    "name": "Clinical Cancer Research",
+    "publisher": "American Association for Cancer Research",
+    "homepage": "http://clincancerres.aacrjournals.org/",
+    "openalex_source_id": "S183149254",
+    "works_per_year": 1955,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "cancer immunotherapy and biomarkers",
+      "advanced breast cancer therapies",
+      "cancer genomics and diagnostics"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0167-6857",
+    "issn": [
+      "0167-6857",
+      "1573-5044"
+    ],
+    "name": "Plant Cell Tissue and Organ Culture (PCTOC)",
+    "publisher": "Springer Science+Business Media",
+    "homepage": "https://link.springer.com/book/10.1007/978-3-642-79048-5",
+    "openalex_source_id": "S32261165",
+    "works_per_year": 275,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "plant tissue culture and regeneration",
+      "seed germination and physiology",
+      "plant molecular biology research"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2041-4889",
+    "issn": [
+      "2041-4889"
+    ],
+    "name": "Cell Death and Disease",
+    "publisher": "Springer Nature",
+    "homepage": "https://www.nature.com/cddis/",
+    "openalex_source_id": "S185208586",
+    "works_per_year": 835,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "cancer-related molecular mechanisms research",
+      "rna modifications and cancer",
+      "autophagy in disease and therapy"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1940-087X",
+    "issn": [
+      "1940-087X"
+    ],
+    "name": "Journal of Visualized Experiments",
+    "publisher": "MyJOVE",
+    "homepage": "http://www.jove.com/",
+    "openalex_source_id": "S199738284",
+    "works_per_year": 2253,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "3d printing in biomedical research",
+      "neuroscience and neural engineering",
+      "pluripotent stem cells research"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2073-4395",
+    "issn": [
+      "2073-4395"
+    ],
+    "name": "Agronomy",
+    "publisher": "Multidisciplinary Digital Publishing Institute",
+    "homepage": "http://www.mdpi.com/journal/agronomy",
+    "openalex_source_id": "S2738977497",
+    "works_per_year": 2323,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "soil carbon and nitrogen dynamics",
+      "crop yield and soil fertility",
+      "plant nutrient uptake and metabolism"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2730-6011",
+    "issn": [
+      "2730-6011"
+    ],
+    "name": "Discover Oncology",
+    "publisher": "Springer Nature",
+    "homepage": "https://www.springer.com/journal/12672",
+    "openalex_source_id": "S4210213696",
+    "works_per_year": 1427,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "ferroptosis and cancer prognosis",
+      "cancer immunotherapy and biomarkers",
+      "cancer-related molecular mechanisms research"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1999-4915",
+    "issn": [
+      "1999-4915"
+    ],
+    "name": "Viruses",
+    "publisher": "Multidisciplinary Digital Publishing Institute",
+    "homepage": "http://www.mdpi.com/journal/viruses/",
+    "openalex_source_id": "S55776271",
+    "works_per_year": 1385,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "viral infections and vectors",
+      "viral gastroenteritis research and epidemiology",
+      "animal virus infections studies"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2072-6694",
+    "issn": [
+      "2072-6694"
+    ],
+    "name": "Cancers",
+    "publisher": "Multidisciplinary Digital Publishing Institute",
+    "homepage": "https://www.mdpi.com/journal/cancers/",
+    "openalex_source_id": "S168415115",
+    "works_per_year": 3301,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "cancer immunotherapy and biomarkers",
+      "cancer genomics and diagnostics",
+      "cancer cells and metastasis"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2079-7737",
+    "issn": [
+      "2079-7737"
+    ],
+    "name": "Biology",
+    "publisher": "Multidisciplinary Digital Publishing Institute",
+    "homepage": "http://www.mdpi.com/journal/biology/",
+    "openalex_source_id": "S153489431",
+    "works_per_year": 1237,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "aquaculture disease management and microbiota",
+      "aquaculture nutrition and growth",
+      "genomics and phylogenetic studies"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2234-943X",
+    "issn": [
+      "2234-943X"
+    ],
+    "name": "Frontiers in Oncology",
+    "publisher": "Frontiers Media",
+    "homepage": "http://www.frontiersin.org/oncology",
+    "openalex_source_id": "S2596394214",
+    "works_per_year": 3636,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "cancer immunotherapy and biomarkers",
+      "ferroptosis and cancer prognosis",
+      "radiomics and machine learning in medical imaging"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2073-4409",
+    "issn": [
+      "2073-4409"
+    ],
+    "name": "Cells",
+    "publisher": "Multidisciplinary Digital Publishing Institute",
+    "homepage": "http://www.mdpi.com/journal/cells",
+    "openalex_source_id": "S2736626452",
+    "works_per_year": 1689,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "microrna in disease regulation",
+      "autophagy in disease and therapy",
+      "neuroinflammation and neurodegeneration mechanisms"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0926-6690",
+    "issn": [
+      "0926-6690",
+      "1872-633X"
+    ],
+    "name": "Industrial Crops and Products",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/industrial-crops-and-products",
+    "openalex_source_id": "S178362034",
+    "works_per_year": 1795,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "biofuel production and bioconversion",
+      "lignin and wood chemistry",
+      "essential oils and antimicrobial activity"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2218-273X",
+    "issn": [
+      "2218-273X"
+    ],
+    "name": "Biomolecules",
+    "publisher": "Multidisciplinary Digital Publishing Institute",
+    "homepage": "https://www.mdpi.com/journal/biomolecules",
+    "openalex_source_id": "S4210236520",
+    "works_per_year": 1384,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "rna modifications and cancer",
+      "rna and protein synthesis mechanisms",
+      "microrna in disease regulation"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0923-7534",
+    "issn": [
+      "0923-7534",
+      "1569-8041"
+    ],
+    "name": "Annals of Oncology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/annals-of-oncology",
+    "openalex_source_id": "S41454044",
+    "works_per_year": 3195,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "lung cancer treatments and mutations",
+      "colorectal cancer treatments and studies",
+      "cancer immunotherapy and biomarkers"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0003-2700",
+    "issn": [
+      "0003-2700",
+      "1520-6882"
+    ],
+    "name": "Analytical Chemistry",
+    "publisher": "American Chemical Society",
+    "homepage": "http://pubs.acs.org/journal/ancham",
+    "openalex_source_id": "S191963794",
+    "works_per_year": 2404,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "history and advancements in chemistry",
+      "electrochemical analysis and applications",
+      "analytical chemistry and chromatography"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0031-9317",
+    "issn": [
+      "0031-9317",
+      "1399-3054"
+    ],
+    "name": "Physiologia Plantarum",
+    "publisher": "Wiley",
+    "homepage": "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1399-3054",
+    "openalex_source_id": "S185046733",
+    "works_per_year": 497,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "plant stress responses and tolerance",
+      "photosynthetic processes and mechanisms",
+      "plant nutrient uptake and metabolism"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2045-7758",
+    "issn": [
+      "2045-7758"
+    ],
+    "name": "Ecology and Evolution",
+    "publisher": "Wiley",
+    "homepage": "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2045-7758",
+    "openalex_source_id": "S2482021738",
+    "works_per_year": 1542,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "plant and animal studies",
+      "ecology and vegetation dynamics studies",
+      "wildlife ecology and conservation"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1479-5876",
+    "issn": [
+      "1479-5876"
+    ],
+    "name": "Journal of Translational Medicine",
+    "publisher": "BioMed Central",
+    "homepage": "https://translational-medicine.biomedcentral.com/",
+    "openalex_source_id": "S142026636",
+    "works_per_year": 1163,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "cancer immunotherapy and biomarkers",
+      "ferroptosis and cancer prognosis",
+      "immunotherapy and immune responses"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0191-2917",
+    "issn": [
+      "0191-2917",
+      "1943-7692"
+    ],
+    "name": "Plant Disease",
+    "publisher": "American Phytopathological Society",
+    "homepage": null,
+    "openalex_source_id": "S135458494",
+    "works_per_year": 782,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "plant pathogens and fungal diseases",
+      "plant disease resistance and genetics",
+      "plant pathogens and resistance"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0022-2836",
+    "issn": [
+      "0022-2836",
+      "1089-8638"
+    ],
+    "name": "Journal of Molecular Biology",
+    "publisher": "Elsevier BV",
+    "homepage": "http://www.elsevier.com/locate/issn/0022-2836",
+    "openalex_source_id": "S46058472",
+    "works_per_year": 337,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "rna and protein synthesis mechanisms",
+      "protein structure and dynamics",
+      "enzyme structure and function"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0168-9452",
+    "issn": [
+      "0168-9452",
+      "1873-2259"
+    ],
+    "name": "Plant Science",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/plant-science",
+    "openalex_source_id": "S167743172",
+    "works_per_year": 353,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "plant stress responses and tolerance",
+      "plant tissue culture and regeneration",
+      "plant molecular biology research"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0006-291X",
+    "issn": [
+      "0006-291X",
+      "1090-2104"
+    ],
+    "name": "Biochemical and Biophysical Research Communications",
+    "publisher": "Elsevier BV",
+    "homepage": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622790/description",
+    "openalex_source_id": "S151589183",
+    "works_per_year": 1225,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "rna and protein synthesis mechanisms",
+      "glycosylation and glycoproteins research",
+      "receptor mechanisms and signaling"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1553-734X",
+    "issn": [
+      "1553-734X",
+      "1553-7358"
+    ],
+    "name": "PLoS Computational Biology",
+    "publisher": "Public Library of Science",
+    "homepage": "http://journals.plos.org/ploscompbiol/",
+    "openalex_source_id": "S86033158",
+    "works_per_year": 657,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "neural dynamics and brain function",
+      "bioinformatics and genomic networks",
+      "gene regulatory network analysis"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2573-2293",
+    "issn": [
+      "2573-2293"
+    ],
+    "name": "ChemRxiv",
+    "publisher": null,
+    "homepage": null,
+    "openalex_source_id": "S4393918830",
+    "works_per_year": 7943,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "machine learning in materials science",
+      "computational drug discovery methods",
+      "spectroscopy and quantum chemical studies"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0301-4851",
+    "issn": [
+      "0301-4851",
+      "1573-4978"
+    ],
+    "name": "Molecular Biology Reports",
+    "publisher": "Springer Nature",
+    "homepage": "https://www.springer.com/journal/11033",
+    "openalex_source_id": "S197962172",
+    "works_per_year": 1010,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "microrna in disease regulation",
+      "cancer-related molecular mechanisms research",
+      "rna research and splicing"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2380-2359",
+    "issn": [
+      "2380-2359"
+    ],
+    "name": "Mitochondrial DNA Part B",
+    "publisher": "Taylor & Francis",
+    "homepage": "https://www.tandfonline.com/toc/imdn21/current",
+    "openalex_source_id": "S2764892991",
+    "works_per_year": 247,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "genomics and phylogenetic studies",
+      "plant and fungal species descriptions",
+      "genetic diversity and population structure"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0885-5765",
+    "issn": [
+      "0885-5765",
+      "1096-1178"
+    ],
+    "name": "Physiological and Molecular Plant Pathology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/physiological-and-molecular-plant-pathology",
+    "openalex_source_id": "S54634327",
+    "works_per_year": 311,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "plant-microbe interactions and immunity",
+      "plant pathogens and fungal diseases",
+      "plant pathogenic bacteria studies"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0567-7572",
+    "issn": [
+      "0567-7572",
+      "2406-6168"
+    ],
+    "name": "Acta Horticulturae",
+    "publisher": "International Society for Horticultural Science",
+    "homepage": "http://www.actahort.org/books/bynumber/bynumber-49-1.htm",
+    "openalex_source_id": "S4210196743",
+    "works_per_year": 1162,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "plant physiology and cultivation studies",
+      "horticultural and viticultural research",
+      "postharvest quality and shelf life management"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2296-634X",
+    "issn": [
+      "2296-634X"
+    ],
+    "name": "Frontiers in Cell and Developmental Biology",
+    "publisher": "Frontiers Media",
+    "homepage": "http://www.frontiersin.org/cell_and_developmental_biology",
+    "openalex_source_id": "S2596924766",
+    "works_per_year": 900,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "cancer-related molecular mechanisms research",
+      "rna modifications and cancer",
+      "epigenetics and dna methylation"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0021-8561",
+    "issn": [
+      "0021-8561",
+      "1520-5118"
+    ],
+    "name": "Journal of Agricultural and Food Chemistry",
+    "publisher": "American Chemical Society",
+    "homepage": "http://pubs.acs.org/journal/jafcau",
+    "openalex_source_id": "S134644764",
+    "works_per_year": 2156,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "phytochemicals and antioxidant activities",
+      "fermentation and sensory analysis",
+      "pesticide and herbicide environmental studies"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0721-7714",
+    "issn": [
+      "0721-7714",
+      "1432-203X"
+    ],
+    "name": "Plant Cell Reports",
+    "publisher": "Springer Science+Business Media",
+    "homepage": "http://www.springer.com/life+sciences/cell+biology/journal/299",
+    "openalex_source_id": "S196783408",
+    "works_per_year": 249,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "plant tissue culture and regeneration",
+      "plant molecular biology research",
+      "transgenic plants and applications"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2165-0497",
+    "issn": [
+      "2165-0497"
+    ],
+    "name": "Microbiology Spectrum",
+    "publisher": "American Society for Microbiology",
+    "homepage": "https://journals.asm.org/journal/spectrum",
+    "openalex_source_id": "S2764766708",
+    "works_per_year": 1207,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "antibiotic resistance in bacteria",
+      "gut microbiota and health",
+      "bacteriophages and microbial interactions"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2161-5063",
+    "issn": [
+      "2161-5063"
+    ],
+    "name": "ACS Synthetic Biology",
+    "publisher": "American Chemical Society",
+    "homepage": "http://pubs.acs.org/journal/asbcd6",
+    "openalex_source_id": "S54167817",
+    "works_per_year": 355,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "crispr and genetic engineering",
+      "microbial metabolic engineering and bioproduction",
+      "rna and protein synthesis mechanisms"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0343-8651",
+    "issn": [
+      "0343-8651",
+      "1432-0991"
+    ],
+    "name": "Current Microbiology",
+    "publisher": "Springer Science+Business Media",
+    "homepage": "https://link.springer.com/journal/284",
+    "openalex_source_id": "S2248630",
+    "works_per_year": 463,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "genomics and phylogenetic studies",
+      "microbial community ecology and physiology",
+      "probiotics and fermented foods"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2059-7029",
+    "issn": [
+      "2059-7029"
+    ],
+    "name": "ESMO Open",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/esmo-open",
+    "openalex_source_id": "S4210217024",
+    "works_per_year": 1510,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "cancer immunotherapy and biomarkers",
+      "lung cancer treatments and mutations",
+      "advanced breast cancer therapies"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0304-4238",
+    "issn": [
+      "0304-4238",
+      "1879-1018"
+    ],
+    "name": "Scientia Horticulturae",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/scientia-horticulturae",
+    "openalex_source_id": "S193620188",
+    "works_per_year": 647,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "plant physiology and cultivation studies",
+      "postharvest quality and shelf life management",
+      "horticultural and viticultural research"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2150-7511",
+    "issn": [
+      "2150-7511",
+      "2161-2129"
+    ],
+    "name": "mBio",
+    "publisher": "American Society for Microbiology",
+    "homepage": "https://journals.asm.org/journal/mbio",
+    "openalex_source_id": "S4210201176",
+    "works_per_year": 626,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "bacterial genetics and biotechnology",
+      "bacterial biofilms and quorum sensing",
+      "antibiotic resistance in bacteria"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1664-8021",
+    "issn": [
+      "1664-8021"
+    ],
+    "name": "Frontiers in Genetics",
+    "publisher": "Frontiers Media",
+    "homepage": "http://journal.frontiersin.org/journal/genetics",
+    "openalex_source_id": "S2597340651",
+    "works_per_year": 827,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "cancer-related molecular mechanisms research",
+      "rna modifications and cancer",
+      "ferroptosis and cancer prognosis"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2631-9268",
+    "issn": [
+      "2631-9268"
+    ],
+    "name": "NAR Genomics and Bioinformatics",
+    "publisher": "Oxford University Press",
+    "homepage": "https://academic.oup.com/nargab",
+    "openalex_source_id": "S4210241000",
+    "works_per_year": 153,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "genomics and phylogenetic studies",
+      "rna and protein synthesis mechanisms",
+      "single-cell and spatial transcriptomics"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1471-2180",
+    "issn": [
+      "1471-2180"
+    ],
+    "name": "BMC Microbiology",
+    "publisher": "BioMed Central",
+    "homepage": "https://bmcmicrobiol.biomedcentral.com",
+    "openalex_source_id": "S128543880",
+    "works_per_year": 674,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "gut microbiota and health",
+      "bacterial genetics and biotechnology",
+      "antibiotic resistance in bacteria"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1467-3037",
+    "issn": [
+      "1467-3037",
+      "1467-3045"
+    ],
+    "name": "Current Issues in Molecular Biology",
+    "publisher": "Caister Academic Press",
+    "homepage": "http://www.horizonpress.com/cimb/",
+    "openalex_source_id": "S62841813",
+    "works_per_year": 826,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "microrna in disease regulation",
+      "cancer-related molecular mechanisms research",
+      "rna modifications and cancer"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0892-6638",
+    "issn": [
+      "0892-6638",
+      "1530-6860"
+    ],
+    "name": "The FASEB Journal",
+    "publisher": "Wiley",
+    "homepage": "http://www.fasebj.org/",
+    "openalex_source_id": "S25293849",
+    "works_per_year": 836,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "adipose tissue and metabolism",
+      "nitric oxide and endothelin effects",
+      "receptor mechanisms and signaling"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0302-9743",
+    "issn": [
+      "0302-9743",
+      "1611-3349"
+    ],
+    "name": "Lecture notes in computer science",
+    "publisher": "Springer Science+Business Media",
+    "homepage": "http://www.springer.com/lncs",
+    "openalex_source_id": "S106296714",
+    "works_per_year": 18838,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "formal methods in verification",
+      "semantic web and ontologies",
+      "logic, programming, and type systems"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0002-7863",
+    "issn": [
+      "0002-7863",
+      "1520-5126",
+      "1943-2984"
+    ],
+    "name": "Journal of the American Chemical Society",
+    "publisher": "American Chemical Society",
+    "homepage": "http://pubs.acs.org/journals/jacsat/index.html",
+    "openalex_source_id": "S111155417",
+    "works_per_year": 3568,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "inorganic and organometallic chemistry",
+      "various chemistry research topics",
+      "electrochemical analysis and applications"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1355-8382",
+    "issn": [
+      "1355-8382",
+      "1469-9001"
+    ],
+    "name": "RNA",
+    "publisher": "Cold Spring Harbor Laboratory Press",
+    "homepage": "http://rnajournal.cshlp.org/",
+    "openalex_source_id": "S187657468",
+    "works_per_year": 111,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "rna and protein synthesis mechanisms",
+      "rna research and splicing",
+      "rna modifications and cancer"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2617-4693",
+    "issn": [
+      "2617-4693",
+      "2617-4707"
+    ],
+    "name": "International Journal of Advanced Biochemistry Research",
+    "publisher": null,
+    "homepage": "http://www.biochemjournal.com",
+    "openalex_source_id": "S4210236697",
+    "works_per_year": 3050,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "agricultural science and fertilization",
+      "agricultural pest management studies",
+      "agricultural practices and plant genetics"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1868-7075",
+    "issn": [
+      "1868-7075",
+      "1868-7083"
+    ],
+    "name": "Clinical Epigenetics",
+    "publisher": "BioMed Central",
+    "homepage": "https://link.springer.com/journal/13148",
+    "openalex_source_id": "S200416800",
+    "works_per_year": 184,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "epigenetics and dna methylation",
+      "genetic syndromes and imprinting",
+      "histone deacetylase inhibitors research"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0304-8608",
+    "issn": [
+      "0304-8608",
+      "1432-8798"
+    ],
+    "name": "Archives of Virology",
+    "publisher": "Springer Science+Business Media",
+    "homepage": "http://www.springer.com/biomed/virology/journal/705",
+    "openalex_source_id": "S57491091",
+    "works_per_year": 230,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "plant virus research studies",
+      "animal virus infections studies",
+      "viral gastroenteritis research and epidemiology"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1471-2105",
+    "issn": [
+      "1471-2105"
+    ],
+    "name": "BMC Bioinformatics",
+    "publisher": "BioMed Central",
+    "homepage": "http://www.biomedcentral.com/bmcbioinformatics/",
+    "openalex_source_id": "S19032547",
+    "works_per_year": 287,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "bioinformatics and genomic networks",
+      "gene expression and cancer classification",
+      "genomics and phylogenetic studies"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2394-1081",
+    "issn": [
+      "2394-1081"
+    ],
+    "name": "Journal of Advances in Biology & Biotechnology",
+    "publisher": "Sciencedomain International",
+    "homepage": "http://www.sciencedomain.org/journal-home.php?id=39",
+    "openalex_source_id": "S2764613355",
+    "works_per_year": 1085,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "agricultural science and fertilization",
+      "agricultural pest management studies",
+      "genetics and plant breeding"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2348-1900",
+    "issn": [
+      "2348-1900"
+    ],
+    "name": "Plant Science Today",
+    "publisher": null,
+    "homepage": "http://horizonepublishing.com/journals/index.php/PST/index",
+    "openalex_source_id": "S4210213485",
+    "works_per_year": 1117,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "rice cultivation and yield improvement",
+      "agricultural science and fertilization",
+      "agricultural economics and practices"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2397-768X",
+    "issn": [
+      "2397-768X"
+    ],
+    "name": "npj Precision Oncology",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/npjprecisiononcology/",
+    "openalex_source_id": "S4210211538",
+    "works_per_year": 337,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "cancer genomics and diagnostics",
+      "cancer immunotherapy and biomarkers",
+      "radiomics and machine learning in medical imaging"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1125-4653",
+    "issn": [
+      "1125-4653",
+      "2239-7264"
+    ],
+    "name": "Journal of Plant Pathology",
+    "publisher": "Springer Science+Business Media",
+    "homepage": "https://link.springer.com/journal/42161",
+    "openalex_source_id": "S112652565",
+    "works_per_year": 219,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "plant pathogens and fungal diseases",
+      "plant virus research studies",
+      "plant pathogenic bacteria studies"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "1465-3249",
+    "issn": [
+      "1465-3249",
+      "1477-2566"
+    ],
+    "name": "Cytotherapy",
+    "publisher": "Elsevier BV",
+    "homepage": "http://www.journals.elsevier.com/cytotherapy/",
+    "openalex_source_id": "S36838616",
+    "works_per_year": 752,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "mesenchymal stem cell research",
+      "car-t cell therapy research",
+      "hematopoietic stem cell transplantation"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "2001-0370",
+    "issn": [
+      "2001-0370"
+    ],
+    "name": "Computational and Structural Biotechnology Journal",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/computational-and-structural-biotechnology-journal",
+    "openalex_source_id": "S2764539591",
+    "works_per_year": 392,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "rna and protein synthesis mechanisms",
+      "bioinformatics and genomic networks",
+      "computational drug discovery methods"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  },
+  {
+    "issn_l": "0891-5849",
+    "issn": [
+      "0891-5849",
+      "1873-4596"
+    ],
+    "name": "Free Radical Biology and Medicine",
+    "publisher": "Elsevier BV",
+    "homepage": "http://www.journals.elsevier.com/free-radical-biology-and-medicine/#description",
+    "openalex_source_id": "S128018148",
+    "works_per_year": 997,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "nitric oxide and endothelin effects",
+      "redox biology and oxidative stress",
+      "mitochondrial function and pathology"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-05-31"
+  }
+]

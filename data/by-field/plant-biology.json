@@ -21,7 +21,7 @@
       "url": "https://www.nature.com/nplants.rss",
       "status": "live",
       "last_item_date": "2026-05-28",
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "rss",
@@ -33,8 +33,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   },
   {
     "issn_l": "1674-2052",
@@ -47,7 +47,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.journals.elsevier.com/molecular-plant",
     "openalex_source_id": "S150334665",
-    "works_per_year": 157,
+    "works_per_year": 158,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -58,7 +58,7 @@
       "url": "https://www.cell.com/molecular-plant/current.rss",
       "status": "live",
       "last_item_date": "2026-04-15",
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "rss",
@@ -70,8 +70,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   },
   {
     "issn_l": "1360-1385",
@@ -95,7 +95,7 @@
       "url": "https://www.cell.com/trends/plant-science/current.rss",
       "status": "live",
       "last_item_date": "2026-05-01",
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "rss",
@@ -107,8 +107,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   },
   {
     "issn_l": "1040-4651",
@@ -120,7 +120,7 @@
     "publisher": "Oxford University Press",
     "homepage": "http://www.plantcell.org/",
     "openalex_source_id": "S48849333",
-    "works_per_year": 260,
+    "works_per_year": 261,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -132,7 +132,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "crossref",
@@ -143,8 +143,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   },
   {
     "issn_l": "0032-0889",
@@ -168,7 +168,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "crossref",
@@ -179,8 +179,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   },
   {
     "issn_l": "0960-7412",
@@ -192,7 +192,7 @@
     "publisher": "Wiley",
     "homepage": "https://onlinelibrary.wiley.com/journal/1365313X",
     "openalex_source_id": "S67862205",
-    "works_per_year": 560,
+    "works_per_year": 561,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -204,7 +204,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "crossref",
@@ -215,8 +215,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   },
   {
     "issn_l": "0028-646X",
@@ -228,7 +228,7 @@
     "publisher": "Wiley",
     "homepage": "https://nph.onlinelibrary.wiley.com/journal/14698137",
     "openalex_source_id": "S58631098",
-    "works_per_year": 772,
+    "works_per_year": 773,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -240,7 +240,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "crossref",
@@ -251,8 +251,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   },
   {
     "issn_l": "2590-3462",
@@ -275,7 +275,7 @@
       "url": "https://www.cell.com/plant-communications/current.rss",
       "status": "live",
       "last_item_date": "2026-04-29",
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "rss",
@@ -287,8 +287,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   },
   {
     "issn_l": "0022-0957",
@@ -300,7 +300,7 @@
     "publisher": "Oxford University Press",
     "homepage": "http://jxb.oxfordjournals.org/",
     "openalex_source_id": "S32610980",
-    "works_per_year": 444,
+    "works_per_year": 445,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -311,7 +311,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "crossref",
@@ -322,8 +322,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   },
   {
     "issn_l": "1467-7644",
@@ -347,7 +347,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "crossref",
@@ -358,8 +358,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   },
   {
     "issn_l": "1369-5266",
@@ -383,7 +383,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "crossref",
@@ -394,8 +394,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   },
   {
     "issn_l": "1543-5008",
@@ -419,7 +419,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "crossref",
@@ -430,8 +430,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   },
   {
     "issn_l": "0140-7791",
@@ -443,7 +443,7 @@
     "publisher": "Wiley",
     "homepage": "https://onlinelibrary.wiley.com/journal/13653040",
     "openalex_source_id": "S170036492",
-    "works_per_year": 515,
+    "works_per_year": 516,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -455,7 +455,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "crossref",
@@ -466,8 +466,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   },
   {
     "issn_l": "0032-0781",
@@ -491,7 +491,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "crossref",
@@ -502,8 +502,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   },
   {
     "issn_l": "1672-9072",
@@ -526,7 +526,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "crossref",
@@ -537,8 +537,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   },
   {
     "issn_l": "2052-7276",
@@ -562,7 +562,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "crossref",
@@ -573,8 +573,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   },
   {
     "issn_l": "0305-7364",
@@ -598,7 +598,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "crossref",
@@ -609,8 +609,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   },
   {
     "issn_l": "1664-462X",
@@ -621,7 +621,7 @@
     "publisher": "Frontiers Media",
     "homepage": "http://journal.frontiersin.org/journal/plant-science",
     "openalex_source_id": "S2493613807",
-    "works_per_year": 2644,
+    "works_per_year": 2650,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -632,7 +632,7 @@
       "url": "https://www.frontiersin.org/journals/plant-science/rss",
       "status": "live",
       "last_item_date": "2026-05-29",
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "rss",
@@ -644,8 +644,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   },
   {
     "issn_l": "1364-3703",
@@ -657,7 +657,7 @@
     "publisher": "Wiley",
     "homepage": "http://www.blackwellpublishing.com/journal.asp?ref=1464-6722&site=1",
     "openalex_source_id": "S207933444",
-    "works_per_year": 133,
+    "works_per_year": 134,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -669,7 +669,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "crossref",
@@ -680,7 +680,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   }
 ]

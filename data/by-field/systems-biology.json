@@ -22,7 +22,7 @@
       "url": "https://www.cell.com/cell-systems/current.rss",
       "status": "live",
       "last_item_date": "2026-05-20",
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-05-31"
     },
     "backends": [
       "rss",
@@ -34,7 +34,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-05-31",
+    "updated_at": "2026-05-31"
   }
 ]

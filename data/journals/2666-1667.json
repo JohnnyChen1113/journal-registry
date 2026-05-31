@@ -7,7 +7,7 @@
   "publisher": "Elsevier BV",
   "homepage": "https://www.journals.elsevier.com/star-protocols",
   "openalex_source_id": "S4210212477",
-  "works_per_year": 583,
+  "works_per_year": 584,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -18,7 +18,7 @@
     "url": "https://www.cell.com/star-protocols/current.rss",
     "status": "live",
     "last_item_date": "2026-05-29",
-    "last_checked": "2026-05-30"
+    "last_checked": "2026-05-31"
   },
   "backends": [
     "rss",
@@ -30,6 +30,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-05-30",
-  "updated_at": "2026-05-30"
+  "added_at": "2026-05-31",
+  "updated_at": "2026-05-31"
 }
