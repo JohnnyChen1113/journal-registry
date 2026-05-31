@@ -23,6 +23,15 @@ export function toReviewEntries(sources, discoveredAt) {
   }));
 }
 
+// Merge freshly-discovered entries into an existing review queue: keep all existing
+// entries (preserving curation status, incl. 'rejected' tombstones) and append only
+// candidates whose issn_l is not already queued.
+export function mergeReviewQueue(existing, fresh) {
+  const queued = new Set(existing.map((e) => e.issn_l).filter(Boolean));
+  const added = fresh.filter((e) => e.issn_l && !queued.has(e.issn_l));
+  return [...existing, ...added];
+}
+
 async function run() {
   const mailto = process.env.OPENALEX_MAILTO || undefined;
   const today = new Date().toISOString().slice(0, 10);
@@ -35,7 +44,7 @@ async function run() {
   for (const e of registry) {
     if (!e.issn_l) continue;
     try { knownSources.push(await realFetchJson(sourceByIssnUrl(e.issn_l, mailto))); }
-    catch { /* skip unresolvable */ }
+    catch (err) { process.stderr.write(`discover: skipping topics for ${e.issn_l} — ${err.message}\n`); }
   }
   const topicIds = aggregateTopics(knownSources, 25);
 
@@ -45,15 +54,22 @@ async function run() {
 
   // 3. Fetch candidate metadata, build pending review entries.
   const sources = [];
+  if (candidates.length > 100) process.stderr.write(`discover: ${candidates.length} candidates, capping at 100\n`);
   for (const c of candidates.slice(0, 100)) {
     try { sources.push(await realFetchJson(`https://api.openalex.org/sources/${c.sourceId}${mailto ? `?mailto=${mailto}` : ''}`)); }
-    catch { /* skip */ }
+    catch (err) { process.stderr.write(`discover: skipping source ${c.sourceId} — ${err.message}\n`); }
   }
-  const entries = toReviewEntries(sources.filter((s) => s.issn_l), today);
+  const fresh = toReviewEntries(sources.filter((s) => s.issn_l), today);
+
+  const reviewPath = join(ROOT, 'review', 'boundary-review.json');
+  let existing = [];
+  try { existing = JSON.parse(await readFile(reviewPath, 'utf-8')); }
+  catch (e) { if (e.code !== 'ENOENT') throw e; }
+  const merged = mergeReviewQueue(existing, fresh);
 
   await mkdir(join(ROOT, 'review'), { recursive: true });
-  await writeFile(join(ROOT, 'review', 'boundary-review.json'), JSON.stringify(entries, null, 2) + '\n');
-  process.stderr.write(`discover: ${entries.length} candidates queued for review\n`);
+  await writeFile(reviewPath, JSON.stringify(merged, null, 2) + '\n');
+  process.stderr.write(`discover: ${merged.length - existing.length} new candidates queued (${merged.length} total)\n`);
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {

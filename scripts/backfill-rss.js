@@ -54,10 +54,11 @@ async function run() {
     if (updated.rss && updated.rss.status === 'live') {
       const seed = seedByKey.get(normalizeIssn(entry.issn_l) || entry.name);
       if (seed) { seed.rss_url = updated.rss.url; found++; }
+      else { process.stderr.write(`backfill-rss: warning — no seed for "${entry.issn_l || entry.name}"\n`); }
     }
   }
-  await writeFile(seedsPath, JSON.stringify(seeds, null, 2) + '\n');
-  process.stderr.write(`backfill-rss: found ${found} new feeds (written to seeds)\n`);
+  if (found > 0) await writeFile(seedsPath, JSON.stringify(seeds, null, 2) + '\n');
+  process.stderr.write(`backfill-rss: found ${found} new feeds${found > 0 ? ' (written to seeds)' : ''}\n`);
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {
