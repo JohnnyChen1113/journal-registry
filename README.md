@@ -25,3 +25,19 @@ faster "polite pool".
 Each journal lists fetch backends in priority order: `rss` (only when the feed
 is `live`), then `crossref` and `openalex` (whenever an ISSN is known). A
 journal with no working RSS feed is still fully usable via the APIs.
+
+## Growing the registry
+
+Two deterministic CI passes keep the registry fresh (no LLM, no API keys):
+
+- **`node scripts/backfill-rss.js`** — finds real RSS feeds for journals currently
+  served only by API (probes homepage `<link rel=alternate>` + publisher patterns,
+  health-checks them) and writes discovered feed URLs back into the seeds.
+- **`node scripts/discover.js`** — derives the registry's topic fingerprint from its
+  own journals, asks OpenAlex which sources publish heavily in those topics, and
+  queues in-scope newcomers into `review/boundary-review.json` (`status: pending`).
+
+Curation is on-demand and human-approved: follow `prompts/curate-candidates.md` to
+mark entries `approved`/`rejected`, then `node scripts/promote.js` appends approved
+journals to the seeds and `node scripts/build.js` regenerates. The seed file stays
+the single source of truth.
