@@ -28,3 +28,15 @@ test('patternFeedUrls derives Nature and Cell feed URLs from homepage', () => {
   );
   assert.deepEqual(patternFeedUrls({ homepage: 'https://academic.oup.com/nar' }), []);
 });
+
+test('patternFeedUrls handles a Nature /home homepage suffix', () => {
+  assert.deepEqual(
+    patternFeedUrls({ homepage: 'https://www.nature.com/nbt/home' }),
+    ['https://www.nature.com/nbt.rss']
+  );
+});
+
+test('extractFeedLinks accepts an unquoted type attribute', () => {
+  const html = '<link rel="alternate" type=application/rss+xml href="https://x.org/f.rss">';
+  assert.deepEqual(extractFeedLinks(html, 'https://x.org'), ['https://x.org/f.rss']);
+});
