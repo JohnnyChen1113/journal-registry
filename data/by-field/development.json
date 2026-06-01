@@ -21,7 +21,7 @@
       "url": "https://www.cell.com/developmental-cell/current.rss",
       "status": "live",
       "last_item_date": "2026-05-13",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -33,8 +33,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1875-9777",
@@ -58,7 +58,7 @@
       "url": "https://www.cell.com/cell-stem-cell/current.rss",
       "status": "live",
       "last_item_date": "2026-05-07",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -70,7 +70,42 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "2296-634X",
+    "issn": [
+      "2296-634X"
+    ],
+    "name": "Frontiers in Cell and Developmental Biology",
+    "publisher": "Frontiers Media",
+    "homepage": "http://www.frontiersin.org/cell_and_developmental_biology",
+    "openalex_source_id": "S2596924766",
+    "works_per_year": 900,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "cell-biology",
+      "development"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   }
 ]

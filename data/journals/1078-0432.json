@@ -1,0 +1,36 @@
+{
+  "issn_l": "1078-0432",
+  "issn": [
+    "1078-0432",
+    "1557-3265"
+  ],
+  "name": "Clinical Cancer Research",
+  "publisher": "American Association for Cancer Research",
+  "homepage": "http://clincancerres.aacrjournals.org/",
+  "openalex_source_id": "S183149254",
+  "works_per_year": 1955,
+  "oa_status": "closed",
+  "domain": "medicine",
+  "field_tags": [
+    "oncology",
+    "clinical"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

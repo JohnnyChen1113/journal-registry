@@ -1,0 +1,35 @@
+{
+  "issn_l": "1471-2164",
+  "issn": [
+    "1471-2164"
+  ],
+  "name": "BMC Genomics",
+  "publisher": "BioMed Central",
+  "homepage": "https://bmcgenomics.biomedcentral.com/",
+  "openalex_source_id": "S28614077",
+  "works_per_year": 1020,
+  "oa_status": "oa",
+  "domain": "core-bio",
+  "field_tags": [
+    "genomics",
+    "genetics"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

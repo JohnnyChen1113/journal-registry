@@ -1,0 +1,36 @@
+{
+  "issn_l": "0892-6638",
+  "issn": [
+    "0892-6638",
+    "1530-6860"
+  ],
+  "name": "The FASEB Journal",
+  "publisher": "Wiley",
+  "homepage": "http://www.fasebj.org/",
+  "openalex_source_id": "S25293849",
+  "works_per_year": 838,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "biochemistry",
+    "cell-biology"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

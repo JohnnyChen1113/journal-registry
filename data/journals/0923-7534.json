@@ -1,0 +1,36 @@
+{
+  "issn_l": "0923-7534",
+  "issn": [
+    "0923-7534",
+    "1569-8041"
+  ],
+  "name": "Annals of Oncology",
+  "publisher": "Elsevier BV",
+  "homepage": "https://www.sciencedirect.com/journal/annals-of-oncology",
+  "openalex_source_id": "S41454044",
+  "works_per_year": 3196,
+  "oa_status": "closed",
+  "domain": "medicine",
+  "field_tags": [
+    "oncology",
+    "clinical"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

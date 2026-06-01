@@ -1,0 +1,35 @@
+{
+  "issn_l": "1479-5876",
+  "issn": [
+    "1479-5876"
+  ],
+  "name": "Journal of Translational Medicine",
+  "publisher": "BioMed Central",
+  "homepage": "https://translational-medicine.biomedcentral.com/",
+  "openalex_source_id": "S142026636",
+  "works_per_year": 1165,
+  "oa_status": "oa",
+  "domain": "medicine",
+  "field_tags": [
+    "clinical",
+    "oncology"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

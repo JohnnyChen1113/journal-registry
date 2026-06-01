@@ -1,0 +1,35 @@
+{
+  "issn_l": "2041-4889",
+  "issn": [
+    "2041-4889"
+  ],
+  "name": "Cell Death and Disease",
+  "publisher": "Springer Nature",
+  "homepage": "https://www.nature.com/cddis/",
+  "openalex_source_id": "S185208586",
+  "works_per_year": 837,
+  "oa_status": "oa",
+  "domain": "core-bio",
+  "field_tags": [
+    "cell-biology",
+    "cancer-biology"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

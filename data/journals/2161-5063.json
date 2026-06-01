@@ -1,0 +1,35 @@
+{
+  "issn_l": "2161-5063",
+  "issn": [
+    "2161-5063"
+  ],
+  "name": "ACS Synthetic Biology",
+  "publisher": "American Chemical Society",
+  "homepage": "http://pubs.acs.org/journal/asbcd6",
+  "openalex_source_id": "S54167817",
+  "works_per_year": 355,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "genetics",
+    "molecular-biology"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

@@ -1,0 +1,35 @@
+{
+  "issn_l": "2001-0370",
+  "issn": [
+    "2001-0370"
+  ],
+  "name": "Computational and Structural Biotechnology Journal",
+  "publisher": "Elsevier BV",
+  "homepage": "https://www.journals.elsevier.com/computational-and-structural-biotechnology-journal",
+  "openalex_source_id": "S2764539591",
+  "works_per_year": 392,
+  "oa_status": "oa",
+  "domain": "core-bio",
+  "field_tags": [
+    "bioinformatics",
+    "structural-biology"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

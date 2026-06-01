@@ -1,0 +1,36 @@
+{
+  "issn_l": "0006-291X",
+  "issn": [
+    "0006-291X",
+    "1090-2104"
+  ],
+  "name": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "homepage": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622790/description",
+  "openalex_source_id": "S151589183",
+  "works_per_year": 1227,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "biochemistry",
+    "molecular-biology"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

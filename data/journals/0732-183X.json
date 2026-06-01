@@ -1,0 +1,36 @@
+{
+  "issn_l": "0732-183X",
+  "issn": [
+    "0732-183X",
+    "1527-7755"
+  ],
+  "name": "Journal of Clinical Oncology",
+  "publisher": "Lippincott Williams & Wilkins",
+  "homepage": "http://www.jco.org/",
+  "openalex_source_id": "S15137598",
+  "works_per_year": 8689,
+  "oa_status": "closed",
+  "domain": "medicine",
+  "field_tags": [
+    "oncology",
+    "clinical"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

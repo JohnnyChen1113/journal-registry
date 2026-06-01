@@ -1,0 +1,35 @@
+{
+  "issn_l": "2165-0497",
+  "issn": [
+    "2165-0497"
+  ],
+  "name": "Microbiology Spectrum",
+  "publisher": "American Society for Microbiology",
+  "homepage": "https://journals.asm.org/journal/spectrum",
+  "openalex_source_id": "S2764766708",
+  "works_per_year": 1207,
+  "oa_status": "oa",
+  "domain": "core-bio",
+  "field_tags": [
+    "microbiology",
+    "infectious-disease"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

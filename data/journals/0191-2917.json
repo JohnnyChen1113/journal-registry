@@ -1,0 +1,36 @@
+{
+  "issn_l": "0191-2917",
+  "issn": [
+    "0191-2917",
+    "1943-7692"
+  ],
+  "name": "Plant Disease",
+  "publisher": "American Phytopathological Society",
+  "homepage": null,
+  "openalex_source_id": "S135458494",
+  "works_per_year": 783,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "plant-biology",
+    "microbiology"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

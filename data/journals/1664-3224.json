@@ -1,0 +1,34 @@
+{
+  "issn_l": "1664-3224",
+  "issn": [
+    "1664-3224"
+  ],
+  "name": "Frontiers in Immunology",
+  "publisher": "Frontiers Media",
+  "homepage": "http://journal.frontiersin.org/journal/immunology",
+  "openalex_source_id": "S2595292759",
+  "works_per_year": 5553,
+  "oa_status": "oa",
+  "domain": "core-bio",
+  "field_tags": [
+    "immunology"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

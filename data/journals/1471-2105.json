@@ -1,0 +1,35 @@
+{
+  "issn_l": "1471-2105",
+  "issn": [
+    "1471-2105"
+  ],
+  "name": "BMC Bioinformatics",
+  "publisher": "BioMed Central",
+  "homepage": "http://www.biomedcentral.com/bmcbioinformatics/",
+  "openalex_source_id": "S19032547",
+  "works_per_year": 287,
+  "oa_status": "oa",
+  "domain": "core-bio",
+  "field_tags": [
+    "bioinformatics",
+    "methods"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

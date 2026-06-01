@@ -1,0 +1,36 @@
+{
+  "issn_l": "0301-4851",
+  "issn": [
+    "0301-4851",
+    "1573-4978"
+  ],
+  "name": "Molecular Biology Reports",
+  "publisher": "Springer Nature",
+  "homepage": "https://www.springer.com/journal/11033",
+  "openalex_source_id": "S197962172",
+  "works_per_year": 1012,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "molecular-biology",
+    "genetics"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

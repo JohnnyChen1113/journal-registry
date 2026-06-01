@@ -8,7 +8,7 @@
   "publisher": "Elsevier BV",
   "homepage": "https://www.sciencedirect.com/journal/biophysical-journal",
   "openalex_source_id": "S98085912",
-  "works_per_year": 2956,
+  "works_per_year": 2957,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -19,7 +19,7 @@
     "url": "https://www.cell.com/biophysj/current.rss",
     "status": "live",
     "last_item_date": "2026-05-19",
-    "last_checked": "2026-05-31"
+    "last_checked": "2026-06-01"
   },
   "backends": [
     "rss",
@@ -31,6 +31,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-05-31",
-  "updated_at": "2026-05-31"
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
 }

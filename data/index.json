@@ -1478,5 +1478,669 @@
       "crossref",
       "openalex"
     ]
+  },
+  {
+    "issn_l": "0008-5472",
+    "name": "Cancer Research",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "cancer-biology"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0732-183X",
+    "name": "Journal of Clinical Oncology",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "clinical"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0021-9258",
+    "name": "Journal of Biological Chemistry",
+    "domain": "core-bio",
+    "field_tags": [
+      "biochemistry",
+      "molecular-biology"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1664-3224",
+    "name": "Frontiers in Immunology",
+    "domain": "core-bio",
+    "field_tags": [
+      "immunology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1471-2229",
+    "name": "BMC Plant Biology",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "molecular-biology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1664-302X",
+    "name": "Frontiers in Microbiology",
+    "domain": "core-bio",
+    "field_tags": [
+      "microbiology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2576-098X",
+    "name": "Microbiology Resource Announcements",
+    "domain": "core-bio",
+    "field_tags": [
+      "microbiology",
+      "genomics"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1471-2164",
+    "name": "BMC Genomics",
+    "domain": "core-bio",
+    "field_tags": [
+      "genomics",
+      "genetics"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0022-1767",
+    "name": "The Journal of Immunology",
+    "domain": "core-bio",
+    "field_tags": [
+      "immunology"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1467-5463",
+    "name": "Briefings in Bioinformatics",
+    "domain": "core-bio",
+    "field_tags": [
+      "bioinformatics",
+      "genomics"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0981-9428",
+    "name": "Plant Physiology and Biochemistry",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "biochemistry"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1466-5026",
+    "name": "INTERNATIONAL JOURNAL OF SYSTEMATIC AND EVOLUTIONARY MICROBIOLOGY",
+    "domain": "core-bio",
+    "field_tags": [
+      "microbiology",
+      "evolution"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1078-0432",
+    "name": "Clinical Cancer Research",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "clinical"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0167-6857",
+    "name": "Plant Cell Tissue and Organ Culture (PCTOC)",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "methods"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2041-4889",
+    "name": "Cell Death and Disease",
+    "domain": "core-bio",
+    "field_tags": [
+      "cell-biology",
+      "cancer-biology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1940-087X",
+    "name": "Journal of Visualized Experiments",
+    "domain": "core-bio",
+    "field_tags": [
+      "methods"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2730-6011",
+    "name": "Discover Oncology",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "cancer-biology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2234-943X",
+    "name": "Frontiers in Oncology",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "cancer-biology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0923-7534",
+    "name": "Annals of Oncology",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "clinical"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0031-9317",
+    "name": "Physiologia Plantarum",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1479-5876",
+    "name": "Journal of Translational Medicine",
+    "domain": "medicine",
+    "field_tags": [
+      "clinical",
+      "oncology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0191-2917",
+    "name": "Plant Disease",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "microbiology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0022-2836",
+    "name": "Journal of Molecular Biology",
+    "domain": "core-bio",
+    "field_tags": [
+      "molecular-biology",
+      "structural-biology"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0168-9452",
+    "name": "Plant Science",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "molecular-biology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0006-291X",
+    "name": "Biochemical and Biophysical Research Communications",
+    "domain": "core-bio",
+    "field_tags": [
+      "biochemistry",
+      "molecular-biology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1553-734X",
+    "name": "PLoS Computational Biology",
+    "domain": "core-bio",
+    "field_tags": [
+      "bioinformatics",
+      "systems-biology"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0301-4851",
+    "name": "Molecular Biology Reports",
+    "domain": "core-bio",
+    "field_tags": [
+      "molecular-biology",
+      "genetics"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0885-5765",
+    "name": "Physiological and Molecular Plant Pathology",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "microbiology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2296-634X",
+    "name": "Frontiers in Cell and Developmental Biology",
+    "domain": "core-bio",
+    "field_tags": [
+      "cell-biology",
+      "development"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0721-7714",
+    "name": "Plant Cell Reports",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "molecular-biology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2165-0497",
+    "name": "Microbiology Spectrum",
+    "domain": "core-bio",
+    "field_tags": [
+      "microbiology",
+      "infectious-disease"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2161-5063",
+    "name": "ACS Synthetic Biology",
+    "domain": "core-bio",
+    "field_tags": [
+      "genetics",
+      "molecular-biology"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0343-8651",
+    "name": "Current Microbiology",
+    "domain": "core-bio",
+    "field_tags": [
+      "microbiology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2059-7029",
+    "name": "ESMO Open",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "clinical"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2150-7511",
+    "name": "mBio",
+    "domain": "core-bio",
+    "field_tags": [
+      "microbiology"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1664-8021",
+    "name": "Frontiers in Genetics",
+    "domain": "core-bio",
+    "field_tags": [
+      "genetics",
+      "genomics"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2631-9268",
+    "name": "NAR Genomics and Bioinformatics",
+    "domain": "core-bio",
+    "field_tags": [
+      "bioinformatics",
+      "genomics"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1471-2180",
+    "name": "BMC Microbiology",
+    "domain": "core-bio",
+    "field_tags": [
+      "microbiology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0892-6638",
+    "name": "The FASEB Journal",
+    "domain": "core-bio",
+    "field_tags": [
+      "biochemistry",
+      "cell-biology"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1355-8382",
+    "name": "RNA",
+    "domain": "core-bio",
+    "field_tags": [
+      "molecular-biology",
+      "biochemistry"
+    ],
+    "tier": "top",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1868-7075",
+    "name": "Clinical Epigenetics",
+    "domain": "core-bio",
+    "field_tags": [
+      "genetics",
+      "molecular-biology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0304-8608",
+    "name": "Archives of Virology",
+    "domain": "core-bio",
+    "field_tags": [
+      "microbiology",
+      "infectious-disease"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1471-2105",
+    "name": "BMC Bioinformatics",
+    "domain": "core-bio",
+    "field_tags": [
+      "bioinformatics",
+      "methods"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2397-768X",
+    "name": "npj Precision Oncology",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "genomics"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1125-4653",
+    "name": "Journal of Plant Pathology",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "microbiology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "1465-3249",
+    "name": "Cytotherapy",
+    "domain": "medicine",
+    "field_tags": [
+      "hematology",
+      "clinical"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "2001-0370",
+    "name": "Computational and Structural Biotechnology Journal",
+    "domain": "core-bio",
+    "field_tags": [
+      "bioinformatics",
+      "structural-biology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
+  },
+  {
+    "issn_l": "0891-5849",
+    "name": "Free Radical Biology and Medicine",
+    "domain": "core-bio",
+    "field_tags": [
+      "biochemistry",
+      "cell-biology"
+    ],
+    "tier": "specialist",
+    "backends": [
+      "crossref",
+      "openalex"
+    ]
   }
 ]

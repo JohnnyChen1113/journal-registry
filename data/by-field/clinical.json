@@ -9,7 +9,7 @@
     "publisher": "Massachusetts Medical Society",
     "homepage": "http://www.nejm.org/",
     "openalex_source_id": "S62468778",
-    "works_per_year": 823,
+    "works_per_year": 826,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -21,7 +21,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -32,8 +32,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0140-6736",
@@ -57,7 +57,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -68,8 +68,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0098-7484",
@@ -81,7 +81,7 @@
     "publisher": "American Medical Association",
     "homepage": "http://jama.ama-assn.org/",
     "openalex_source_id": "S172573765",
-    "works_per_year": 1488,
+    "works_per_year": 1489,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -93,7 +93,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -104,8 +104,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0959-8138",
@@ -128,7 +128,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -139,8 +139,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0003-4819",
@@ -164,7 +164,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -175,8 +175,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "2666-6340",
@@ -200,7 +200,7 @@
       "url": "https://www.cell.com/med/current.rss",
       "status": "live",
       "last_item_date": "2026-05-08",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -212,8 +212,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1470-2045",
@@ -237,7 +237,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -248,8 +248,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1473-3099",
@@ -273,7 +273,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -284,8 +284,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "2374-2437",
@@ -309,7 +309,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -320,8 +320,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0006-4971",
@@ -345,7 +345,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -356,8 +356,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0009-7322",
@@ -381,7 +381,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -392,7 +392,221 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "0732-183X",
+    "issn": [
+      "0732-183X",
+      "1527-7755"
+    ],
+    "name": "Journal of Clinical Oncology",
+    "publisher": "Lippincott Williams & Wilkins",
+    "homepage": "http://www.jco.org/",
+    "openalex_source_id": "S15137598",
+    "works_per_year": 8689,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "clinical"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "1078-0432",
+    "issn": [
+      "1078-0432",
+      "1557-3265"
+    ],
+    "name": "Clinical Cancer Research",
+    "publisher": "American Association for Cancer Research",
+    "homepage": "http://clincancerres.aacrjournals.org/",
+    "openalex_source_id": "S183149254",
+    "works_per_year": 1955,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "clinical"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "0923-7534",
+    "issn": [
+      "0923-7534",
+      "1569-8041"
+    ],
+    "name": "Annals of Oncology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/annals-of-oncology",
+    "openalex_source_id": "S41454044",
+    "works_per_year": 3196,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "clinical"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "1479-5876",
+    "issn": [
+      "1479-5876"
+    ],
+    "name": "Journal of Translational Medicine",
+    "publisher": "BioMed Central",
+    "homepage": "https://translational-medicine.biomedcentral.com/",
+    "openalex_source_id": "S142026636",
+    "works_per_year": 1165,
+    "oa_status": "oa",
+    "domain": "medicine",
+    "field_tags": [
+      "clinical",
+      "oncology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "2059-7029",
+    "issn": [
+      "2059-7029"
+    ],
+    "name": "ESMO Open",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/esmo-open",
+    "openalex_source_id": "S4210217024",
+    "works_per_year": 1510,
+    "oa_status": "oa",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "clinical"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "1465-3249",
+    "issn": [
+      "1465-3249",
+      "1477-2566"
+    ],
+    "name": "Cytotherapy",
+    "publisher": "Elsevier BV",
+    "homepage": "http://www.journals.elsevier.com/cytotherapy/",
+    "openalex_source_id": "S36838616",
+    "works_per_year": 752,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "hematology",
+      "clinical"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   }
 ]

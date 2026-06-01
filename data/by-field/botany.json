@@ -9,7 +9,7 @@
     "publisher": "Oxford University Press",
     "homepage": "http://aob.oxfordjournals.org/",
     "openalex_source_id": "S2254258",
-    "works_per_year": 237,
+    "works_per_year": 238,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -21,7 +21,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -32,7 +32,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   }
 ]

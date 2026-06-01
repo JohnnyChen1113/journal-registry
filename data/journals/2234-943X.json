@@ -1,0 +1,35 @@
+{
+  "issn_l": "2234-943X",
+  "issn": [
+    "2234-943X"
+  ],
+  "name": "Frontiers in Oncology",
+  "publisher": "Frontiers Media",
+  "homepage": "http://www.frontiersin.org/oncology",
+  "openalex_source_id": "S2596394214",
+  "works_per_year": 3636,
+  "oa_status": "oa",
+  "domain": "medicine",
+  "field_tags": [
+    "oncology",
+    "cancer-biology"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

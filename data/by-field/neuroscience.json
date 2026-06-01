@@ -19,8 +19,8 @@
     "rss": {
       "url": "https://www.nature.com/neuro.rss",
       "status": "live",
-      "last_item_date": "2026-05-29",
-      "last_checked": "2026-05-31"
+      "last_item_date": "2026-06-01",
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -32,8 +32,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1471-003X",
@@ -57,7 +57,7 @@
       "url": "https://www.nature.com/nrn.rss",
       "status": "live",
       "last_item_date": "2026-05-21",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -69,8 +69,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0896-6273",
@@ -93,7 +93,7 @@
       "url": "https://www.cell.com/neuron/current.rss",
       "status": "live",
       "last_item_date": "2026-05-20",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -105,8 +105,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0166-2236",
@@ -130,7 +130,7 @@
       "url": "https://www.cell.com/trends/neurosciences/current.rss",
       "status": "live",
       "last_item_date": "2026-05-01",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -142,7 +142,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   }
 ]

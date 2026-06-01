@@ -1,0 +1,36 @@
+{
+  "issn_l": "0008-5472",
+  "issn": [
+    "0008-5472",
+    "1538-7445"
+  ],
+  "name": "Cancer Research",
+  "publisher": "American Association for Cancer Research",
+  "homepage": "http://cancerres.aacrjournals.org/",
+  "openalex_source_id": "S168522863",
+  "works_per_year": 9207,
+  "oa_status": "closed",
+  "domain": "medicine",
+  "field_tags": [
+    "oncology",
+    "cancer-biology"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

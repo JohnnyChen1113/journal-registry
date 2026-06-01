@@ -1,0 +1,35 @@
+{
+  "issn_l": "2730-6011",
+  "issn": [
+    "2730-6011"
+  ],
+  "name": "Discover Oncology",
+  "publisher": "Springer Nature",
+  "homepage": "https://www.springer.com/journal/12672",
+  "openalex_source_id": "S4210213696",
+  "works_per_year": 1431,
+  "oa_status": "oa",
+  "domain": "medicine",
+  "field_tags": [
+    "oncology",
+    "cancer-biology"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

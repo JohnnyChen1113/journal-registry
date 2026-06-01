@@ -9,7 +9,7 @@
   "publisher": "Oxford University Press",
   "homepage": "http://nar.oxfordjournals.org/",
   "openalex_source_id": "S134668137",
-  "works_per_year": 1133,
+  "works_per_year": 1135,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -21,7 +21,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-05-31"
+    "last_checked": "2026-06-01"
   },
   "backends": [
     "crossref",
@@ -32,6 +32,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-05-31",
-  "updated_at": "2026-05-31"
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
 }

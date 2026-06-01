@@ -20,8 +20,8 @@
     "rss": {
       "url": "https://www.nature.com/ng.rss",
       "status": "live",
-      "last_item_date": "2026-05-28",
-      "last_checked": "2026-05-31"
+      "last_item_date": "2026-06-01",
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -33,8 +33,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0002-9297",
@@ -58,7 +58,7 @@
       "url": "https://www.cell.com/ajhg/current.rss",
       "status": "live",
       "last_item_date": "2026-05-07",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -70,8 +70,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1553-7390",
@@ -94,8 +94,8 @@
     "rss": {
       "url": "https://journals.plos.org/plosgenetics/feed/atom",
       "status": "live",
-      "last_item_date": "2026-05-28",
-      "last_checked": "2026-05-31"
+      "last_item_date": "2026-06-01",
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -107,8 +107,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "2160-1836",
@@ -131,7 +131,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -142,8 +142,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1471-0056",
@@ -168,7 +168,7 @@
       "url": "https://www.nature.com/nrg.rss",
       "status": "live",
       "last_item_date": "2026-05-29",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -180,8 +180,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0168-9525",
@@ -204,8 +204,8 @@
     "rss": {
       "url": "https://www.cell.com/trends/genetics/current.rss",
       "status": "live",
-      "last_item_date": "2026-05-01",
-      "last_checked": "2026-05-31"
+      "last_item_date": "2026-06-01",
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -217,7 +217,184 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "1471-2164",
+    "issn": [
+      "1471-2164"
+    ],
+    "name": "BMC Genomics",
+    "publisher": "BioMed Central",
+    "homepage": "https://bmcgenomics.biomedcentral.com/",
+    "openalex_source_id": "S28614077",
+    "works_per_year": 1020,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "genomics",
+      "genetics"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "0301-4851",
+    "issn": [
+      "0301-4851",
+      "1573-4978"
+    ],
+    "name": "Molecular Biology Reports",
+    "publisher": "Springer Nature",
+    "homepage": "https://www.springer.com/journal/11033",
+    "openalex_source_id": "S197962172",
+    "works_per_year": 1012,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "molecular-biology",
+      "genetics"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "2161-5063",
+    "issn": [
+      "2161-5063"
+    ],
+    "name": "ACS Synthetic Biology",
+    "publisher": "American Chemical Society",
+    "homepage": "http://pubs.acs.org/journal/asbcd6",
+    "openalex_source_id": "S54167817",
+    "works_per_year": 355,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "genetics",
+      "molecular-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "1664-8021",
+    "issn": [
+      "1664-8021"
+    ],
+    "name": "Frontiers in Genetics",
+    "publisher": "Frontiers Media",
+    "homepage": "http://journal.frontiersin.org/journal/genetics",
+    "openalex_source_id": "S2597340651",
+    "works_per_year": 828,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "genetics",
+      "genomics"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "1868-7075",
+    "issn": [
+      "1868-7075",
+      "1868-7083"
+    ],
+    "name": "Clinical Epigenetics",
+    "publisher": "BioMed Central",
+    "homepage": "https://link.springer.com/journal/13148",
+    "openalex_source_id": "S200416800",
+    "works_per_year": 184,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "genetics",
+      "molecular-biology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   }
 ]

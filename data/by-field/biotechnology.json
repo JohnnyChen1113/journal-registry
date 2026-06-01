@@ -21,7 +21,7 @@
       "url": "https://www.nature.com/nbt.rss",
       "status": "live",
       "last_item_date": "2026-05-29",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -33,8 +33,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0167-7799",
@@ -59,7 +59,7 @@
       "url": "https://www.cell.com/trends/biotechnology/current.rss",
       "status": "live",
       "last_item_date": "2026-05-01",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -71,8 +71,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1467-7644",
@@ -84,7 +84,7 @@
     "publisher": "Wiley",
     "homepage": "https://onlinelibrary.wiley.com/journal/14677652",
     "openalex_source_id": "S36510773",
-    "works_per_year": 358,
+    "works_per_year": 359,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -96,7 +96,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -107,7 +107,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   }
 ]

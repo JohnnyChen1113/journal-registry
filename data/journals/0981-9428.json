@@ -1,0 +1,36 @@
+{
+  "issn_l": "0981-9428",
+  "issn": [
+    "0981-9428",
+    "1873-2690"
+  ],
+  "name": "Plant Physiology and Biochemistry",
+  "publisher": "Elsevier BV",
+  "homepage": "https://www.journals.elsevier.com/plant-physiology-and-biochemistry",
+  "openalex_source_id": "S115455909",
+  "works_per_year": 946,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "plant-biology",
+    "biochemistry"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

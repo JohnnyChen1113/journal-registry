@@ -21,7 +21,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -32,7 +32,43 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "1465-3249",
+    "issn": [
+      "1465-3249",
+      "1477-2566"
+    ],
+    "name": "Cytotherapy",
+    "publisher": "Elsevier BV",
+    "homepage": "http://www.journals.elsevier.com/cytotherapy/",
+    "openalex_source_id": "S36838616",
+    "works_per_year": 752,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "hematology",
+      "clinical"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   }
 ]

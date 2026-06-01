@@ -1,0 +1,36 @@
+{
+  "issn_l": "1868-7075",
+  "issn": [
+    "1868-7075",
+    "1868-7083"
+  ],
+  "name": "Clinical Epigenetics",
+  "publisher": "BioMed Central",
+  "homepage": "https://link.springer.com/journal/13148",
+  "openalex_source_id": "S200416800",
+  "works_per_year": 184,
+  "oa_status": "oa",
+  "domain": "core-bio",
+  "field_tags": [
+    "genetics",
+    "molecular-biology"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

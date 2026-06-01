@@ -1,0 +1,36 @@
+{
+  "issn_l": "0721-7714",
+  "issn": [
+    "0721-7714",
+    "1432-203X"
+  ],
+  "name": "Plant Cell Reports",
+  "publisher": "Springer Science+Business Media",
+  "homepage": "http://www.springer.com/life+sciences/cell+biology/journal/299",
+  "openalex_source_id": "S196783408",
+  "works_per_year": 249,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "plant-biology",
+    "molecular-biology"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

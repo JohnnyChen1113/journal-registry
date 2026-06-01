@@ -21,7 +21,7 @@
       "url": "https://www.cell.com/cell/current.rss",
       "status": "live",
       "last_item_date": "2026-05-28",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -33,8 +33,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0960-9822",
@@ -58,7 +58,7 @@
       "url": "https://www.cell.com/current-biology/current.rss",
       "status": "live",
       "last_item_date": "2026-05-18",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -70,8 +70,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1097-2765",
@@ -95,7 +95,7 @@
       "url": "https://www.cell.com/molecular-cell/current.rss",
       "status": "live",
       "last_item_date": "2026-05-21",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -107,8 +107,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1465-7392",
@@ -130,8 +130,8 @@
     "rss": {
       "url": "https://www.nature.com/ncb.rss",
       "status": "live",
-      "last_item_date": "2026-05-28",
-      "last_checked": "2026-05-31"
+      "last_item_date": "2026-06-01",
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -143,8 +143,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1534-5807",
@@ -168,7 +168,7 @@
       "url": "https://www.cell.com/developmental-cell/current.rss",
       "status": "live",
       "last_item_date": "2026-05-13",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -180,8 +180,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0261-4189",
@@ -205,7 +205,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -216,8 +216,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "2211-1247",
@@ -240,8 +240,8 @@
     "rss": {
       "url": "https://www.cell.com/cell-reports/current.rss",
       "status": "live",
-      "last_item_date": "2026-05-29",
-      "last_checked": "2026-05-31"
+      "last_item_date": "2026-06-01",
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -253,8 +253,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1471-0072",
@@ -279,7 +279,7 @@
       "url": "https://www.nature.com/nrm.rss",
       "status": "live",
       "last_item_date": "2026-05-29",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -291,8 +291,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0962-8924",
@@ -316,7 +316,7 @@
       "url": "https://www.cell.com/trends/cell-biology/current.rss",
       "status": "live",
       "last_item_date": "2026-05-01",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -328,8 +328,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1040-4651",
@@ -341,7 +341,7 @@
     "publisher": "Oxford University Press",
     "homepage": "http://www.plantcell.org/",
     "openalex_source_id": "S48849333",
-    "works_per_year": 261,
+    "works_per_year": 262,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -353,7 +353,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -364,7 +364,149 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "2041-4889",
+    "issn": [
+      "2041-4889"
+    ],
+    "name": "Cell Death and Disease",
+    "publisher": "Springer Nature",
+    "homepage": "https://www.nature.com/cddis/",
+    "openalex_source_id": "S185208586",
+    "works_per_year": 837,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "cell-biology",
+      "cancer-biology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "2296-634X",
+    "issn": [
+      "2296-634X"
+    ],
+    "name": "Frontiers in Cell and Developmental Biology",
+    "publisher": "Frontiers Media",
+    "homepage": "http://www.frontiersin.org/cell_and_developmental_biology",
+    "openalex_source_id": "S2596924766",
+    "works_per_year": 900,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "cell-biology",
+      "development"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "0892-6638",
+    "issn": [
+      "0892-6638",
+      "1530-6860"
+    ],
+    "name": "The FASEB Journal",
+    "publisher": "Wiley",
+    "homepage": "http://www.fasebj.org/",
+    "openalex_source_id": "S25293849",
+    "works_per_year": 838,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "biochemistry",
+      "cell-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "0891-5849",
+    "issn": [
+      "0891-5849",
+      "1873-4596"
+    ],
+    "name": "Free Radical Biology and Medicine",
+    "publisher": "Elsevier BV",
+    "homepage": "http://www.journals.elsevier.com/free-radical-biology-and-medicine/#description",
+    "openalex_source_id": "S128018148",
+    "works_per_year": 997,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "biochemistry",
+      "cell-biology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   }
 ]

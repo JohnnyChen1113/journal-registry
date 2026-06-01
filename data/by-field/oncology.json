@@ -21,7 +21,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -32,8 +32,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "2374-2437",
@@ -57,7 +57,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -68,8 +68,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1535-6108",
@@ -93,7 +93,7 @@
       "url": "https://www.cell.com/cancer-cell/current.rss",
       "status": "live",
       "last_item_date": "2026-05-11",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -105,8 +105,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "2662-1347",
@@ -129,7 +129,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -140,8 +140,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1474-175X",
@@ -164,8 +164,8 @@
     "rss": {
       "url": "https://www.nature.com/nrc.rss",
       "status": "live",
-      "last_item_date": "2026-05-29",
-      "last_checked": "2026-05-31"
+      "last_item_date": "2026-06-01",
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -177,8 +177,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "2405-8025",
@@ -190,7 +190,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.sciencedirect.com/journal/trends-in-cancer",
     "openalex_source_id": "S2765069123",
-    "works_per_year": 110,
+    "works_per_year": 111,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -202,7 +202,7 @@
       "url": "https://www.cell.com/trends/cancer/current.rss",
       "status": "live",
       "last_item_date": "2026-05-01",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -214,7 +214,326 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "0008-5472",
+    "issn": [
+      "0008-5472",
+      "1538-7445"
+    ],
+    "name": "Cancer Research",
+    "publisher": "American Association for Cancer Research",
+    "homepage": "http://cancerres.aacrjournals.org/",
+    "openalex_source_id": "S168522863",
+    "works_per_year": 9207,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "cancer-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "0732-183X",
+    "issn": [
+      "0732-183X",
+      "1527-7755"
+    ],
+    "name": "Journal of Clinical Oncology",
+    "publisher": "Lippincott Williams & Wilkins",
+    "homepage": "http://www.jco.org/",
+    "openalex_source_id": "S15137598",
+    "works_per_year": 8689,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "clinical"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "1078-0432",
+    "issn": [
+      "1078-0432",
+      "1557-3265"
+    ],
+    "name": "Clinical Cancer Research",
+    "publisher": "American Association for Cancer Research",
+    "homepage": "http://clincancerres.aacrjournals.org/",
+    "openalex_source_id": "S183149254",
+    "works_per_year": 1955,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "clinical"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "2730-6011",
+    "issn": [
+      "2730-6011"
+    ],
+    "name": "Discover Oncology",
+    "publisher": "Springer Nature",
+    "homepage": "https://www.springer.com/journal/12672",
+    "openalex_source_id": "S4210213696",
+    "works_per_year": 1431,
+    "oa_status": "oa",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "cancer-biology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "2234-943X",
+    "issn": [
+      "2234-943X"
+    ],
+    "name": "Frontiers in Oncology",
+    "publisher": "Frontiers Media",
+    "homepage": "http://www.frontiersin.org/oncology",
+    "openalex_source_id": "S2596394214",
+    "works_per_year": 3636,
+    "oa_status": "oa",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "cancer-biology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "0923-7534",
+    "issn": [
+      "0923-7534",
+      "1569-8041"
+    ],
+    "name": "Annals of Oncology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/annals-of-oncology",
+    "openalex_source_id": "S41454044",
+    "works_per_year": 3196,
+    "oa_status": "closed",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "clinical"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "1479-5876",
+    "issn": [
+      "1479-5876"
+    ],
+    "name": "Journal of Translational Medicine",
+    "publisher": "BioMed Central",
+    "homepage": "https://translational-medicine.biomedcentral.com/",
+    "openalex_source_id": "S142026636",
+    "works_per_year": 1165,
+    "oa_status": "oa",
+    "domain": "medicine",
+    "field_tags": [
+      "clinical",
+      "oncology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "2059-7029",
+    "issn": [
+      "2059-7029"
+    ],
+    "name": "ESMO Open",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/esmo-open",
+    "openalex_source_id": "S4210217024",
+    "works_per_year": 1510,
+    "oa_status": "oa",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "clinical"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "2397-768X",
+    "issn": [
+      "2397-768X"
+    ],
+    "name": "npj Precision Oncology",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/npjprecisiononcology/",
+    "openalex_source_id": "S4210211538",
+    "works_per_year": 338,
+    "oa_status": "oa",
+    "domain": "medicine",
+    "field_tags": [
+      "oncology",
+      "genomics"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   }
 ]

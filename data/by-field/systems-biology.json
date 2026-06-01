@@ -22,7 +22,7 @@
       "url": "https://www.cell.com/cell-systems/current.rss",
       "status": "live",
       "last_item_date": "2026-05-20",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -34,7 +34,43 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "1553-734X",
+    "issn": [
+      "1553-734X",
+      "1553-7358"
+    ],
+    "name": "PLoS Computational Biology",
+    "publisher": "Public Library of Science",
+    "homepage": "http://journals.plos.org/ploscompbiol/",
+    "openalex_source_id": "S86033158",
+    "works_per_year": 657,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "bioinformatics",
+      "systems-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   }
 ]

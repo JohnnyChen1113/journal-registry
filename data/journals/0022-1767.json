@@ -1,0 +1,35 @@
+{
+  "issn_l": "0022-1767",
+  "issn": [
+    "0022-1767",
+    "1550-6606"
+  ],
+  "name": "The Journal of Immunology",
+  "publisher": "American Association of Immunologists",
+  "homepage": "http://www.jimmunol.org/",
+  "openalex_source_id": "S38008053",
+  "works_per_year": 1532,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "immunology"
+  ],
+  "tier": "top",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

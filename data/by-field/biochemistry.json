@@ -21,7 +21,7 @@
       "url": "https://www.cell.com/trends/biochemical-sciences/current.rss",
       "status": "live",
       "last_item_date": "2026-05-01",
-      "last_checked": "2026-05-31"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -33,7 +33,224 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-31",
-    "updated_at": "2026-05-31"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "0021-9258",
+    "issn": [
+      "0021-9258",
+      "1067-8816",
+      "1083-351X"
+    ],
+    "name": "Journal of Biological Chemistry",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/journal-of-biological-chemistry",
+    "openalex_source_id": "S140251998",
+    "works_per_year": 2438,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "biochemistry",
+      "molecular-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "0981-9428",
+    "issn": [
+      "0981-9428",
+      "1873-2690"
+    ],
+    "name": "Plant Physiology and Biochemistry",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/plant-physiology-and-biochemistry",
+    "openalex_source_id": "S115455909",
+    "works_per_year": 946,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "biochemistry"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "0006-291X",
+    "issn": [
+      "0006-291X",
+      "1090-2104"
+    ],
+    "name": "Biochemical and Biophysical Research Communications",
+    "publisher": "Elsevier BV",
+    "homepage": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622790/description",
+    "openalex_source_id": "S151589183",
+    "works_per_year": 1227,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "biochemistry",
+      "molecular-biology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "0892-6638",
+    "issn": [
+      "0892-6638",
+      "1530-6860"
+    ],
+    "name": "The FASEB Journal",
+    "publisher": "Wiley",
+    "homepage": "http://www.fasebj.org/",
+    "openalex_source_id": "S25293849",
+    "works_per_year": 838,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "biochemistry",
+      "cell-biology"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "1355-8382",
+    "issn": [
+      "1355-8382",
+      "1469-9001"
+    ],
+    "name": "RNA",
+    "publisher": "Cold Spring Harbor Laboratory Press",
+    "homepage": "http://rnajournal.cshlp.org/",
+    "openalex_source_id": "S187657468",
+    "works_per_year": 111,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "molecular-biology",
+      "biochemistry"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
+  },
+  {
+    "issn_l": "0891-5849",
+    "issn": [
+      "0891-5849",
+      "1873-4596"
+    ],
+    "name": "Free Radical Biology and Medicine",
+    "publisher": "Elsevier BV",
+    "homepage": "http://www.journals.elsevier.com/free-radical-biology-and-medicine/#description",
+    "openalex_source_id": "S128018148",
+    "works_per_year": 997,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "biochemistry",
+      "cell-biology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-06-01"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   }
 ]

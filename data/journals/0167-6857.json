@@ -1,0 +1,36 @@
+{
+  "issn_l": "0167-6857",
+  "issn": [
+    "0167-6857",
+    "1573-5044"
+  ],
+  "name": "Plant Cell Tissue and Organ Culture (PCTOC)",
+  "publisher": "Springer Science+Business Media",
+  "homepage": "https://link.springer.com/book/10.1007/978-3-642-79048-5",
+  "openalex_source_id": "S32261165",
+  "works_per_year": 275,
+  "oa_status": "closed",
+  "domain": "core-bio",
+  "field_tags": [
+    "plant-biology",
+    "methods"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}

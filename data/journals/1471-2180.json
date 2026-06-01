@@ -1,0 +1,34 @@
+{
+  "issn_l": "1471-2180",
+  "issn": [
+    "1471-2180"
+  ],
+  "name": "BMC Microbiology",
+  "publisher": "BioMed Central",
+  "homepage": "https://bmcmicrobiol.biomedcentral.com",
+  "openalex_source_id": "S128543880",
+  "works_per_year": 675,
+  "oa_status": "oa",
+  "domain": "core-bio",
+  "field_tags": [
+    "microbiology"
+  ],
+  "tier": "specialist",
+  "rss": {
+    "url": null,
+    "status": "none",
+    "last_item_date": null,
+    "last_checked": "2026-06-01"
+  },
+  "backends": [
+    "crossref",
+    "openalex"
+  ],
+  "quirks": null,
+  "curation": {
+    "by": "seed",
+    "verified_at": null
+  },
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
+}
