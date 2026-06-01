@@ -19,7 +19,7 @@
       "url": "https://www.nature.com/nmicrobiol.rss",
       "status": "live",
       "last_item_date": "2026-05-28",
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -31,8 +31,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1740-1526",
@@ -44,7 +44,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/nrmicro/",
     "openalex_source_id": "S56802129",
-    "works_per_year": 105,
+    "works_per_year": 106,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -56,7 +56,7 @@
       "url": "https://www.nature.com/nrmicro.rss",
       "status": "live",
       "last_item_date": "2026-05-29",
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -68,8 +68,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1931-3128",
@@ -93,7 +93,7 @@
       "url": "https://www.cell.com/cell-host-microbe/current.rss",
       "status": "live",
       "last_item_date": "2026-05-13",
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -105,8 +105,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0966-842X",
@@ -130,7 +130,7 @@
       "url": "https://www.cell.com/trends/microbiology/current.rss",
       "status": "live",
       "last_item_date": "2026-05-01",
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -142,7 +142,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   }
 ]

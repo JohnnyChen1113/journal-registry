@@ -8,7 +8,7 @@
   "publisher": "Cold Spring Harbor Laboratory Press",
   "homepage": "http://genome.cshlp.org/",
   "openalex_source_id": "S43092948",
-  "works_per_year": 165,
+  "works_per_year": 166,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -19,7 +19,7 @@
     "url": "https://genome.cshlp.org/rss/current.xml",
     "status": "dead",
     "last_item_date": null,
-    "last_checked": "2026-05-30"
+    "last_checked": "2026-06-01"
   },
   "backends": [
     "crossref",
@@ -30,6 +30,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-05-30",
-  "updated_at": "2026-05-30"
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
 }

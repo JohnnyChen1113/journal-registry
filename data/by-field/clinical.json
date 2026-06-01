@@ -9,7 +9,7 @@
     "publisher": "Massachusetts Medical Society",
     "homepage": "http://www.nejm.org/",
     "openalex_source_id": "S62468778",
-    "works_per_year": 822,
+    "works_per_year": 826,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -21,7 +21,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -32,8 +32,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0140-6736",
@@ -45,7 +45,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.sciencedirect.com/journal/the-lancet",
     "openalex_source_id": "S49861241",
-    "works_per_year": 1269,
+    "works_per_year": 1272,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -57,7 +57,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -68,8 +68,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0098-7484",
@@ -81,7 +81,7 @@
     "publisher": "American Medical Association",
     "homepage": "http://jama.ama-assn.org/",
     "openalex_source_id": "S172573765",
-    "works_per_year": 1486,
+    "works_per_year": 1489,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -93,7 +93,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -104,8 +104,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0959-8138",
@@ -128,7 +128,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -139,8 +139,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0003-4819",
@@ -164,7 +164,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -175,8 +175,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "2666-6340",
@@ -200,7 +200,7 @@
       "url": "https://www.cell.com/med/current.rss",
       "status": "live",
       "last_item_date": "2026-05-08",
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -212,8 +212,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1470-2045",
@@ -225,7 +225,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.journals.elsevier.com/the-lancet-oncology",
     "openalex_source_id": "S116900674",
-    "works_per_year": 376,
+    "works_per_year": 377,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -237,7 +237,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -248,8 +248,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1473-3099",
@@ -261,7 +261,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.journals.elsevier.com/the-lancet-infectious-diseases",
     "openalex_source_id": "S23772524",
-    "works_per_year": 417,
+    "works_per_year": 418,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -273,7 +273,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -284,8 +284,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "2374-2437",
@@ -309,7 +309,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -320,8 +320,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0006-4971",
@@ -333,7 +333,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.sciencedirect.com/journal/blood",
     "openalex_source_id": "S200071133",
-    "works_per_year": 6127,
+    "works_per_year": 6128,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -345,7 +345,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -356,8 +356,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "0009-7322",
@@ -369,7 +369,7 @@
     "publisher": "Lippincott Williams & Wilkins",
     "homepage": "http://circ.ahajournals.org/",
     "openalex_source_id": "S116251202",
-    "works_per_year": 3956,
+    "works_per_year": 3957,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -381,7 +381,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -392,7 +392,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   }
 ]

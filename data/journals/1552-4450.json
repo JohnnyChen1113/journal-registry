@@ -8,7 +8,7 @@
   "publisher": "Nature Portfolio",
   "homepage": "https://www.nature.com/nchembio/",
   "openalex_source_id": "S51309854",
-  "works_per_year": 242,
+  "works_per_year": 243,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -20,7 +20,7 @@
     "url": "https://www.nature.com/nchembio.rss",
     "status": "live",
     "last_item_date": "2026-05-29",
-    "last_checked": "2026-05-30"
+    "last_checked": "2026-06-01"
   },
   "backends": [
     "rss",
@@ -32,6 +32,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-05-30",
-  "updated_at": "2026-05-30"
+  "added_at": "2026-06-01",
+  "updated_at": "2026-06-01"
 }

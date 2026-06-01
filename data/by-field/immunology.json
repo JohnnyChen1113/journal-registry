@@ -9,7 +9,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/ni/",
     "openalex_source_id": "S41063453",
-    "works_per_year": 277,
+    "works_per_year": 278,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -20,7 +20,7 @@
       "url": "https://www.nature.com/ni.rss",
       "status": "live",
       "last_item_date": "2026-05-29",
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -32,8 +32,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1474-1733",
@@ -57,7 +57,7 @@
       "url": "https://www.nature.com/nri.rss",
       "status": "live",
       "last_item_date": "2026-05-29",
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -69,8 +69,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1074-7613",
@@ -82,7 +82,7 @@
     "publisher": "Cell Press",
     "homepage": "https://www.sciencedirect.com/topics/immunology-and-microbiology/immunity",
     "openalex_source_id": "S199671312",
-    "works_per_year": 209,
+    "works_per_year": 210,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -93,7 +93,7 @@
       "url": "https://www.cell.com/immunity/current.rss",
       "status": "live",
       "last_item_date": "2026-05-12",
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -105,8 +105,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "1471-4906",
@@ -130,7 +130,7 @@
       "url": "https://www.cell.com/trends/immunology/current.rss",
       "status": "live",
       "last_item_date": "2026-05-05",
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -142,7 +142,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   }
 ]

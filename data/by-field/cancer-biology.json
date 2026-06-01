@@ -21,7 +21,7 @@
       "url": "https://www.cell.com/cancer-cell/current.rss",
       "status": "live",
       "last_item_date": "2026-05-11",
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "rss",
@@ -33,8 +33,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   },
   {
     "issn_l": "2662-1347",
@@ -45,7 +45,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/natcancer/",
     "openalex_source_id": "S4210236562",
-    "works_per_year": 163,
+    "works_per_year": 164,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -57,7 +57,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-05-30"
+      "last_checked": "2026-06-01"
     },
     "backends": [
       "crossref",
@@ -68,7 +68,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-05-30",
-    "updated_at": "2026-05-30"
+    "added_at": "2026-06-01",
+    "updated_at": "2026-06-01"
   }
 ]
