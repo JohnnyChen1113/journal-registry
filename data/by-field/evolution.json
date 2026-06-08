@@ -9,7 +9,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/nature/",
     "openalex_source_id": "S137773608",
-    "works_per_year": 3616,
+    "works_per_year": 3646,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -21,8 +21,8 @@
     "rss": {
       "url": "https://www.nature.com/nature.rss",
       "status": "live",
-      "last_item_date": "2026-06-01",
-      "last_checked": "2026-06-01"
+      "last_item_date": "2026-06-08",
+      "last_checked": "2026-06-08"
     },
     "backends": [
       "rss",
@@ -34,8 +34,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-01",
-    "updated_at": "2026-06-01"
+    "added_at": "2026-06-08",
+    "updated_at": "2026-06-08"
   },
   {
     "issn_l": "2397-334X",
@@ -46,7 +46,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/natecolevol/",
     "openalex_source_id": "S2764884935",
-    "works_per_year": 276,
+    "works_per_year": 279,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -57,8 +57,8 @@
     "rss": {
       "url": "https://www.nature.com/natecolevol.rss",
       "status": "live",
-      "last_item_date": "2026-05-28",
-      "last_checked": "2026-06-01"
+      "last_item_date": "2026-06-05",
+      "last_checked": "2026-06-08"
     },
     "backends": [
       "rss",
@@ -70,8 +70,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-01",
-    "updated_at": "2026-06-01"
+    "added_at": "2026-06-08",
+    "updated_at": "2026-06-08"
   },
   {
     "issn_l": "0960-9822",
@@ -83,7 +83,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.sciencedirect.com/journal/current-biology",
     "openalex_source_id": "S128425624",
-    "works_per_year": 726,
+    "works_per_year": 728,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -95,7 +95,7 @@
       "url": "https://www.cell.com/current-biology/current.rss",
       "status": "live",
       "last_item_date": "2026-05-18",
-      "last_checked": "2026-06-01"
+      "last_checked": "2026-06-08"
     },
     "backends": [
       "rss",
@@ -107,8 +107,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-01",
-    "updated_at": "2026-06-01"
+    "added_at": "2026-06-08",
+    "updated_at": "2026-06-08"
   },
   {
     "issn_l": "0737-4038",
@@ -120,7 +120,7 @@
     "publisher": "Oxford University Press",
     "homepage": "http://mbe.oxfordjournals.org/",
     "openalex_source_id": "S57552105",
-    "works_per_year": 247,
+    "works_per_year": 249,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -132,7 +132,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-01"
+      "last_checked": "2026-06-08"
     },
     "backends": [
       "crossref",
@@ -143,8 +143,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-01",
-    "updated_at": "2026-06-01"
+    "added_at": "2026-06-08",
+    "updated_at": "2026-06-08"
   },
   {
     "issn_l": "0962-1083",
@@ -156,7 +156,7 @@
     "publisher": "Wiley",
     "homepage": "http://www.wiley.com/bw/journal.asp?ref=0962-1083",
     "openalex_source_id": "S22454499",
-    "works_per_year": 349,
+    "works_per_year": 353,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -168,7 +168,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-01"
+      "last_checked": "2026-06-08"
     },
     "backends": [
       "crossref",
@@ -179,8 +179,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-01",
-    "updated_at": "2026-06-01"
+    "added_at": "2026-06-08",
+    "updated_at": "2026-06-08"
   },
   {
     "issn_l": "1063-5157",
@@ -204,7 +204,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-01"
+      "last_checked": "2026-06-08"
     },
     "backends": [
       "crossref",
@@ -215,8 +215,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-01",
-    "updated_at": "2026-06-01"
+    "added_at": "2026-06-08",
+    "updated_at": "2026-06-08"
   },
   {
     "issn_l": "0014-3820",
@@ -228,7 +228,7 @@
     "publisher": "Oxford University Press",
     "homepage": "https://academic.oup.com/evolut",
     "openalex_source_id": "S87560609",
-    "works_per_year": 186,
+    "works_per_year": 189,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -239,7 +239,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-01"
+      "last_checked": "2026-06-08"
     },
     "backends": [
       "crossref",
@@ -250,8 +250,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-01",
-    "updated_at": "2026-06-01"
+    "added_at": "2026-06-08",
+    "updated_at": "2026-06-08"
   },
   {
     "issn_l": "0169-5347",
@@ -263,7 +263,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.sciencedirect.com/journal/trends-in-ecology-and-evolution",
     "openalex_source_id": "S79131028",
-    "works_per_year": 138,
+    "works_per_year": 140,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -274,8 +274,8 @@
     "rss": {
       "url": "https://www.cell.com/trends/ecology-evolution/current.rss",
       "status": "live",
-      "last_item_date": "2026-05-01",
-      "last_checked": "2026-06-01"
+      "last_item_date": "2026-06-01",
+      "last_checked": "2026-06-08"
     },
     "backends": [
       "rss",
@@ -287,8 +287,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-01",
-    "updated_at": "2026-06-01"
+    "added_at": "2026-06-08",
+    "updated_at": "2026-06-08"
   },
   {
     "issn_l": "1759-6653",
@@ -299,7 +299,7 @@
     "publisher": "Oxford University Press",
     "homepage": "https://academic.oup.com/gbe",
     "openalex_source_id": "S10195028",
-    "works_per_year": 221,
+    "works_per_year": 223,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -311,7 +311,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-01"
+      "last_checked": "2026-06-08"
     },
     "backends": [
       "crossref",
@@ -322,8 +322,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-01",
-    "updated_at": "2026-06-01"
+    "added_at": "2026-06-08",
+    "updated_at": "2026-06-08"
   },
   {
     "issn_l": "2055-026X",
@@ -335,7 +335,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/nplants/",
     "openalex_source_id": "S2764671299",
-    "works_per_year": 238,
+    "works_per_year": 240,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -346,8 +346,8 @@
     "rss": {
       "url": "https://www.nature.com/nplants.rss",
       "status": "live",
-      "last_item_date": "2026-05-28",
-      "last_checked": "2026-06-01"
+      "last_item_date": "2026-06-05",
+      "last_checked": "2026-06-08"
     },
     "backends": [
       "rss",
@@ -359,8 +359,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-01",
-    "updated_at": "2026-06-01"
+    "added_at": "2026-06-08",
+    "updated_at": "2026-06-08"
   },
   {
     "issn_l": "1466-5026",
@@ -372,7 +372,7 @@
     "publisher": "Microbiology Society",
     "homepage": "http://ijs.sgmjournals.org/",
     "openalex_source_id": "S102181007",
-    "works_per_year": 324,
+    "works_per_year": 326,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -384,7 +384,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-01"
+      "last_checked": "2026-06-08"
     },
     "backends": [
       "crossref",
@@ -395,7 +395,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-01",
-    "updated_at": "2026-06-01"
+    "added_at": "2026-06-08",
+    "updated_at": "2026-06-08"
   }
 ]

@@ -123,7 +123,8 @@
       "medicine",
       "translational"
     ],
-    "tier": "top"
+    "tier": "top",
+    "rss_url": "https://www.nature.com/nm.rss"
   },
   {
     "name": "Proceedings of the National Academy of Sciences",
@@ -632,7 +633,8 @@
     "field_tags": [
       "aging"
     ],
-    "tier": "specialist"
+    "tier": "specialist",
+    "rss_url": "https://www.nature.com/nataging.rss"
   },
   {
     "name": "Nature Reviews Microbiology",
@@ -675,7 +677,8 @@
       "oncology",
       "cancer-biology"
     ],
-    "tier": "top"
+    "tier": "top",
+    "rss_url": "https://www.nature.com/natcancer.rss"
   },
   {
     "name": "Nature Reviews Cancer",
@@ -1105,7 +1108,8 @@
     "field_tags": [
       "immunology"
     ],
-    "tier": "specialist"
+    "tier": "specialist",
+    "rss_url": "https://www.frontiersin.org/journals/immunology/rss"
   },
   {
     "name": "BMC Plant Biology",
@@ -1124,7 +1128,8 @@
     "field_tags": [
       "microbiology"
     ],
-    "tier": "specialist"
+    "tier": "specialist",
+    "rss_url": "https://www.frontiersin.org/journals/microbiology/rss"
   },
   {
     "name": "Microbiology Resource Announcements",
@@ -1213,7 +1218,8 @@
       "cell-biology",
       "cancer-biology"
     ],
-    "tier": "specialist"
+    "tier": "specialist",
+    "rss_url": "https://www.nature.com/cddis.rss"
   },
   {
     "name": "Journal of Visualized Experiments",
@@ -1419,7 +1425,8 @@
       "genetics",
       "genomics"
     ],
-    "tier": "specialist"
+    "tier": "specialist",
+    "rss_url": "https://www.frontiersin.org/journals/genetics/rss"
   },
   {
     "name": "NAR Genomics and Bioinformatics",
@@ -1458,7 +1465,8 @@
       "molecular-biology",
       "biochemistry"
     ],
-    "tier": "top"
+    "tier": "top",
+    "rss_url": "http://rnajournal.cshlp.org/rss/current.xml"
   },
   {
     "name": "Clinical Epigenetics",
@@ -1498,7 +1506,8 @@
       "oncology",
       "genomics"
     ],
-    "tier": "specialist"
+    "tier": "specialist",
+    "rss_url": "https://www.nature.com/npjprecisiononcology.rss"
   },
   {
     "name": "Journal of Plant Pathology",

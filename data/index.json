@@ -168,6 +168,7 @@
     ],
     "tier": "top",
     "backends": [
+      "rss",
       "crossref",
       "openalex"
     ]
@@ -873,6 +874,7 @@
     ],
     "tier": "specialist",
     "backends": [
+      "rss",
       "crossref",
       "openalex"
     ]
@@ -932,6 +934,7 @@
     ],
     "tier": "top",
     "backends": [
+      "rss",
       "crossref",
       "openalex"
     ]
@@ -1530,6 +1533,7 @@
     ],
     "tier": "specialist",
     "backends": [
+      "rss",
       "crossref",
       "openalex"
     ]
@@ -1557,6 +1561,7 @@
     ],
     "tier": "specialist",
     "backends": [
+      "rss",
       "crossref",
       "openalex"
     ]
@@ -1682,6 +1687,7 @@
     ],
     "tier": "specialist",
     "backends": [
+      "rss",
       "crossref",
       "openalex"
     ]
@@ -1972,6 +1978,7 @@
     ],
     "tier": "specialist",
     "backends": [
+      "rss",
       "crossref",
       "openalex"
     ]
@@ -2027,6 +2034,7 @@
     ],
     "tier": "top",
     "backends": [
+      "rss",
       "crossref",
       "openalex"
     ]
@@ -2083,6 +2091,7 @@
     ],
     "tier": "specialist",
     "backends": [
+      "rss",
       "crossref",
       "openalex"
     ]

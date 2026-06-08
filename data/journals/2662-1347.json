@@ -7,7 +7,7 @@
   "publisher": "Nature Portfolio",
   "homepage": "https://www.nature.com/natcancer/",
   "openalex_source_id": "S4210236562",
-  "works_per_year": 164,
+  "works_per_year": 165,
   "oa_status": "closed",
   "domain": "medicine",
   "field_tags": [
@@ -16,12 +16,13 @@
   ],
   "tier": "top",
   "rss": {
-    "url": null,
-    "status": "none",
-    "last_item_date": null,
-    "last_checked": "2026-06-01"
+    "url": "https://www.nature.com/natcancer.rss",
+    "status": "live",
+    "last_item_date": "2026-06-04",
+    "last_checked": "2026-06-08"
   },
   "backends": [
+    "rss",
     "crossref",
     "openalex"
   ],
@@ -30,6 +31,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-01",
-  "updated_at": "2026-06-01"
+  "added_at": "2026-06-08",
+  "updated_at": "2026-06-08"
 }

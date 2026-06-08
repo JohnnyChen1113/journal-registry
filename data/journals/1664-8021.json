@@ -7,7 +7,7 @@
   "publisher": "Frontiers Media",
   "homepage": "http://journal.frontiersin.org/journal/genetics",
   "openalex_source_id": "S2597340651",
-  "works_per_year": 828,
+  "works_per_year": 835,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -16,12 +16,13 @@
   ],
   "tier": "specialist",
   "rss": {
-    "url": null,
-    "status": "none",
-    "last_item_date": null,
-    "last_checked": "2026-06-01"
+    "url": "https://www.frontiersin.org/journals/genetics/rss",
+    "status": "live",
+    "last_item_date": "2026-06-08",
+    "last_checked": "2026-06-08"
   },
   "backends": [
+    "rss",
     "crossref",
     "openalex"
   ],
@@ -30,6 +31,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-01",
-  "updated_at": "2026-06-01"
+  "added_at": "2026-06-08",
+  "updated_at": "2026-06-08"
 }

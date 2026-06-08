@@ -7,7 +7,7 @@
   "publisher": "Frontiers Media",
   "homepage": "http://www.frontiersin.org/cell_and_developmental_biology",
   "openalex_source_id": "S2596924766",
-  "works_per_year": 900,
+  "works_per_year": 912,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -19,7 +19,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-06-01"
+    "last_checked": "2026-06-08"
   },
   "backends": [
     "crossref",
@@ -30,6 +30,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-01",
-  "updated_at": "2026-06-01"
+  "added_at": "2026-06-08",
+  "updated_at": "2026-06-08"
 }

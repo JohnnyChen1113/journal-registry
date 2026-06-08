@@ -8,7 +8,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/natmetab/",
     "openalex_source_id": "S4210232714",
-    "works_per_year": 199,
+    "works_per_year": 200,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -18,8 +18,8 @@
     "rss": {
       "url": "https://www.nature.com/natmetab.rss",
       "status": "live",
-      "last_item_date": "2026-05-27",
-      "last_checked": "2026-06-01"
+      "last_item_date": "2026-06-04",
+      "last_checked": "2026-06-08"
     },
     "backends": [
       "rss",
@@ -31,8 +31,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-01",
-    "updated_at": "2026-06-01"
+    "added_at": "2026-06-08",
+    "updated_at": "2026-06-08"
   },
   {
     "issn_l": "1550-4131",
@@ -44,7 +44,7 @@
     "publisher": "Cell Press",
     "homepage": "https://www.sciencedirect.com/journal/cell-metabolism",
     "openalex_source_id": "S177533077",
-    "works_per_year": 172,
+    "works_per_year": 175,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -54,8 +54,8 @@
     "rss": {
       "url": "https://www.cell.com/cell-metabolism/current.rss",
       "status": "live",
-      "last_item_date": "2026-05-05",
-      "last_checked": "2026-06-01"
+      "last_item_date": "2026-06-02",
+      "last_checked": "2026-06-08"
     },
     "backends": [
       "rss",
@@ -67,7 +67,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-01",
-    "updated_at": "2026-06-01"
+    "added_at": "2026-06-08",
+    "updated_at": "2026-06-08"
   }
 ]

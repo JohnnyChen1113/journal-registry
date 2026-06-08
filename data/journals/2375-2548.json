@@ -7,7 +7,7 @@
   "publisher": "American Association for the Advancement of Science",
   "homepage": "https://www.science.org/journal/sciadv",
   "openalex_source_id": "S2737427234",
-  "works_per_year": 2260,
+  "works_per_year": 2281,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -17,8 +17,8 @@
   "rss": {
     "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
     "status": "live",
-    "last_item_date": "2026-05-29",
-    "last_checked": "2026-06-01"
+    "last_item_date": "2026-06-05",
+    "last_checked": "2026-06-08"
   },
   "backends": [
     "rss",
@@ -30,6 +30,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-01",
-  "updated_at": "2026-06-01"
+  "added_at": "2026-06-08",
+  "updated_at": "2026-06-08"
 }

@@ -7,7 +7,7 @@
   "publisher": "MyJOVE",
   "homepage": "http://www.jove.com/",
   "openalex_source_id": "S199738284",
-  "works_per_year": 2253,
+  "works_per_year": 2276,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -18,7 +18,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-06-01"
+    "last_checked": "2026-06-08"
   },
   "backends": [
     "crossref",
@@ -29,6 +29,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-01",
-  "updated_at": "2026-06-01"
+  "added_at": "2026-06-08",
+  "updated_at": "2026-06-08"
 }

@@ -9,7 +9,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/nsmb/",
     "openalex_source_id": "S139253143",
-    "works_per_year": 218,
+    "works_per_year": 219,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -20,8 +20,8 @@
     "rss": {
       "url": "https://www.nature.com/nsmb.rss",
       "status": "live",
-      "last_item_date": "2026-05-27",
-      "last_checked": "2026-06-01"
+      "last_item_date": "2026-06-02",
+      "last_checked": "2026-06-08"
     },
     "backends": [
       "rss",
@@ -33,8 +33,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-01",
-    "updated_at": "2026-06-01"
+    "added_at": "2026-06-08",
+    "updated_at": "2026-06-08"
   },
   {
     "issn_l": "0969-2126",
@@ -46,7 +46,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.sciencedirect.com/journal/structure",
     "openalex_source_id": "S7112016",
-    "works_per_year": 178,
+    "works_per_year": 180,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -56,8 +56,8 @@
     "rss": {
       "url": "https://www.cell.com/structure/current.rss",
       "status": "live",
-      "last_item_date": "2026-05-07",
-      "last_checked": "2026-06-01"
+      "last_item_date": "2026-06-04",
+      "last_checked": "2026-06-08"
     },
     "backends": [
       "rss",
@@ -69,8 +69,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-01",
-    "updated_at": "2026-06-01"
+    "added_at": "2026-06-08",
+    "updated_at": "2026-06-08"
   },
   {
     "issn_l": "0022-2836",
@@ -82,7 +82,7 @@
     "publisher": "Elsevier BV",
     "homepage": "http://www.elsevier.com/locate/issn/0022-2836",
     "openalex_source_id": "S46058472",
-    "works_per_year": 337,
+    "works_per_year": 339,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -94,7 +94,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-01"
+      "last_checked": "2026-06-08"
     },
     "backends": [
       "crossref",
@@ -105,8 +105,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-01",
-    "updated_at": "2026-06-01"
+    "added_at": "2026-06-08",
+    "updated_at": "2026-06-08"
   },
   {
     "issn_l": "2001-0370",
@@ -117,7 +117,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.journals.elsevier.com/computational-and-structural-biotechnology-journal",
     "openalex_source_id": "S2764539591",
-    "works_per_year": 392,
+    "works_per_year": 395,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -129,7 +129,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-01"
+      "last_checked": "2026-06-08"
     },
     "backends": [
       "crossref",
@@ -140,7 +140,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-01",
-    "updated_at": "2026-06-01"
+    "added_at": "2026-06-08",
+    "updated_at": "2026-06-08"
   }
 ]

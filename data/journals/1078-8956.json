@@ -8,7 +8,7 @@
   "publisher": "Nature Portfolio",
   "homepage": "http://www.nature.com/nm/index.html",
   "openalex_source_id": "S203256638",
-  "works_per_year": 606,
+  "works_per_year": 613,
   "oa_status": "closed",
   "domain": "medicine",
   "field_tags": [
@@ -17,12 +17,13 @@
   ],
   "tier": "top",
   "rss": {
-    "url": null,
-    "status": "none",
-    "last_item_date": null,
-    "last_checked": "2026-06-01"
+    "url": "https://www.nature.com/nm.rss",
+    "status": "live",
+    "last_item_date": "2026-06-08",
+    "last_checked": "2026-06-08"
   },
   "backends": [
+    "rss",
     "crossref",
     "openalex"
   ],
@@ -31,6 +32,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-01",
-  "updated_at": "2026-06-01"
+  "added_at": "2026-06-08",
+  "updated_at": "2026-06-08"
 }

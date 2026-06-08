@@ -9,6 +9,7 @@
     <outline type="rss" text="Nature Ecology &amp; Evolution" xmlUrl="https://www.nature.com/natecolevol.rss"/>
     <outline type="rss" text="Cell Genomics" xmlUrl="https://www.cell.com/cell-genomics/current.rss"/>
     <outline type="rss" text="Current Biology" xmlUrl="https://www.cell.com/current-biology/current.rss"/>
+    <outline type="rss" text="Nature Medicine" xmlUrl="https://www.nature.com/nm.rss"/>
     <outline type="rss" text="Proceedings of the National Academy of Sciences" xmlUrl="https://www.pnas.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=pnas"/>
     <outline type="rss" text="eLife" xmlUrl="https://elifesciences.org/rss/recent.xml"/>
     <outline type="rss" text="Nature Communications" xmlUrl="https://www.nature.com/ncomms.rss"/>
@@ -39,9 +40,11 @@
     <outline type="rss" text="Nature Metabolism" xmlUrl="https://www.nature.com/natmetab.rss"/>
     <outline type="rss" text="Nature Chemical Biology" xmlUrl="https://www.nature.com/nchembio.rss"/>
     <outline type="rss" text="Nature Protocols" xmlUrl="https://www.nature.com/nprot.rss"/>
+    <outline type="rss" text="Nature Aging" xmlUrl="https://www.nature.com/nataging.rss"/>
     <outline type="rss" text="Nature Reviews Microbiology" xmlUrl="https://www.nature.com/nrmicro.rss"/>
     <outline type="rss" text="Nature Reviews Immunology" xmlUrl="https://www.nature.com/nri.rss"/>
     <outline type="rss" text="Nature Reviews Neuroscience" xmlUrl="https://www.nature.com/nrn.rss"/>
+    <outline type="rss" text="Nature Cancer" xmlUrl="https://www.nature.com/natcancer.rss"/>
     <outline type="rss" text="Nature Reviews Cancer" xmlUrl="https://www.nature.com/nrc.rss"/>
     <outline type="rss" text="Neuron" xmlUrl="https://www.cell.com/neuron/current.rss"/>
     <outline type="rss" text="Immunity" xmlUrl="https://www.cell.com/immunity/current.rss"/>
@@ -66,5 +69,11 @@
     <outline type="rss" text="Trends in Cancer" xmlUrl="https://www.cell.com/trends/cancer/current.rss"/>
     <outline type="rss" text="Plant Communications" xmlUrl="https://www.cell.com/plant-communications/current.rss"/>
     <outline type="rss" text="Frontiers in Plant Science" xmlUrl="https://www.frontiersin.org/journals/plant-science/rss"/>
+    <outline type="rss" text="Frontiers in Immunology" xmlUrl="https://www.frontiersin.org/journals/immunology/rss"/>
+    <outline type="rss" text="Frontiers in Microbiology" xmlUrl="https://www.frontiersin.org/journals/microbiology/rss"/>
+    <outline type="rss" text="Cell Death and Disease" xmlUrl="https://www.nature.com/cddis.rss"/>
+    <outline type="rss" text="Frontiers in Genetics" xmlUrl="https://www.frontiersin.org/journals/genetics/rss"/>
+    <outline type="rss" text="RNA" xmlUrl="http://rnajournal.cshlp.org/rss/current.xml"/>
+    <outline type="rss" text="npj Precision Oncology" xmlUrl="https://www.nature.com/npjprecisiononcology.rss"/>
   </body>
 </opml>

@@ -7,7 +7,7 @@
   "publisher": "Oxford University Press",
   "homepage": "https://academic.oup.com/gbe",
   "openalex_source_id": "S10195028",
-  "works_per_year": 221,
+  "works_per_year": 223,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -19,7 +19,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-06-01"
+    "last_checked": "2026-06-08"
   },
   "backends": [
     "crossref",
@@ -30,6 +30,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-01",
-  "updated_at": "2026-06-01"
+  "added_at": "2026-06-08",
+  "updated_at": "2026-06-08"
 }

@@ -8,7 +8,7 @@
   "publisher": "Cell Press",
   "homepage": "https://www.sciencedirect.com/journal/cancer-cell",
   "openalex_source_id": "S25671836",
-  "works_per_year": 167,
+  "works_per_year": 168,
   "oa_status": "closed",
   "domain": "medicine",
   "field_tags": [
@@ -20,7 +20,7 @@
     "url": "https://www.cell.com/cancer-cell/current.rss",
     "status": "live",
     "last_item_date": "2026-05-11",
-    "last_checked": "2026-06-01"
+    "last_checked": "2026-06-08"
   },
   "backends": [
     "rss",
@@ -32,6 +32,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-01",
-  "updated_at": "2026-06-01"
+  "added_at": "2026-06-08",
+  "updated_at": "2026-06-08"
 }

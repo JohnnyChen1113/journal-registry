@@ -9,7 +9,7 @@
   "publisher": "Elsevier BV",
   "homepage": "https://www.sciencedirect.com/journal/journal-of-biological-chemistry",
   "openalex_source_id": "S140251998",
-  "works_per_year": 2438,
+  "works_per_year": 2445,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -21,7 +21,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-06-01"
+    "last_checked": "2026-06-08"
   },
   "backends": [
     "crossref",
@@ -32,6 +32,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-01",
-  "updated_at": "2026-06-01"
+  "added_at": "2026-06-08",
+  "updated_at": "2026-06-08"
 }
