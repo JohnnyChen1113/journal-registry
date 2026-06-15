@@ -119,7 +119,7 @@ issn_l,name,publisher,domain,tier,rss_status,backends
 "2041-4889","Cell Death and Disease","Springer Nature","core-bio","specialist","live","rss|crossref|openalex"
 "1940-087X","Journal of Visualized Experiments","MyJOVE","core-bio","specialist","none","crossref|openalex"
 "2730-6011","Discover Oncology","Springer Nature","medicine","specialist","none","crossref|openalex"
-"2234-943X","Frontiers in Oncology","Frontiers Media","medicine","specialist","none","crossref|openalex"
+"2234-943X","Frontiers in Oncology","Frontiers Media","medicine","specialist","live","rss|crossref|openalex"
 "0923-7534","Annals of Oncology","Elsevier BV","medicine","top","none","crossref|openalex"
 "0031-9317","Physiologia Plantarum","Wiley","core-bio","specialist","none","crossref|openalex"
 "1479-5876","Journal of Translational Medicine","BioMed Central","medicine","specialist","none","crossref|openalex"

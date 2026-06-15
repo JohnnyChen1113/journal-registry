@@ -7,7 +7,7 @@
   "publisher": "Elsevier BV",
   "homepage": "https://www.journals.elsevier.com/cell-reports-methods",
   "openalex_source_id": "S4210214705",
-  "works_per_year": 152,
+  "works_per_year": 154,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -18,7 +18,7 @@
     "url": "https://www.cell.com/cell-reports-methods/current.rss",
     "status": "live",
     "last_item_date": "2026-04-21",
-    "last_checked": "2026-06-08"
+    "last_checked": "2026-06-15"
   },
   "backends": [
     "rss",
@@ -30,6 +30,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-08",
-  "updated_at": "2026-06-08"
+  "added_at": "2026-06-15",
+  "updated_at": "2026-06-15"
 }

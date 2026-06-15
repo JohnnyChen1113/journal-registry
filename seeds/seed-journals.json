@@ -1248,7 +1248,8 @@
       "oncology",
       "cancer-biology"
     ],
-    "tier": "specialist"
+    "tier": "specialist",
+    "rss_url": "https://www.frontiersin.org/journals/oncology/rss"
   },
   {
     "name": "Annals of Oncology",

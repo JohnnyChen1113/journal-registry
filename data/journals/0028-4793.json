@@ -8,7 +8,7 @@
   "publisher": "Massachusetts Medical Society",
   "homepage": "http://www.nejm.org/",
   "openalex_source_id": "S62468778",
-  "works_per_year": 835,
+  "works_per_year": 843,
   "oa_status": "closed",
   "domain": "medicine",
   "field_tags": [
@@ -20,7 +20,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-06-08"
+    "last_checked": "2026-06-15"
   },
   "backends": [
     "crossref",
@@ -31,6 +31,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-08",
-  "updated_at": "2026-06-08"
+  "added_at": "2026-06-15",
+  "updated_at": "2026-06-15"
 }

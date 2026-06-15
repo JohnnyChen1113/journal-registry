@@ -9,7 +9,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.journals.elsevier.com/developmental-cell",
     "openalex_source_id": "S83804233",
-    "works_per_year": 207,
+    "works_per_year": 209,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -20,8 +20,8 @@
     "rss": {
       "url": "https://www.cell.com/developmental-cell/current.rss",
       "status": "live",
-      "last_item_date": "2026-05-13",
-      "last_checked": "2026-06-08"
+      "last_item_date": "2026-06-10",
+      "last_checked": "2026-06-15"
     },
     "backends": [
       "rss",
@@ -33,8 +33,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-08",
-    "updated_at": "2026-06-08"
+    "added_at": "2026-06-15",
+    "updated_at": "2026-06-15"
   },
   {
     "issn_l": "1875-9777",
@@ -46,7 +46,7 @@
     "publisher": "Elsevier BV",
     "homepage": "http://www.cell.com/cell-stem-cell/home",
     "openalex_source_id": "S128124174",
-    "works_per_year": 139,
+    "works_per_year": 140,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -58,7 +58,7 @@
       "url": "https://www.cell.com/cell-stem-cell/current.rss",
       "status": "live",
       "last_item_date": "2026-06-04",
-      "last_checked": "2026-06-08"
+      "last_checked": "2026-06-15"
     },
     "backends": [
       "rss",
@@ -70,8 +70,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-08",
-    "updated_at": "2026-06-08"
+    "added_at": "2026-06-15",
+    "updated_at": "2026-06-15"
   },
   {
     "issn_l": "2296-634X",
@@ -82,7 +82,7 @@
     "publisher": "Frontiers Media",
     "homepage": "http://www.frontiersin.org/cell_and_developmental_biology",
     "openalex_source_id": "S2596924766",
-    "works_per_year": 912,
+    "works_per_year": 923,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -94,7 +94,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-08"
+      "last_checked": "2026-06-15"
     },
     "backends": [
       "crossref",
@@ -105,7 +105,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-08",
-    "updated_at": "2026-06-08"
+    "added_at": "2026-06-15",
+    "updated_at": "2026-06-15"
   }
 ]

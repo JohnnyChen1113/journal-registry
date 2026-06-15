@@ -20,7 +20,7 @@
     "url": "http://rnajournal.cshlp.org/rss/current.xml",
     "status": "live",
     "last_item_date": "2026-05-18",
-    "last_checked": "2026-06-08"
+    "last_checked": "2026-06-15"
   },
   "backends": [
     "rss",
@@ -32,6 +32,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-08",
-  "updated_at": "2026-06-08"
+  "added_at": "2026-06-15",
+  "updated_at": "2026-06-15"
 }

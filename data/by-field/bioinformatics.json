@@ -9,7 +9,7 @@
     "publisher": "Oxford University Press",
     "homepage": "http://bioinformatics.oxfordjournals.org/",
     "openalex_source_id": "S52395412",
-    "works_per_year": 585,
+    "works_per_year": 588,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -21,7 +21,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-08"
+      "last_checked": "2026-06-15"
     },
     "backends": [
       "crossref",
@@ -32,8 +32,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-08",
-    "updated_at": "2026-06-08"
+    "added_at": "2026-06-15",
+    "updated_at": "2026-06-15"
   },
   {
     "issn_l": "1467-5463",
@@ -45,7 +45,7 @@
     "publisher": "Oxford University Press",
     "homepage": "http://bib.oxfordjournals.org/",
     "openalex_source_id": "S91767247",
-    "works_per_year": 611,
+    "works_per_year": 616,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -57,7 +57,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-08"
+      "last_checked": "2026-06-15"
     },
     "backends": [
       "crossref",
@@ -68,8 +68,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-08",
-    "updated_at": "2026-06-08"
+    "added_at": "2026-06-15",
+    "updated_at": "2026-06-15"
   },
   {
     "issn_l": "1553-734X",
@@ -81,7 +81,7 @@
     "publisher": "Public Library of Science",
     "homepage": "http://journals.plos.org/ploscompbiol/",
     "openalex_source_id": "S86033158",
-    "works_per_year": 662,
+    "works_per_year": 666,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -93,7 +93,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-08"
+      "last_checked": "2026-06-15"
     },
     "backends": [
       "crossref",
@@ -104,8 +104,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-08",
-    "updated_at": "2026-06-08"
+    "added_at": "2026-06-15",
+    "updated_at": "2026-06-15"
   },
   {
     "issn_l": "2631-9268",
@@ -116,7 +116,7 @@
     "publisher": "Oxford University Press",
     "homepage": "https://academic.oup.com/nargab",
     "openalex_source_id": "S4210241000",
-    "works_per_year": 154,
+    "works_per_year": 155,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -128,7 +128,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-08"
+      "last_checked": "2026-06-15"
     },
     "backends": [
       "crossref",
@@ -139,8 +139,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-08",
-    "updated_at": "2026-06-08"
+    "added_at": "2026-06-15",
+    "updated_at": "2026-06-15"
   },
   {
     "issn_l": "1471-2105",
@@ -151,7 +151,7 @@
     "publisher": "BioMed Central",
     "homepage": "http://www.biomedcentral.com/bmcbioinformatics/",
     "openalex_source_id": "S19032547",
-    "works_per_year": 290,
+    "works_per_year": 295,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -163,7 +163,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-08"
+      "last_checked": "2026-06-15"
     },
     "backends": [
       "crossref",
@@ -174,8 +174,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-08",
-    "updated_at": "2026-06-08"
+    "added_at": "2026-06-15",
+    "updated_at": "2026-06-15"
   },
   {
     "issn_l": "2001-0370",
@@ -186,7 +186,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.journals.elsevier.com/computational-and-structural-biotechnology-journal",
     "openalex_source_id": "S2764539591",
-    "works_per_year": 395,
+    "works_per_year": 397,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -198,7 +198,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-08"
+      "last_checked": "2026-06-15"
     },
     "backends": [
       "crossref",
@@ -209,7 +209,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-08",
-    "updated_at": "2026-06-08"
+    "added_at": "2026-06-15",
+    "updated_at": "2026-06-15"
   }
 ]

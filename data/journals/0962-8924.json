@@ -8,7 +8,7 @@
   "publisher": "Elsevier BV",
   "homepage": "https://www.journals.elsevier.com/trends-in-cell-biology",
   "openalex_source_id": "S118628157",
-  "works_per_year": 100,
+  "works_per_year": 101,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -20,7 +20,7 @@
     "url": "https://www.cell.com/trends/cell-biology/current.rss",
     "status": "live",
     "last_item_date": "2026-06-01",
-    "last_checked": "2026-06-08"
+    "last_checked": "2026-06-15"
   },
   "backends": [
     "rss",
@@ -32,6 +32,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-08",
-  "updated_at": "2026-06-08"
+  "added_at": "2026-06-15",
+  "updated_at": "2026-06-15"
 }
