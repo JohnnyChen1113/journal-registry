@@ -7,7 +7,7 @@
   "publisher": "Elsevier BV",
   "homepage": "https://www.journals.elsevier.com/computational-and-structural-biotechnology-journal",
   "openalex_source_id": "S2764539591",
-  "works_per_year": 397,
+  "works_per_year": 401,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -19,7 +19,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-06-15"
+    "last_checked": "2026-06-22"
   },
   "backends": [
     "crossref",
@@ -30,6 +30,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-15",
-  "updated_at": "2026-06-15"
+  "added_at": "2026-06-22",
+  "updated_at": "2026-06-22"
 }

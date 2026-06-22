@@ -9,7 +9,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.journals.elsevier.com/trends-in-biochemical-sciences",
     "openalex_source_id": "S136233269",
-    "works_per_year": 120,
+    "works_per_year": 121,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -21,7 +21,7 @@
       "url": "https://www.cell.com/trends/biochemical-sciences/current.rss",
       "status": "live",
       "last_item_date": "2026-06-01",
-      "last_checked": "2026-06-15"
+      "last_checked": "2026-06-22"
     },
     "backends": [
       "rss",
@@ -33,8 +33,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-15",
-    "updated_at": "2026-06-15"
+    "added_at": "2026-06-22",
+    "updated_at": "2026-06-22"
   },
   {
     "issn_l": "0021-9258",
@@ -47,7 +47,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.sciencedirect.com/journal/journal-of-biological-chemistry",
     "openalex_source_id": "S140251998",
-    "works_per_year": 2450,
+    "works_per_year": 2457,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -59,7 +59,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-15"
+      "last_checked": "2026-06-22"
     },
     "backends": [
       "crossref",
@@ -70,8 +70,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-15",
-    "updated_at": "2026-06-15"
+    "added_at": "2026-06-22",
+    "updated_at": "2026-06-22"
   },
   {
     "issn_l": "0981-9428",
@@ -83,7 +83,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.journals.elsevier.com/plant-physiology-and-biochemistry",
     "openalex_source_id": "S115455909",
-    "works_per_year": 959,
+    "works_per_year": 963,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -95,7 +95,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-15"
+      "last_checked": "2026-06-22"
     },
     "backends": [
       "crossref",
@@ -106,8 +106,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-15",
-    "updated_at": "2026-06-15"
+    "added_at": "2026-06-22",
+    "updated_at": "2026-06-22"
   },
   {
     "issn_l": "0006-291X",
@@ -119,7 +119,7 @@
     "publisher": "Elsevier BV",
     "homepage": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622790/description",
     "openalex_source_id": "S151589183",
-    "works_per_year": 1251,
+    "works_per_year": 1262,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -131,7 +131,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-15"
+      "last_checked": "2026-06-22"
     },
     "backends": [
       "crossref",
@@ -142,8 +142,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-15",
-    "updated_at": "2026-06-15"
+    "added_at": "2026-06-22",
+    "updated_at": "2026-06-22"
   },
   {
     "issn_l": "0892-6638",
@@ -155,7 +155,7 @@
     "publisher": "Wiley",
     "homepage": "http://www.fasebj.org/",
     "openalex_source_id": "S25293849",
-    "works_per_year": 859,
+    "works_per_year": 865,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -167,7 +167,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-15"
+      "last_checked": "2026-06-22"
     },
     "backends": [
       "crossref",
@@ -178,8 +178,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-15",
-    "updated_at": "2026-06-15"
+    "added_at": "2026-06-22",
+    "updated_at": "2026-06-22"
   },
   {
     "issn_l": "1355-8382",
@@ -191,7 +191,7 @@
     "publisher": "Cold Spring Harbor Laboratory Press",
     "homepage": "http://rnajournal.cshlp.org/",
     "openalex_source_id": "S187657468",
-    "works_per_year": 111,
+    "works_per_year": 114,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -202,8 +202,8 @@
     "rss": {
       "url": "http://rnajournal.cshlp.org/rss/current.xml",
       "status": "live",
-      "last_item_date": "2026-05-18",
-      "last_checked": "2026-06-15"
+      "last_item_date": "2026-06-16",
+      "last_checked": "2026-06-22"
     },
     "backends": [
       "rss",
@@ -215,8 +215,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-15",
-    "updated_at": "2026-06-15"
+    "added_at": "2026-06-22",
+    "updated_at": "2026-06-22"
   },
   {
     "issn_l": "0891-5849",
@@ -228,7 +228,7 @@
     "publisher": "Elsevier BV",
     "homepage": "http://www.journals.elsevier.com/free-radical-biology-and-medicine/#description",
     "openalex_source_id": "S128018148",
-    "works_per_year": 1009,
+    "works_per_year": 1013,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -240,7 +240,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-15"
+      "last_checked": "2026-06-22"
     },
     "backends": [
       "crossref",
@@ -251,7 +251,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-15",
-    "updated_at": "2026-06-15"
+    "added_at": "2026-06-22",
+    "updated_at": "2026-06-22"
   }
 ]

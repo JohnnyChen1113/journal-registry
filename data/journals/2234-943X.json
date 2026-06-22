@@ -7,7 +7,7 @@
   "publisher": "Frontiers Media",
   "homepage": "http://www.frontiersin.org/oncology",
   "openalex_source_id": "S2596394214",
-  "works_per_year": 3714,
+  "works_per_year": 3752,
   "oa_status": "oa",
   "domain": "medicine",
   "field_tags": [
@@ -18,8 +18,8 @@
   "rss": {
     "url": "https://www.frontiersin.org/journals/oncology/rss",
     "status": "live",
-    "last_item_date": "2026-06-15",
-    "last_checked": "2026-06-15"
+    "last_item_date": "2026-06-22",
+    "last_checked": "2026-06-22"
   },
   "backends": [
     "rss",
@@ -31,6 +31,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-15",
-  "updated_at": "2026-06-15"
+  "added_at": "2026-06-22",
+  "updated_at": "2026-06-22"
 }

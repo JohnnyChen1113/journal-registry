@@ -8,7 +8,7 @@
   "publisher": "Wiley",
   "homepage": "https://nph.onlinelibrary.wiley.com/journal/14698137",
   "openalex_source_id": "S58631098",
-  "works_per_year": 790,
+  "works_per_year": 796,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -20,7 +20,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-06-15"
+    "last_checked": "2026-06-22"
   },
   "backends": [
     "crossref",
@@ -31,6 +31,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-15",
-  "updated_at": "2026-06-15"
+  "added_at": "2026-06-22",
+  "updated_at": "2026-06-22"
 }

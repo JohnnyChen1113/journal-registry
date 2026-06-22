@@ -9,7 +9,7 @@
     "publisher": "Elsevier BV",
     "homepage": "http://www.cell.com/cell-stem-cell/home",
     "openalex_source_id": "S128124174",
-    "works_per_year": 140,
+    "works_per_year": 142,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -21,7 +21,7 @@
       "url": "https://www.cell.com/cell-stem-cell/current.rss",
       "status": "live",
       "last_item_date": "2026-06-04",
-      "last_checked": "2026-06-15"
+      "last_checked": "2026-06-22"
     },
     "backends": [
       "rss",
@@ -33,7 +33,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-15",
-    "updated_at": "2026-06-15"
+    "added_at": "2026-06-22",
+    "updated_at": "2026-06-22"
   }
 ]

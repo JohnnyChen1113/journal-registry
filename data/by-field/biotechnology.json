@@ -9,7 +9,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "http://www.nature.com/nbt",
     "openalex_source_id": "S106963461",
-    "works_per_year": 372,
+    "works_per_year": 378,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -20,8 +20,8 @@
     "rss": {
       "url": "https://www.nature.com/nbt.rss",
       "status": "live",
-      "last_item_date": "2026-06-11",
-      "last_checked": "2026-06-15"
+      "last_item_date": "2026-06-19",
+      "last_checked": "2026-06-22"
     },
     "backends": [
       "rss",
@@ -33,8 +33,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-15",
-    "updated_at": "2026-06-15"
+    "added_at": "2026-06-22",
+    "updated_at": "2026-06-22"
   },
   {
     "issn_l": "0167-7799",
@@ -47,7 +47,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.sciencedirect.com/journal/trends-in-biotechnology",
     "openalex_source_id": "S147849156",
-    "works_per_year": 211,
+    "works_per_year": 215,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -59,7 +59,7 @@
       "url": "https://www.cell.com/trends/biotechnology/current.rss",
       "status": "live",
       "last_item_date": "2026-06-01",
-      "last_checked": "2026-06-15"
+      "last_checked": "2026-06-22"
     },
     "backends": [
       "rss",
@@ -71,8 +71,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-15",
-    "updated_at": "2026-06-15"
+    "added_at": "2026-06-22",
+    "updated_at": "2026-06-22"
   },
   {
     "issn_l": "1467-7644",
@@ -84,7 +84,7 @@
     "publisher": "Wiley",
     "homepage": "https://onlinelibrary.wiley.com/journal/14677652",
     "openalex_source_id": "S36510773",
-    "works_per_year": 361,
+    "works_per_year": 363,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -96,7 +96,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-15"
+      "last_checked": "2026-06-22"
     },
     "backends": [
       "crossref",
@@ -107,7 +107,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-15",
-    "updated_at": "2026-06-15"
+    "added_at": "2026-06-22",
+    "updated_at": "2026-06-22"
   }
 ]

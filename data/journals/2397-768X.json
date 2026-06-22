@@ -7,7 +7,7 @@
   "publisher": "Nature Portfolio",
   "homepage": "https://www.nature.com/npjprecisiononcology/",
   "openalex_source_id": "S4210211538",
-  "works_per_year": 346,
+  "works_per_year": 352,
   "oa_status": "oa",
   "domain": "medicine",
   "field_tags": [
@@ -18,8 +18,8 @@
   "rss": {
     "url": "https://www.nature.com/npjprecisiononcology.rss",
     "status": "live",
-    "last_item_date": "2026-06-15",
-    "last_checked": "2026-06-15"
+    "last_item_date": "2026-06-22",
+    "last_checked": "2026-06-22"
   },
   "backends": [
     "rss",
@@ -31,6 +31,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-15",
-  "updated_at": "2026-06-15"
+  "added_at": "2026-06-22",
+  "updated_at": "2026-06-22"
 }

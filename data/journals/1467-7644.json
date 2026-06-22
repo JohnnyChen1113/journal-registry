@@ -8,7 +8,7 @@
   "publisher": "Wiley",
   "homepage": "https://onlinelibrary.wiley.com/journal/14677652",
   "openalex_source_id": "S36510773",
-  "works_per_year": 361,
+  "works_per_year": 363,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -20,7 +20,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-06-15"
+    "last_checked": "2026-06-22"
   },
   "backends": [
     "crossref",
@@ -31,6 +31,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-15",
-  "updated_at": "2026-06-15"
+  "added_at": "2026-06-22",
+  "updated_at": "2026-06-22"
 }
