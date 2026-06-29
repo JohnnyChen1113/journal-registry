@@ -9,7 +9,7 @@
     "publisher": "BioMed Central",
     "homepage": "https://genomebiology.biomedcentral.com/",
     "openalex_source_id": "S81160022",
-    "works_per_year": 336,
+    "works_per_year": 337,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -21,7 +21,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -32,8 +32,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "1548-7091",
@@ -45,7 +45,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/nmeth/",
     "openalex_source_id": "S127827428",
-    "works_per_year": 335,
+    "works_per_year": 338,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -55,8 +55,8 @@
     "rss": {
       "url": "https://www.nature.com/nmeth.rss",
       "status": "live",
-      "last_item_date": "2026-06-22",
-      "last_checked": "2026-06-22"
+      "last_item_date": "2026-06-29",
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "rss",
@@ -68,8 +68,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "1087-0156",
@@ -81,7 +81,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "http://www.nature.com/nbt",
     "openalex_source_id": "S106963461",
-    "works_per_year": 378,
+    "works_per_year": 380,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -92,8 +92,8 @@
     "rss": {
       "url": "https://www.nature.com/nbt.rss",
       "status": "live",
-      "last_item_date": "2026-06-19",
-      "last_checked": "2026-06-22"
+      "last_item_date": "2026-06-29",
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "rss",
@@ -105,8 +105,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "2405-4712",
@@ -119,7 +119,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.journals.elsevier.com/cell-systems",
     "openalex_source_id": "S2764739556",
-    "works_per_year": 106,
+    "works_per_year": 107,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -131,7 +131,7 @@
       "url": "https://www.cell.com/cell-systems/current.rss",
       "status": "live",
       "last_item_date": "2026-06-17",
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "rss",
@@ -143,8 +143,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "1367-4803",
@@ -156,7 +156,7 @@
     "publisher": "Oxford University Press",
     "homepage": "http://bioinformatics.oxfordjournals.org/",
     "openalex_source_id": "S52395412",
-    "works_per_year": 596,
+    "works_per_year": 603,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -168,7 +168,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -179,8 +179,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "1750-2799",
@@ -192,7 +192,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/nprot/",
     "openalex_source_id": "S109387254",
-    "works_per_year": 150,
+    "works_per_year": 152,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -202,8 +202,8 @@
     "rss": {
       "url": "https://www.nature.com/nprot.rss",
       "status": "live",
-      "last_item_date": "2026-06-17",
-      "last_checked": "2026-06-22"
+      "last_item_date": "2026-06-25",
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "rss",
@@ -215,8 +215,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "2667-2375",
@@ -227,7 +227,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.journals.elsevier.com/cell-reports-methods",
     "openalex_source_id": "S4210214705",
-    "works_per_year": 155,
+    "works_per_year": 157,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -238,7 +238,7 @@
       "url": "https://www.cell.com/cell-reports-methods/current.rss",
       "status": "live",
       "last_item_date": "2026-05-15",
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "rss",
@@ -250,8 +250,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "2666-1667",
@@ -262,7 +262,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.journals.elsevier.com/star-protocols",
     "openalex_source_id": "S4210212477",
-    "works_per_year": 597,
+    "works_per_year": 601,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -272,8 +272,8 @@
     "rss": {
       "url": "https://www.cell.com/star-protocols/current.rss",
       "status": "live",
-      "last_item_date": "2026-06-20",
-      "last_checked": "2026-06-22"
+      "last_item_date": "2026-06-26",
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "rss",
@@ -285,8 +285,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "0167-6857",
@@ -298,7 +298,7 @@
     "publisher": "Springer Science+Business Media",
     "homepage": "https://link.springer.com/book/10.1007/978-3-642-79048-5",
     "openalex_source_id": "S32261165",
-    "works_per_year": 283,
+    "works_per_year": 286,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -310,7 +310,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -321,8 +321,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "1940-087X",
@@ -333,7 +333,7 @@
     "publisher": "MyJOVE",
     "homepage": "http://www.jove.com/",
     "openalex_source_id": "S199738284",
-    "works_per_year": 2312,
+    "works_per_year": 2340,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -344,7 +344,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -355,8 +355,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "1471-2105",
@@ -367,7 +367,7 @@
     "publisher": "BioMed Central",
     "homepage": "http://www.biomedcentral.com/bmcbioinformatics/",
     "openalex_source_id": "S19032547",
-    "works_per_year": 299,
+    "works_per_year": 301,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -379,7 +379,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -390,7 +390,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   }
 ]

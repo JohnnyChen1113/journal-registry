@@ -8,7 +8,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "http://www.nature.com/nmicrobiol/",
     "openalex_source_id": "S2764926557",
-    "works_per_year": 282,
+    "works_per_year": 285,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -18,8 +18,8 @@
     "rss": {
       "url": "https://www.nature.com/nmicrobiol.rss",
       "status": "live",
-      "last_item_date": "2026-06-22",
-      "last_checked": "2026-06-22"
+      "last_item_date": "2026-06-26",
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "rss",
@@ -31,8 +31,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "1740-1526",
@@ -44,7 +44,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/nrmicro/",
     "openalex_source_id": "S56802129",
-    "works_per_year": 108,
+    "works_per_year": 110,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -55,8 +55,8 @@
     "rss": {
       "url": "https://www.nature.com/nrmicro.rss",
       "status": "live",
-      "last_item_date": "2026-06-22",
-      "last_checked": "2026-06-22"
+      "last_item_date": "2026-06-24",
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "rss",
@@ -68,8 +68,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "1931-3128",
@@ -81,7 +81,7 @@
     "publisher": "Cell Press",
     "homepage": "https://www.sciencedirect.com/journal/cell-host-and-microbe",
     "openalex_source_id": "S207313999",
-    "works_per_year": 184,
+    "works_per_year": 185,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -93,7 +93,7 @@
       "url": "https://www.cell.com/cell-host-microbe/current.rss",
       "status": "live",
       "last_item_date": "2026-06-10",
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "rss",
@@ -105,8 +105,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "0966-842X",
@@ -130,7 +130,7 @@
       "url": "https://www.cell.com/trends/microbiology/current.rss",
       "status": "live",
       "last_item_date": "2026-06-01",
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "rss",
@@ -142,8 +142,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "1664-302X",
@@ -154,7 +154,7 @@
     "publisher": "Frontiers Media",
     "homepage": "http://www.frontiersin.org/microbiology",
     "openalex_source_id": "S2484704948",
-    "works_per_year": 2801,
+    "works_per_year": 2828,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -164,8 +164,8 @@
     "rss": {
       "url": "https://www.frontiersin.org/journals/microbiology/rss",
       "status": "live",
-      "last_item_date": "2026-06-22",
-      "last_checked": "2026-06-22"
+      "last_item_date": "2026-06-29",
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "rss",
@@ -177,8 +177,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "2576-098X",
@@ -189,7 +189,7 @@
     "publisher": "American Society for Microbiology",
     "homepage": "http://MRA.asm.org",
     "openalex_source_id": "S4210232526",
-    "works_per_year": 785,
+    "works_per_year": 795,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -201,7 +201,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -212,8 +212,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "1466-5026",
@@ -225,7 +225,7 @@
     "publisher": "Microbiology Society",
     "homepage": "http://ijs.sgmjournals.org/",
     "openalex_source_id": "S102181007",
-    "works_per_year": 331,
+    "works_per_year": 334,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -237,7 +237,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -248,8 +248,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "0191-2917",
@@ -261,7 +261,7 @@
     "publisher": "American Phytopathological Society",
     "homepage": null,
     "openalex_source_id": "S135458494",
-    "works_per_year": 799,
+    "works_per_year": 813,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -273,7 +273,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -284,8 +284,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "0885-5765",
@@ -297,7 +297,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.journals.elsevier.com/physiological-and-molecular-plant-pathology",
     "openalex_source_id": "S54634327",
-    "works_per_year": 326,
+    "works_per_year": 331,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -309,7 +309,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -320,8 +320,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "2165-0497",
@@ -332,7 +332,7 @@
     "publisher": "American Society for Microbiology",
     "homepage": "https://journals.asm.org/journal/spectrum",
     "openalex_source_id": "S2764766708",
-    "works_per_year": 1235,
+    "works_per_year": 1246,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -344,7 +344,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -355,8 +355,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "0343-8651",
@@ -368,7 +368,7 @@
     "publisher": "Springer Science+Business Media",
     "homepage": "https://link.springer.com/journal/284",
     "openalex_source_id": "S2248630",
-    "works_per_year": 482,
+    "works_per_year": 486,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -379,7 +379,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -390,8 +390,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "2150-7511",
@@ -403,7 +403,7 @@
     "publisher": "American Society for Microbiology",
     "homepage": "https://journals.asm.org/journal/mbio",
     "openalex_source_id": "S4210201176",
-    "works_per_year": 642,
+    "works_per_year": 647,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -414,7 +414,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -425,8 +425,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "1471-2180",
@@ -437,7 +437,7 @@
     "publisher": "BioMed Central",
     "homepage": "https://bmcmicrobiol.biomedcentral.com",
     "openalex_source_id": "S128543880",
-    "works_per_year": 702,
+    "works_per_year": 711,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -448,7 +448,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -459,8 +459,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "0304-8608",
@@ -472,7 +472,7 @@
     "publisher": "Springer Science+Business Media",
     "homepage": "http://www.springer.com/biomed/virology/journal/705",
     "openalex_source_id": "S57491091",
-    "works_per_year": 238,
+    "works_per_year": 240,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -484,7 +484,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -495,8 +495,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "1125-4653",
@@ -508,7 +508,7 @@
     "publisher": "Springer Science+Business Media",
     "homepage": "https://link.springer.com/journal/42161",
     "openalex_source_id": "S112652565",
-    "works_per_year": 221,
+    "works_per_year": 224,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -520,7 +520,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -531,7 +531,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   }
 ]

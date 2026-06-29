@@ -9,7 +9,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.journals.elsevier.com/the-lancet-infectious-diseases",
     "openalex_source_id": "S23772524",
-    "works_per_year": 426,
+    "works_per_year": 430,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -21,7 +21,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -32,8 +32,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "2165-0497",
@@ -44,7 +44,7 @@
     "publisher": "American Society for Microbiology",
     "homepage": "https://journals.asm.org/journal/spectrum",
     "openalex_source_id": "S2764766708",
-    "works_per_year": 1235,
+    "works_per_year": 1246,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -56,7 +56,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -67,8 +67,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "0304-8608",
@@ -80,7 +80,7 @@
     "publisher": "Springer Science+Business Media",
     "homepage": "http://www.springer.com/biomed/virology/journal/705",
     "openalex_source_id": "S57491091",
-    "works_per_year": 238,
+    "works_per_year": 240,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -92,7 +92,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -103,7 +103,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   }
 ]

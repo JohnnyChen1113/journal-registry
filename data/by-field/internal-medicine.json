@@ -9,7 +9,7 @@
     "publisher": "American College of Physicians",
     "homepage": "http://www.annals.org/",
     "openalex_source_id": "S119722071",
-    "works_per_year": 538,
+    "works_per_year": 541,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -21,7 +21,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -32,7 +32,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   }
 ]

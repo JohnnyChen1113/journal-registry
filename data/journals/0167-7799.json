@@ -9,7 +9,7 @@
   "publisher": "Elsevier BV",
   "homepage": "https://www.sciencedirect.com/journal/trends-in-biotechnology",
   "openalex_source_id": "S147849156",
-  "works_per_year": 215,
+  "works_per_year": 216,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -21,7 +21,7 @@
     "url": "https://www.cell.com/trends/biotechnology/current.rss",
     "status": "live",
     "last_item_date": "2026-06-01",
-    "last_checked": "2026-06-22"
+    "last_checked": "2026-06-29"
   },
   "backends": [
     "rss",
@@ -33,6 +33,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-22",
-  "updated_at": "2026-06-22"
+  "added_at": "2026-06-29",
+  "updated_at": "2026-06-29"
 }

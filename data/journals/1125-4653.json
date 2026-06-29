@@ -8,7 +8,7 @@
   "publisher": "Springer Science+Business Media",
   "homepage": "https://link.springer.com/journal/42161",
   "openalex_source_id": "S112652565",
-  "works_per_year": 221,
+  "works_per_year": 224,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -20,7 +20,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-06-22"
+    "last_checked": "2026-06-29"
   },
   "backends": [
     "crossref",
@@ -31,6 +31,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-22",
-  "updated_at": "2026-06-22"
+  "added_at": "2026-06-29",
+  "updated_at": "2026-06-29"
 }

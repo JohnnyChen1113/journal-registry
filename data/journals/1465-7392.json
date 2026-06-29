@@ -8,7 +8,7 @@
   "publisher": "Nature Portfolio",
   "homepage": "http://www.nature.com/naturecellbiology",
   "openalex_source_id": "S151741590",
-  "works_per_year": 230,
+  "works_per_year": 232,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -18,8 +18,8 @@
   "rss": {
     "url": "https://www.nature.com/ncb.rss",
     "status": "live",
-    "last_item_date": "2026-06-22",
-    "last_checked": "2026-06-22"
+    "last_item_date": "2026-06-29",
+    "last_checked": "2026-06-29"
   },
   "backends": [
     "rss",
@@ -31,6 +31,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-22",
-  "updated_at": "2026-06-22"
+  "added_at": "2026-06-29",
+  "updated_at": "2026-06-29"
 }

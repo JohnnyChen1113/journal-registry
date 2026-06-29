@@ -9,7 +9,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/hortres/",
     "openalex_source_id": "S2764753230",
-    "works_per_year": 329,
+    "works_per_year": 331,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -21,7 +21,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -32,7 +32,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   }
 ]

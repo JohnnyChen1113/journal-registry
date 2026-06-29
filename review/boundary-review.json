@@ -1590,5 +1590,43 @@
     ],
     "status": "pending",
     "discovered_at": "2026-06-08"
+  },
+  {
+    "issn_l": "2075-1729",
+    "issn": [
+      "2075-1729"
+    ],
+    "name": "Life",
+    "publisher": "Multidisciplinary Digital Publishing Institute",
+    "homepage": "http://www.mdpi.com/journal/life",
+    "openalex_source_id": "S4210200765",
+    "works_per_year": 1553,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "origins and evolution of life",
+      "covid-19 clinical research studies",
+      "rna and protein synthesis mechanisms"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-06-29"
+  },
+  {
+    "issn_l": "2296-858X",
+    "issn": [
+      "2296-858X"
+    ],
+    "name": "Frontiers in Medicine",
+    "publisher": "Frontiers Media",
+    "homepage": "http://www.frontiersin.org/medicine",
+    "openalex_source_id": "S2597052008",
+    "works_per_year": 3893,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "covid-19 clinical research studies",
+      "sepsis diagnosis and treatment",
+      "respiratory support and mechanisms"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-06-29"
   }
 ]

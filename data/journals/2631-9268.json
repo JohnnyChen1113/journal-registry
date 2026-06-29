@@ -7,7 +7,7 @@
   "publisher": "Oxford University Press",
   "homepage": "https://academic.oup.com/nargab",
   "openalex_source_id": "S4210241000",
-  "works_per_year": 155,
+  "works_per_year": 157,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -19,7 +19,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-06-22"
+    "last_checked": "2026-06-29"
   },
   "backends": [
     "crossref",
@@ -30,6 +30,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-22",
-  "updated_at": "2026-06-22"
+  "added_at": "2026-06-29",
+  "updated_at": "2026-06-29"
 }

@@ -10,7 +10,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.journals.elsevier.com/cell-systems",
     "openalex_source_id": "S2764739556",
-    "works_per_year": 106,
+    "works_per_year": 107,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -22,7 +22,7 @@
       "url": "https://www.cell.com/cell-systems/current.rss",
       "status": "live",
       "last_item_date": "2026-06-17",
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "rss",
@@ -34,8 +34,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   },
   {
     "issn_l": "1553-734X",
@@ -47,7 +47,7 @@
     "publisher": "Public Library of Science",
     "homepage": "http://journals.plos.org/ploscompbiol/",
     "openalex_source_id": "S86033158",
-    "works_per_year": 670,
+    "works_per_year": 677,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -59,7 +59,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-06-22"
+      "last_checked": "2026-06-29"
     },
     "backends": [
       "crossref",
@@ -70,7 +70,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-06-22",
-    "updated_at": "2026-06-22"
+    "added_at": "2026-06-29",
+    "updated_at": "2026-06-29"
   }
 ]

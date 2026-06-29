@@ -7,7 +7,7 @@
   "publisher": "Nature Portfolio",
   "homepage": "https://www.nature.com/natmetab/",
   "openalex_source_id": "S4210232714",
-  "works_per_year": 203,
+  "works_per_year": 204,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -17,8 +17,8 @@
   "rss": {
     "url": "https://www.nature.com/natmetab.rss",
     "status": "live",
-    "last_item_date": "2026-06-16",
-    "last_checked": "2026-06-22"
+    "last_item_date": "2026-06-29",
+    "last_checked": "2026-06-29"
   },
   "backends": [
     "rss",
@@ -30,6 +30,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-06-22",
-  "updated_at": "2026-06-22"
+  "added_at": "2026-06-29",
+  "updated_at": "2026-06-29"
 }
