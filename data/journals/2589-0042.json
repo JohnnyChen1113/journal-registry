@@ -7,7 +7,7 @@
   "publisher": "Cell Press",
   "homepage": "https://www.sciencedirect.com/journal/iscience",
   "openalex_source_id": "S2898358376",
-  "works_per_year": 2542,
+  "works_per_year": 2604,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -17,8 +17,8 @@
   "rss": {
     "url": "https://www.cell.com/iscience/current.rss",
     "status": "live",
-    "last_item_date": "2026-07-05",
-    "last_checked": "2026-07-06"
+    "last_item_date": "2026-07-19",
+    "last_checked": "2026-07-20"
   },
   "backends": [
     "rss",
@@ -30,6 +30,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-07-06",
-  "updated_at": "2026-07-06"
+  "added_at": "2026-07-20",
+  "updated_at": "2026-07-20"
 }

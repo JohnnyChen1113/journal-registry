@@ -1628,5 +1628,323 @@
     ],
     "status": "pending",
     "discovered_at": "2026-06-29"
+  },
+  {
+    "issn_l": "1526-498X",
+    "issn": [
+      "1526-498X",
+      "1526-4998"
+    ],
+    "name": "Pest Management Science",
+    "publisher": "Wiley",
+    "homepage": "https://onlinelibrary.wiley.com/journal/15264998",
+    "openalex_source_id": "S31777576",
+    "works_per_year": 721,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "insect-plant interactions and control",
+      "insect resistance and genetics",
+      "insect pest control strategies"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-07-20"
+  },
+  {
+    "issn_l": "2095-3119",
+    "issn": [
+      "2095-3119",
+      "2352-3425"
+    ],
+    "name": "Journal of Integrative Agriculture",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/journal-of-integrative-agriculture",
+    "openalex_source_id": "S2491286908",
+    "works_per_year": 382,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "soil carbon and nitrogen dynamics",
+      "rice cultivation and yield improvement",
+      "plant nutrient uptake and metabolism"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-07-20"
+  },
+  {
+    "issn_l": "0176-1617",
+    "issn": [
+      "0176-1617",
+      "1618-1328"
+    ],
+    "name": "Journal of Plant Physiology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/journal-of-plant-physiology",
+    "openalex_source_id": "S148694123",
+    "works_per_year": 145,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "plant stress responses and tolerance",
+      "photosynthetic processes and mechanisms",
+      "plant tissue culture and regeneration"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-07-20"
+  },
+  {
+    "issn_l": "1054-5476",
+    "issn": [
+      "1054-5476",
+      "1475-2689"
+    ],
+    "name": "In Vitro Cellular & Developmental Biology - Plant",
+    "publisher": "Springer Science+Business Media",
+    "homepage": "http://www.springer.com/journal/11627/",
+    "openalex_source_id": "S200668369",
+    "works_per_year": 87,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "plant tissue culture and regeneration",
+      "seed germination and physiology",
+      "transgenic plants and applications"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-07-20"
+  },
+  {
+    "issn_l": "1549-9596",
+    "issn": [
+      "1549-9596",
+      "1549-960X"
+    ],
+    "name": "Journal of Chemical Information and Modeling",
+    "publisher": "American Chemical Society",
+    "homepage": "http://pubs.acs.org/journals/jcisd8/index.html",
+    "openalex_source_id": "S167262187",
+    "works_per_year": 870,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "computational drug discovery methods",
+      "protein structure and dynamics",
+      "machine learning in materials science"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-07-20"
+  },
+  {
+    "issn_l": "0021-9193",
+    "issn": [
+      "0021-9193",
+      "1067-8832",
+      "1098-5530"
+    ],
+    "name": "Journal of Bacteriology",
+    "publisher": "American Society for Microbiology",
+    "homepage": "http://jb.asm.org/",
+    "openalex_source_id": "S133274750",
+    "works_per_year": 187,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "bacterial genetics and biotechnology",
+      "bacteriophages and microbial interactions",
+      "rna and protein synthesis mechanisms"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-07-20"
+  },
+  {
+    "issn_l": "2452-2198",
+    "issn": [
+      "2452-2198"
+    ],
+    "name": "Rhizosphere",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/rhizosphere",
+    "openalex_source_id": "S2898510056",
+    "works_per_year": 188,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "plant-microbe interactions and immunity",
+      "legume nitrogen fixing symbiosis",
+      "mycorrhizal fungi and plant interactions"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-07-20"
+  },
+  {
+    "issn_l": "1949-2448",
+    "issn": [
+      "1949-2448",
+      "1949-2456"
+    ],
+    "name": "Springer protocols handbooks/Springer protocols",
+    "publisher": "Humana Press",
+    "homepage": null,
+    "openalex_source_id": "S4210224522",
+    "works_per_year": 133,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "crispr and genetic engineering",
+      "plant tissue culture and regeneration",
+      "advanced proteomics techniques and applications"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-07-20"
+  },
+  {
+    "issn_l": "0026-265X",
+    "issn": [
+      "0026-265X",
+      "1095-9149"
+    ],
+    "name": "Microchemical Journal",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/microchemical-journal",
+    "openalex_source_id": "S151030190",
+    "works_per_year": 3038,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "analytical chemistry methods development",
+      "electrochemical sensors and biosensors",
+      "advanced biosensing and bioanalysis techniques"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-07-20"
+  },
+  {
+    "issn_l": "2331-8325",
+    "issn": [
+      "2331-8325"
+    ],
+    "name": "BIO-PROTOCOL",
+    "publisher": "American Academy of Arts and Sciences",
+    "homepage": "http://www.bio-protocol.org/archive.aspx",
+    "openalex_source_id": "S4210179406",
+    "works_per_year": 318,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "legal and regulatory analysis",
+      "military technology and strategies",
+      "linguistic, cultural, and literary studies"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-07-20"
+  },
+  {
+    "issn_l": "2309-608X",
+    "issn": [
+      "2309-608X"
+    ],
+    "name": "Journal of Fungi",
+    "publisher": "Multidisciplinary Digital Publishing Institute",
+    "homepage": "https://www.mdpi.com/journal/jof",
+    "openalex_source_id": "S2737643958",
+    "works_per_year": 760,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "plant pathogens and fungal diseases",
+      "antifungal resistance and susceptibility",
+      "fungal infections and studies"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-07-20"
+  },
+  {
+    "issn_l": "0016-6731",
+    "issn": [
+      "0016-6731",
+      "1943-2631"
+    ],
+    "name": "Genetics",
+    "publisher": "Oxford University Press",
+    "homepage": "http://www.genetics.org/",
+    "openalex_source_id": "S65932378",
+    "works_per_year": 230,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "chromosomal and genetic variations",
+      "genetic mapping and diversity in plants and animals",
+      "evolution and genetic dynamics"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-07-20"
+  },
+  {
+    "issn_l": "2352-3042",
+    "issn": [
+      "2352-3042",
+      "2352-4820"
+    ],
+    "name": "Genes & Diseases",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/genes-and-diseases",
+    "openalex_source_id": "S2764642421",
+    "works_per_year": 340,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "rna modifications and cancer",
+      "cancer-related molecular mechanisms research",
+      "epigenetics and dna methylation"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-07-20"
+  },
+  {
+    "issn_l": "1525-0016",
+    "issn": [
+      "1525-0016",
+      "1525-0024"
+    ],
+    "name": "Molecular Therapy",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/molecular-therapy",
+    "openalex_source_id": "S51596929",
+    "works_per_year": 449,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "virus-based gene therapy research",
+      "rna interference and gene delivery",
+      "crispr and genetic engineering"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-07-20"
+  },
+  {
+    "issn_l": "0304-3835",
+    "issn": [
+      "0304-3835",
+      "1872-7980"
+    ],
+    "name": "Cancer Letters",
+    "publisher": "Elsevier BV",
+    "homepage": "http://www.elsevier.com/wps/find/journaldescription.cws_home/506050/description",
+    "openalex_source_id": "S106234763",
+    "works_per_year": 536,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "cancer, hypoxia, and metabolism",
+      "cancer-related molecular pathways",
+      "diverse scientific and economic studies"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-07-20"
+  },
+  {
+    "issn_l": "0956-5663",
+    "issn": [
+      "0956-5663",
+      "1873-4235"
+    ],
+    "name": "Biosensors and Bioelectronics",
+    "publisher": "Elsevier BV",
+    "homepage": "http://www.journals.elsevier.com/biosensors-and-bioelectronics/",
+    "openalex_source_id": "S156181945",
+    "works_per_year": 863,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "advanced biosensing and bioanalysis techniques",
+      "biosensors and analytical detection",
+      "electrochemical sensors and biosensors"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-07-20"
   }
 ]

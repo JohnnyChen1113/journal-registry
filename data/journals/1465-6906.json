@@ -1,6 +1,8 @@
 {
-  "issn_l": "1474-7596",
+  "issn_l": "1465-6906",
   "issn": [
+    "1465-6906",
+    "1465-6914",
     "1474-7596",
     "1474-760X"
   ],
@@ -8,7 +10,7 @@
   "publisher": "BioMed Central",
   "homepage": "https://genomebiology.biomedcentral.com/",
   "openalex_source_id": "S81160022",
-  "works_per_year": 340,
+  "works_per_year": 352,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -20,7 +22,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-07-06"
+    "last_checked": "2026-07-20"
   },
   "backends": [
     "crossref",
@@ -31,6 +33,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-07-06",
-  "updated_at": "2026-07-06"
+  "added_at": "2026-07-20",
+  "updated_at": "2026-07-20"
 }
