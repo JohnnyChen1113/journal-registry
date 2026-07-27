@@ -9,7 +9,7 @@
     "publisher": "Cell Press",
     "homepage": "https://www.sciencedirect.com/journal/cell-host-and-microbe",
     "openalex_source_id": "S207313999",
-    "works_per_year": 192,
+    "works_per_year": 193,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -19,12 +19,11 @@
     "tier": "top",
     "rss": {
       "url": "https://www.cell.com/cell-host-microbe/current.rss",
-      "status": "live",
-      "last_item_date": "2026-07-08",
-      "last_checked": "2026-07-20"
+      "status": "dead",
+      "last_item_date": null,
+      "last_checked": "2026-07-27"
     },
     "backends": [
-      "rss",
       "crossref",
       "openalex"
     ],
@@ -33,7 +32,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   }
 ]

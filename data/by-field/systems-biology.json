@@ -20,12 +20,11 @@
     "tier": "specialist",
     "rss": {
       "url": "https://www.cell.com/cell-systems/current.rss",
-      "status": "live",
-      "last_item_date": "2026-07-15",
-      "last_checked": "2026-07-20"
+      "status": "dead",
+      "last_item_date": null,
+      "last_checked": "2026-07-27"
     },
     "backends": [
-      "rss",
       "crossref",
       "openalex"
     ],
@@ -34,8 +33,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "1553-734X",
@@ -47,7 +46,7 @@
     "publisher": "Public Library of Science",
     "homepage": "http://journals.plos.org/ploscompbiol/",
     "openalex_source_id": "S86033158",
-    "works_per_year": 717,
+    "works_per_year": 723,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -59,7 +58,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-07-20"
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "crossref",
@@ -70,7 +69,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   }
 ]

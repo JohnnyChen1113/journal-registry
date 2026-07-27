@@ -9,7 +9,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/nchembio/",
     "openalex_source_id": "S51309854",
-    "works_per_year": 255,
+    "works_per_year": 256,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -20,8 +20,8 @@
     "rss": {
       "url": "https://www.nature.com/nchembio.rss",
       "status": "live",
-      "last_item_date": "2026-07-17",
-      "last_checked": "2026-07-20"
+      "last_item_date": "2026-07-23",
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "rss",
@@ -33,8 +33,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "2451-9448",
@@ -46,7 +46,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.cell.com/cell-chemical-biology/home",
     "openalex_source_id": "S4210231961",
-    "works_per_year": 133,
+    "works_per_year": 134,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -55,12 +55,11 @@
     "tier": "specialist",
     "rss": {
       "url": "https://www.cell.com/cell-chemical-biology/current.rss",
-      "status": "live",
-      "last_item_date": "2026-07-16",
-      "last_checked": "2026-07-20"
+      "status": "dead",
+      "last_item_date": null,
+      "last_checked": "2026-07-27"
     },
     "backends": [
-      "rss",
       "crossref",
       "openalex"
     ],
@@ -69,7 +68,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   }
 ]

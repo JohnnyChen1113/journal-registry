@@ -1,13 +1,14 @@
 {
   "issn_l": "1940-087X",
   "issn": [
-    "1940-087X"
+    "1940-087X",
+    "2834-8400"
   ],
   "name": "Journal of Visualized Experiments",
   "publisher": "MyJOVE",
   "homepage": "http://www.jove.com/",
   "openalex_source_id": "S199738284",
-  "works_per_year": 2391,
+  "works_per_year": 2412,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -18,7 +19,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-07-20"
+    "last_checked": "2026-07-27"
   },
   "backends": [
     "crossref",
@@ -29,6 +30,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-07-20",
-  "updated_at": "2026-07-20"
+  "added_at": "2026-07-27",
+  "updated_at": "2026-07-27"
 }

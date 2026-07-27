@@ -21,7 +21,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-07-20"
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "crossref",
@@ -32,8 +32,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "2374-2437",
@@ -45,7 +45,7 @@
     "publisher": "American Medical Association",
     "homepage": "https://jamanetwork.com/journals/jamaoncology",
     "openalex_source_id": "S2756165422",
-    "works_per_year": 299,
+    "works_per_year": 301,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -57,7 +57,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-07-20"
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "crossref",
@@ -68,8 +68,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "1535-6108",
@@ -81,7 +81,7 @@
     "publisher": "Cell Press",
     "homepage": "https://www.sciencedirect.com/journal/cancer-cell",
     "openalex_source_id": "S25671836",
-    "works_per_year": 177,
+    "works_per_year": 178,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -91,12 +91,11 @@
     "tier": "top",
     "rss": {
       "url": "https://www.cell.com/cancer-cell/current.rss",
-      "status": "live",
-      "last_item_date": "2026-07-13",
-      "last_checked": "2026-07-20"
+      "status": "dead",
+      "last_item_date": null,
+      "last_checked": "2026-07-27"
     },
     "backends": [
-      "rss",
       "crossref",
       "openalex"
     ],
@@ -105,8 +104,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "2662-1347",
@@ -117,7 +116,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/natcancer/",
     "openalex_source_id": "S4210236562",
-    "works_per_year": 173,
+    "works_per_year": 174,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -128,8 +127,8 @@
     "rss": {
       "url": "https://www.nature.com/natcancer.rss",
       "status": "live",
-      "last_item_date": "2026-07-17",
-      "last_checked": "2026-07-20"
+      "last_item_date": "2026-07-21",
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "rss",
@@ -141,8 +140,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "1474-175X",
@@ -165,8 +164,8 @@
     "rss": {
       "url": "https://www.nature.com/nrc.rss",
       "status": "live",
-      "last_item_date": "2026-07-15",
-      "last_checked": "2026-07-20"
+      "last_item_date": "2026-07-21",
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "rss",
@@ -178,8 +177,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "2405-8025",
@@ -201,12 +200,11 @@
     "tier": "specialist",
     "rss": {
       "url": "https://www.cell.com/trends/cancer/current.rss",
-      "status": "live",
-      "last_item_date": "2026-07-01",
-      "last_checked": "2026-07-20"
+      "status": "dead",
+      "last_item_date": null,
+      "last_checked": "2026-07-27"
     },
     "backends": [
-      "rss",
       "crossref",
       "openalex"
     ],
@@ -215,8 +213,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "0008-5472",
@@ -228,7 +226,7 @@
     "publisher": "American Association for Cancer Research",
     "homepage": "http://cancerres.aacrjournals.org/",
     "openalex_source_id": "S168522863",
-    "works_per_year": 9303,
+    "works_per_year": 9306,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -240,7 +238,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-07-20"
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "crossref",
@@ -251,8 +249,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "0732-183X",
@@ -264,7 +262,7 @@
     "publisher": "Lippincott Williams & Wilkins",
     "homepage": "http://www.jco.org/",
     "openalex_source_id": "S15137598",
-    "works_per_year": 8845,
+    "works_per_year": 8851,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -276,7 +274,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-07-20"
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "crossref",
@@ -287,8 +285,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "1078-0432",
@@ -300,7 +298,7 @@
     "publisher": "American Association for Cancer Research",
     "homepage": "http://clincancerres.aacrjournals.org/",
     "openalex_source_id": "S183149254",
-    "works_per_year": 1976,
+    "works_per_year": 2050,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -312,7 +310,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-07-20"
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "crossref",
@@ -323,8 +321,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "2730-6011",
@@ -335,7 +333,7 @@
     "publisher": "Springer Nature",
     "homepage": "https://www.springer.com/journal/12672",
     "openalex_source_id": "S4210213696",
-    "works_per_year": 1528,
+    "works_per_year": 1537,
     "oa_status": "oa",
     "domain": "medicine",
     "field_tags": [
@@ -347,7 +345,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-07-20"
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "crossref",
@@ -358,8 +356,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "2234-943X",
@@ -370,7 +368,7 @@
     "publisher": "Frontiers Media",
     "homepage": "http://www.frontiersin.org/oncology",
     "openalex_source_id": "S2596394214",
-    "works_per_year": 3918,
+    "works_per_year": 3974,
     "oa_status": "oa",
     "domain": "medicine",
     "field_tags": [
@@ -381,8 +379,8 @@
     "rss": {
       "url": "https://www.frontiersin.org/journals/oncology/rss",
       "status": "live",
-      "last_item_date": "2026-07-20",
-      "last_checked": "2026-07-20"
+      "last_item_date": "2026-07-27",
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "rss",
@@ -394,8 +392,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "0923-7534",
@@ -419,7 +417,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-07-20"
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "crossref",
@@ -430,8 +428,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "1479-5876",
@@ -442,7 +440,7 @@
     "publisher": "BioMed Central",
     "homepage": "https://translational-medicine.biomedcentral.com/",
     "openalex_source_id": "S142026636",
-    "works_per_year": 1266,
+    "works_per_year": 1279,
     "oa_status": "oa",
     "domain": "medicine",
     "field_tags": [
@@ -454,7 +452,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-07-20"
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "crossref",
@@ -465,8 +463,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "2059-7029",
@@ -477,7 +475,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.journals.elsevier.com/esmo-open",
     "openalex_source_id": "S4210217024",
-    "works_per_year": 1627,
+    "works_per_year": 1632,
     "oa_status": "oa",
     "domain": "medicine",
     "field_tags": [
@@ -489,7 +487,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-07-20"
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "crossref",
@@ -500,8 +498,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "2397-768X",
@@ -512,7 +510,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/npjprecisiononcology/",
     "openalex_source_id": "S4210211538",
-    "works_per_year": 367,
+    "works_per_year": 371,
     "oa_status": "oa",
     "domain": "medicine",
     "field_tags": [
@@ -523,8 +521,8 @@
     "rss": {
       "url": "https://www.nature.com/npjprecisiononcology.rss",
       "status": "live",
-      "last_item_date": "2026-07-17",
-      "last_checked": "2026-07-20"
+      "last_item_date": "2026-07-26",
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "rss",
@@ -536,7 +534,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   }
 ]

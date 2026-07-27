@@ -9,7 +9,7 @@
     "publisher": "Cell Press",
     "homepage": "https://www.sciencedirect.com/journal/cancer-cell",
     "openalex_source_id": "S25671836",
-    "works_per_year": 177,
+    "works_per_year": 178,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -19,12 +19,11 @@
     "tier": "top",
     "rss": {
       "url": "https://www.cell.com/cancer-cell/current.rss",
-      "status": "live",
-      "last_item_date": "2026-07-13",
-      "last_checked": "2026-07-20"
+      "status": "dead",
+      "last_item_date": null,
+      "last_checked": "2026-07-27"
     },
     "backends": [
-      "rss",
       "crossref",
       "openalex"
     ],
@@ -33,8 +32,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "2662-1347",
@@ -45,7 +44,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/natcancer/",
     "openalex_source_id": "S4210236562",
-    "works_per_year": 173,
+    "works_per_year": 174,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -56,8 +55,8 @@
     "rss": {
       "url": "https://www.nature.com/natcancer.rss",
       "status": "live",
-      "last_item_date": "2026-07-17",
-      "last_checked": "2026-07-20"
+      "last_item_date": "2026-07-21",
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "rss",
@@ -69,8 +68,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "0008-5472",
@@ -82,7 +81,7 @@
     "publisher": "American Association for Cancer Research",
     "homepage": "http://cancerres.aacrjournals.org/",
     "openalex_source_id": "S168522863",
-    "works_per_year": 9303,
+    "works_per_year": 9306,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -94,7 +93,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-07-20"
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "crossref",
@@ -105,8 +104,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "2041-4889",
@@ -117,7 +116,7 @@
     "publisher": "Springer Nature",
     "homepage": "https://www.nature.com/cddis/",
     "openalex_source_id": "S185208586",
-    "works_per_year": 905,
+    "works_per_year": 909,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -128,8 +127,8 @@
     "rss": {
       "url": "https://www.nature.com/cddis.rss",
       "status": "live",
-      "last_item_date": "2026-07-20",
-      "last_checked": "2026-07-20"
+      "last_item_date": "2026-07-27",
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "rss",
@@ -141,8 +140,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "2730-6011",
@@ -153,7 +152,7 @@
     "publisher": "Springer Nature",
     "homepage": "https://www.springer.com/journal/12672",
     "openalex_source_id": "S4210213696",
-    "works_per_year": 1528,
+    "works_per_year": 1537,
     "oa_status": "oa",
     "domain": "medicine",
     "field_tags": [
@@ -165,7 +164,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-07-20"
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "crossref",
@@ -176,8 +175,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   },
   {
     "issn_l": "2234-943X",
@@ -188,7 +187,7 @@
     "publisher": "Frontiers Media",
     "homepage": "http://www.frontiersin.org/oncology",
     "openalex_source_id": "S2596394214",
-    "works_per_year": 3918,
+    "works_per_year": 3974,
     "oa_status": "oa",
     "domain": "medicine",
     "field_tags": [
@@ -199,8 +198,8 @@
     "rss": {
       "url": "https://www.frontiersin.org/journals/oncology/rss",
       "status": "live",
-      "last_item_date": "2026-07-20",
-      "last_checked": "2026-07-20"
+      "last_item_date": "2026-07-27",
+      "last_checked": "2026-07-27"
     },
     "backends": [
       "rss",
@@ -212,7 +211,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-20",
-    "updated_at": "2026-07-20"
+    "added_at": "2026-07-27",
+    "updated_at": "2026-07-27"
   }
 ]
