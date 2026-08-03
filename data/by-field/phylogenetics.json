@@ -9,7 +9,7 @@
     "publisher": "Oxford University Press",
     "homepage": "http://sysbio.oxfordjournals.org/",
     "openalex_source_id": "S65478581",
-    "works_per_year": 74,
+    "works_per_year": 75,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -21,7 +21,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-07-27"
+      "last_checked": "2026-08-03"
     },
     "backends": [
       "crossref",
@@ -32,7 +32,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-27",
-    "updated_at": "2026-07-27"
+    "added_at": "2026-08-03",
+    "updated_at": "2026-08-03"
   }
 ]

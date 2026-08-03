@@ -1946,5 +1946,267 @@
     ],
     "status": "pending",
     "discovered_at": "2026-07-20"
+  },
+  {
+    "issn_l": "0114-9954",
+    "issn": [
+      "0114-9954",
+      "0157-7271",
+      "1179-2051",
+      "2196-5005"
+    ],
+    "name": "Reactions Weekly",
+    "publisher": "Adis, Springer Healthcare",
+    "homepage": "https://www.springer.com/journal/40278",
+    "openalex_source_id": "S14436165",
+    "works_per_year": 14171,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "chemotherapy-related skin toxicity",
+      "drug-induced adverse reactions",
+      "cancer treatment and pharmacology"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-08-03"
+  },
+  {
+    "issn_l": "1556-0864",
+    "issn": [
+      "1556-0864",
+      "1556-1380"
+    ],
+    "name": "Journal of Thoracic Oncology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/journal-of-thoracic-oncology",
+    "openalex_source_id": "S90745127",
+    "works_per_year": 1651,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "lung cancer treatments and mutations",
+      "lung cancer diagnosis and treatment",
+      "lung cancer research studies"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-08-03"
+  },
+  {
+    "issn_l": "2051-1426",
+    "issn": [
+      "2051-1426"
+    ],
+    "name": "Journal for ImmunoTherapy of Cancer",
+    "publisher": "BMJ",
+    "homepage": "https://jitc.bmj.com",
+    "openalex_source_id": "S2754803477",
+    "works_per_year": 515,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "cancer immunotherapy and biomarkers",
+      "immunotherapy and immune responses",
+      "car-t cell therapy research"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-08-03"
+  },
+  {
+    "issn_l": "2326-6066",
+    "issn": [
+      "2326-6066",
+      "2326-6074"
+    ],
+    "name": "Cancer Immunology Research",
+    "publisher": "American Association for Cancer Research",
+    "homepage": "http://cancerimmunolres.aacrjournals.org",
+    "openalex_source_id": "S2765010658",
+    "works_per_year": 348,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "cancer immunotherapy and biomarkers",
+      "immunotherapy and immune responses",
+      "car-t cell therapy research"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-08-03"
+  },
+  {
+    "issn_l": "0340-7004",
+    "issn": [
+      "0340-7004",
+      "1432-0851"
+    ],
+    "name": "Cancer Immunology Immunotherapy",
+    "publisher": "Springer Science+Business Media",
+    "homepage": "http://www.springer.com/medicine/oncology/journal/262",
+    "openalex_source_id": "S203303425",
+    "works_per_year": 301,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "immunotherapy and immune responses",
+      "cancer immunotherapy and biomarkers",
+      "immune cell function and interaction"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-08-03"
+  },
+  {
+    "issn_l": "2168-8184",
+    "issn": [
+      "2168-8184"
+    ],
+    "name": "Cureus",
+    "publisher": "Cureus, Inc.",
+    "homepage": "https://www.cureus.com/",
+    "openalex_source_id": "S2738950867",
+    "works_per_year": 20885,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "covid-19 clinical research studies",
+      "gastrointestinal disorders and treatments",
+      "spine and intervertebral disc pathology"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-08-03"
+  },
+  {
+    "issn_l": "0023-6837",
+    "issn": [
+      "0023-6837",
+      "1530-0307"
+    ],
+    "name": "Laboratory Investigation",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/laboratory-investigation",
+    "openalex_source_id": "S137146891",
+    "works_per_year": 1310,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "cancer genomics and diagnostics",
+      "ai in cancer detection",
+      "sarcoma diagnosis and treatment"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-08-03"
+  },
+  {
+    "issn_l": "0015-3303",
+    "issn": [
+      "0015-3303",
+      "0038-5719",
+      "1021-4437",
+      "1608-3407"
+    ],
+    "name": "Russian Journal of Plant Physiology",
+    "publisher": "Pleiades Publishing",
+    "homepage": "https://www.springer.com/journal/11183",
+    "openalex_source_id": "S79308122",
+    "works_per_year": 251,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "plant stress responses and tolerance",
+      "photosynthetic processes and mechanisms",
+      "plant molecular biology research"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-08-03"
+  },
+  {
+    "issn_l": "0169-5002",
+    "issn": [
+      "0169-5002",
+      "1872-8332"
+    ],
+    "name": "Lung Cancer",
+    "publisher": "Elsevier BV",
+    "homepage": "http://www.elsevier.com/wps/find/journaldescription.cws_home/505953/description#description",
+    "openalex_source_id": "S100767427",
+    "works_per_year": 667,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "lung cancer treatments and mutations",
+      "lung cancer diagnosis and treatment",
+      "lung cancer research studies"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-08-03"
+  },
+  {
+    "issn_l": "2590-0188",
+    "issn": [
+      "2590-0188"
+    ],
+    "name": "Immuno-Oncology Technology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/immuno-oncology-and-technology",
+    "openalex_source_id": "S4210240197",
+    "works_per_year": 226,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "cancer immunotherapy and biomarkers",
+      "immunotherapy and immune responses",
+      "car-t cell therapy research"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-08-03"
+  },
+  {
+    "issn_l": "0168-8278",
+    "issn": [
+      "0168-8278",
+      "1600-0641"
+    ],
+    "name": "Journal of Hepatology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/journal-of-hepatology",
+    "openalex_source_id": "S83651209",
+    "works_per_year": 2494,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "liver disease diagnosis and treatment",
+      "hepatitis c virus research",
+      "liver disease and transplantation"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-08-03"
+  },
+  {
+    "issn_l": "0003-9276",
+    "issn": [
+      "0003-9276",
+      "0302-8933",
+      "1432-072X"
+    ],
+    "name": "Archives of Microbiology",
+    "publisher": "Springer Science+Business Media",
+    "homepage": "https://www.springer.com/journal/203",
+    "openalex_source_id": "S111869560",
+    "works_per_year": 431,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "microbial community ecology and physiology",
+      "genomics and phylogenetic studies",
+      "algal biology and biofuel production"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-08-03"
+  },
+  {
+    "issn_l": "2159-8274",
+    "issn": [
+      "2159-8274",
+      "2159-8290"
+    ],
+    "name": "Cancer Discovery",
+    "publisher": "American Association for Cancer Research",
+    "homepage": "http://cancerdiscovery.aacrjournals.org",
+    "openalex_source_id": "S2486275289",
+    "works_per_year": 387,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "cancer immunotherapy and biomarkers",
+      "cancer genomics and diagnostics",
+      "car-t cell therapy research"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-08-03"
   }
 ]

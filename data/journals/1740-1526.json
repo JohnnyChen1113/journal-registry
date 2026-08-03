@@ -19,8 +19,8 @@
   "rss": {
     "url": "https://www.nature.com/nrmicro.rss",
     "status": "live",
-    "last_item_date": "2026-07-23",
-    "last_checked": "2026-07-27"
+    "last_item_date": "2026-07-31",
+    "last_checked": "2026-08-03"
   },
   "backends": [
     "rss",
@@ -32,6 +32,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-07-27",
-  "updated_at": "2026-07-27"
+  "added_at": "2026-08-03",
+  "updated_at": "2026-08-03"
 }

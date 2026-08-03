@@ -9,7 +9,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/nature/",
     "openalex_source_id": "S137773608",
-    "works_per_year": 3827,
+    "works_per_year": 3860,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -21,8 +21,8 @@
     "rss": {
       "url": "https://www.nature.com/nature.rss",
       "status": "live",
-      "last_item_date": "2026-07-27",
-      "last_checked": "2026-07-27"
+      "last_item_date": "2026-08-03",
+      "last_checked": "2026-08-03"
     },
     "backends": [
       "rss",
@@ -34,8 +34,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-27",
-    "updated_at": "2026-07-27"
+    "added_at": "2026-08-03",
+    "updated_at": "2026-08-03"
   },
   {
     "issn_l": "2397-334X",
@@ -46,7 +46,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/natecolevol/",
     "openalex_source_id": "S2764884935",
-    "works_per_year": 293,
+    "works_per_year": 294,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -57,8 +57,8 @@
     "rss": {
       "url": "https://www.nature.com/natecolevol.rss",
       "status": "live",
-      "last_item_date": "2026-07-27",
-      "last_checked": "2026-07-27"
+      "last_item_date": "2026-08-03",
+      "last_checked": "2026-08-03"
     },
     "backends": [
       "rss",
@@ -70,8 +70,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-27",
-    "updated_at": "2026-07-27"
+    "added_at": "2026-08-03",
+    "updated_at": "2026-08-03"
   },
   {
     "issn_l": "0960-9822",
@@ -83,7 +83,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.sciencedirect.com/journal/current-biology",
     "openalex_source_id": "S128425624",
-    "works_per_year": 780,
+    "works_per_year": 783,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -93,11 +93,12 @@
     "tier": "top",
     "rss": {
       "url": "https://www.cell.com/current-biology/current.rss",
-      "status": "dead",
-      "last_item_date": null,
-      "last_checked": "2026-07-27"
+      "status": "live",
+      "last_item_date": "2026-07-20",
+      "last_checked": "2026-08-03"
     },
     "backends": [
+      "rss",
       "crossref",
       "openalex"
     ],
@@ -106,8 +107,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-27",
-    "updated_at": "2026-07-27"
+    "added_at": "2026-08-03",
+    "updated_at": "2026-08-03"
   },
   {
     "issn_l": "0737-4038",
@@ -119,7 +120,7 @@
     "publisher": "Oxford University Press",
     "homepage": "http://mbe.oxfordjournals.org/",
     "openalex_source_id": "S57552105",
-    "works_per_year": 265,
+    "works_per_year": 267,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -131,7 +132,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-07-27"
+      "last_checked": "2026-08-03"
     },
     "backends": [
       "crossref",
@@ -142,8 +143,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-27",
-    "updated_at": "2026-07-27"
+    "added_at": "2026-08-03",
+    "updated_at": "2026-08-03"
   },
   {
     "issn_l": "0962-1083",
@@ -155,7 +156,7 @@
     "publisher": "Wiley",
     "homepage": "http://www.wiley.com/bw/journal.asp?ref=0962-1083",
     "openalex_source_id": "S22454499",
-    "works_per_year": 376,
+    "works_per_year": 380,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -167,7 +168,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-07-27"
+      "last_checked": "2026-08-03"
     },
     "backends": [
       "crossref",
@@ -178,8 +179,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-27",
-    "updated_at": "2026-07-27"
+    "added_at": "2026-08-03",
+    "updated_at": "2026-08-03"
   },
   {
     "issn_l": "1063-5157",
@@ -191,7 +192,7 @@
     "publisher": "Oxford University Press",
     "homepage": "http://sysbio.oxfordjournals.org/",
     "openalex_source_id": "S65478581",
-    "works_per_year": 74,
+    "works_per_year": 75,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -203,7 +204,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-07-27"
+      "last_checked": "2026-08-03"
     },
     "backends": [
       "crossref",
@@ -214,8 +215,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-27",
-    "updated_at": "2026-07-27"
+    "added_at": "2026-08-03",
+    "updated_at": "2026-08-03"
   },
   {
     "issn_l": "0014-3820",
@@ -238,7 +239,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-07-27"
+      "last_checked": "2026-08-03"
     },
     "backends": [
       "crossref",
@@ -249,8 +250,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-27",
-    "updated_at": "2026-07-27"
+    "added_at": "2026-08-03",
+    "updated_at": "2026-08-03"
   },
   {
     "issn_l": "0169-5347",
@@ -272,80 +273,9 @@
     "tier": "top",
     "rss": {
       "url": "https://www.cell.com/trends/ecology-evolution/current.rss",
-      "status": "dead",
-      "last_item_date": null,
-      "last_checked": "2026-07-27"
-    },
-    "backends": [
-      "crossref",
-      "openalex"
-    ],
-    "quirks": null,
-    "curation": {
-      "by": "seed",
-      "verified_at": null
-    },
-    "added_at": "2026-07-27",
-    "updated_at": "2026-07-27"
-  },
-  {
-    "issn_l": "1759-6653",
-    "issn": [
-      "1759-6653"
-    ],
-    "name": "Genome Biology and Evolution",
-    "publisher": "Oxford University Press",
-    "homepage": "https://academic.oup.com/gbe",
-    "openalex_source_id": "S10195028",
-    "works_per_year": 239,
-    "oa_status": "oa",
-    "domain": "core-bio",
-    "field_tags": [
-      "evolution",
-      "genomics"
-    ],
-    "tier": "specialist",
-    "rss": {
-      "url": null,
-      "status": "none",
-      "last_item_date": null,
-      "last_checked": "2026-07-27"
-    },
-    "backends": [
-      "crossref",
-      "openalex"
-    ],
-    "quirks": null,
-    "curation": {
-      "by": "seed",
-      "verified_at": null
-    },
-    "added_at": "2026-07-27",
-    "updated_at": "2026-07-27"
-  },
-  {
-    "issn_l": "2055-026X",
-    "issn": [
-      "2055-026X",
-      "2055-0278"
-    ],
-    "name": "Nature Plants",
-    "publisher": "Nature Portfolio",
-    "homepage": "https://www.nature.com/nplants/",
-    "openalex_source_id": "S2764671299",
-    "works_per_year": 250,
-    "oa_status": "closed",
-    "domain": "core-bio",
-    "field_tags": [
-      "plant-biology",
-      "evolution"
-    ],
-    "tier": "top",
-    "rss": {
-      "url": "https://www.nature.com/nplants.rss",
       "status": "live",
-      "last_item_date": "2026-07-27",
-      "last_checked": "2026-07-27"
+      "last_item_date": "2026-07-01",
+      "last_checked": "2026-08-03"
     },
     "backends": [
       "rss",
@@ -357,8 +287,80 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-27",
-    "updated_at": "2026-07-27"
+    "added_at": "2026-08-03",
+    "updated_at": "2026-08-03"
+  },
+  {
+    "issn_l": "1759-6653",
+    "issn": [
+      "1759-6653"
+    ],
+    "name": "Genome Biology and Evolution",
+    "publisher": "Oxford University Press",
+    "homepage": "https://academic.oup.com/gbe",
+    "openalex_source_id": "S10195028",
+    "works_per_year": 243,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "evolution",
+      "genomics"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": null,
+      "status": "none",
+      "last_item_date": null,
+      "last_checked": "2026-08-03"
+    },
+    "backends": [
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-08-03",
+    "updated_at": "2026-08-03"
+  },
+  {
+    "issn_l": "2055-026X",
+    "issn": [
+      "2055-026X",
+      "2055-0278"
+    ],
+    "name": "Nature Plants",
+    "publisher": "Nature Portfolio",
+    "homepage": "https://www.nature.com/nplants/",
+    "openalex_source_id": "S2764671299",
+    "works_per_year": 252,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "plant-biology",
+      "evolution"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.nature.com/nplants.rss",
+      "status": "live",
+      "last_item_date": "2026-08-03",
+      "last_checked": "2026-08-03"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-08-03",
+    "updated_at": "2026-08-03"
   },
   {
     "issn_l": "1466-5026",
@@ -370,7 +372,7 @@
     "publisher": "Microbiology Society",
     "homepage": "http://ijs.sgmjournals.org/",
     "openalex_source_id": "S102181007",
-    "works_per_year": 347,
+    "works_per_year": 349,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -382,7 +384,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-07-27"
+      "last_checked": "2026-08-03"
     },
     "backends": [
       "crossref",
@@ -393,7 +395,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-07-27",
-    "updated_at": "2026-07-27"
+    "added_at": "2026-08-03",
+    "updated_at": "2026-08-03"
   }
 ]

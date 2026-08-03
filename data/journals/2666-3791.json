@@ -7,7 +7,7 @@
   "publisher": "Elsevier BV",
   "homepage": "https://www.journals.elsevier.com/cell-reports-medicine",
   "openalex_source_id": "S4210207453",
-  "works_per_year": 396,
+  "works_per_year": 399,
   "oa_status": "oa",
   "domain": "medicine",
   "field_tags": [
@@ -17,11 +17,12 @@
   "tier": "specialist",
   "rss": {
     "url": "https://www.cell.com/cell-reports-medicine/current.rss",
-    "status": "dead",
-    "last_item_date": null,
-    "last_checked": "2026-07-27"
+    "status": "live",
+    "last_item_date": "2026-07-21",
+    "last_checked": "2026-08-03"
   },
   "backends": [
+    "rss",
     "crossref",
     "openalex"
   ],
@@ -30,6 +31,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-07-27",
-  "updated_at": "2026-07-27"
+  "added_at": "2026-08-03",
+  "updated_at": "2026-08-03"
 }

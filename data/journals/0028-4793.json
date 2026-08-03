@@ -2,13 +2,15 @@
   "issn_l": "0028-4793",
   "issn": [
     "0028-4793",
-    "1533-4406"
+    "0096-6762",
+    "1533-4406",
+    "2331-4710"
   ],
   "name": "The New England Journal of Medicine",
   "publisher": "Massachusetts Medical Society",
   "homepage": "http://www.nejm.org/",
   "openalex_source_id": "S62468778",
-  "works_per_year": 881,
+  "works_per_year": 885,
   "oa_status": "closed",
   "domain": "medicine",
   "field_tags": [
@@ -20,7 +22,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-07-27"
+    "last_checked": "2026-08-03"
   },
   "backends": [
     "crossref",
@@ -31,6 +33,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-07-27",
-  "updated_at": "2026-07-27"
+  "added_at": "2026-08-03",
+  "updated_at": "2026-08-03"
 }
