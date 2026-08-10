@@ -8,7 +8,7 @@
   "publisher": "Nature Portfolio",
   "homepage": "https://www.nature.com/nrm/",
   "openalex_source_id": "S196724125",
-  "works_per_year": 104,
+  "works_per_year": 105,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -20,8 +20,8 @@
   "rss": {
     "url": "https://www.nature.com/nrm.rss",
     "status": "live",
-    "last_item_date": "2026-07-30",
-    "last_checked": "2026-08-03"
+    "last_item_date": "2026-08-03",
+    "last_checked": "2026-08-10"
   },
   "backends": [
     "rss",
@@ -33,6 +33,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-08-03",
-  "updated_at": "2026-08-03"
+  "added_at": "2026-08-10",
+  "updated_at": "2026-08-10"
 }

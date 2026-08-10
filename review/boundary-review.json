@@ -2208,5 +2208,25 @@
     ],
     "status": "pending",
     "discovered_at": "2026-08-03"
+  },
+  {
+    "issn_l": "1469-221X",
+    "issn": [
+      "1469-221X",
+      "1469-3178"
+    ],
+    "name": "EMBO Reports",
+    "publisher": "Springer Nature",
+    "homepage": "http://embor.embopress.org/",
+    "openalex_source_id": "S57252141",
+    "works_per_year": 290,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "rna research and splicing",
+      "rna modifications and cancer",
+      "crispr and genetic engineering"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-08-10"
   }
 ]

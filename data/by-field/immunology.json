@@ -9,7 +9,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/ni/",
     "openalex_source_id": "S41063453",
-    "works_per_year": 300,
+    "works_per_year": 301,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -19,8 +19,8 @@
     "rss": {
       "url": "https://www.nature.com/ni.rss",
       "status": "live",
-      "last_item_date": "2026-07-31",
-      "last_checked": "2026-08-03"
+      "last_item_date": "2026-08-07",
+      "last_checked": "2026-08-10"
     },
     "backends": [
       "rss",
@@ -32,8 +32,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-03",
-    "updated_at": "2026-08-03"
+    "added_at": "2026-08-10",
+    "updated_at": "2026-08-10"
   },
   {
     "issn_l": "1474-1733",
@@ -45,7 +45,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "http://www.nature.com/nrmicro/index.html",
     "openalex_source_id": "S93373720",
-    "works_per_year": 119,
+    "works_per_year": 120,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -56,8 +56,8 @@
     "rss": {
       "url": "https://www.nature.com/nri.rss",
       "status": "live",
-      "last_item_date": "2026-07-30",
-      "last_checked": "2026-08-03"
+      "last_item_date": "2026-08-06",
+      "last_checked": "2026-08-10"
     },
     "backends": [
       "rss",
@@ -69,8 +69,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-03",
-    "updated_at": "2026-08-03"
+    "added_at": "2026-08-10",
+    "updated_at": "2026-08-10"
   },
   {
     "issn_l": "1074-7613",
@@ -82,7 +82,7 @@
     "publisher": "Cell Press",
     "homepage": "https://www.sciencedirect.com/topics/immunology-and-microbiology/immunity",
     "openalex_source_id": "S199671312",
-    "works_per_year": 225,
+    "works_per_year": 227,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -91,12 +91,11 @@
     "tier": "top",
     "rss": {
       "url": "https://www.cell.com/immunity/current.rss",
-      "status": "live",
-      "last_item_date": "2026-07-14",
-      "last_checked": "2026-08-03"
+      "status": "dead",
+      "last_item_date": null,
+      "last_checked": "2026-08-10"
     },
     "backends": [
-      "rss",
       "crossref",
       "openalex"
     ],
@@ -105,8 +104,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-03",
-    "updated_at": "2026-08-03"
+    "added_at": "2026-08-10",
+    "updated_at": "2026-08-10"
   },
   {
     "issn_l": "1471-4906",
@@ -118,7 +117,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.journals.elsevier.com/trends-in-immunology",
     "openalex_source_id": "S84926904",
-    "works_per_year": 124,
+    "works_per_year": 125,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -128,12 +127,11 @@
     "tier": "top",
     "rss": {
       "url": "https://www.cell.com/trends/immunology/current.rss",
-      "status": "live",
-      "last_item_date": "2026-07-01",
-      "last_checked": "2026-08-03"
+      "status": "dead",
+      "last_item_date": null,
+      "last_checked": "2026-08-10"
     },
     "backends": [
-      "rss",
       "crossref",
       "openalex"
     ],
@@ -142,8 +140,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-03",
-    "updated_at": "2026-08-03"
+    "added_at": "2026-08-10",
+    "updated_at": "2026-08-10"
   },
   {
     "issn_l": "1664-3224",
@@ -154,7 +152,7 @@
     "publisher": "Frontiers Media",
     "homepage": "http://journal.frontiersin.org/journal/immunology",
     "openalex_source_id": "S2595292759",
-    "works_per_year": 6188,
+    "works_per_year": 6251,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -164,8 +162,8 @@
     "rss": {
       "url": "https://www.frontiersin.org/journals/immunology/rss",
       "status": "live",
-      "last_item_date": "2026-08-03",
-      "last_checked": "2026-08-03"
+      "last_item_date": "2026-08-10",
+      "last_checked": "2026-08-10"
     },
     "backends": [
       "rss",
@@ -177,8 +175,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-03",
-    "updated_at": "2026-08-03"
+    "added_at": "2026-08-10",
+    "updated_at": "2026-08-10"
   },
   {
     "issn_l": "0022-1767",
@@ -190,7 +188,7 @@
     "publisher": "American Association of Immunologists",
     "homepage": "http://www.jimmunol.org/",
     "openalex_source_id": "S38008053",
-    "works_per_year": 2185,
+    "works_per_year": 2189,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -201,7 +199,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-08-03"
+      "last_checked": "2026-08-10"
     },
     "backends": [
       "crossref",
@@ -212,7 +210,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-03",
-    "updated_at": "2026-08-03"
+    "added_at": "2026-08-10",
+    "updated_at": "2026-08-10"
   }
 ]

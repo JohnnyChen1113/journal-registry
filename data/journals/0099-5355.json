@@ -9,7 +9,7 @@
   "publisher": "Elsevier BV",
   "homepage": "https://www.sciencedirect.com/journal/the-lancet",
   "openalex_source_id": "S49861241",
-  "works_per_year": 1357,
+  "works_per_year": 1363,
   "oa_status": "closed",
   "domain": "medicine",
   "field_tags": [
@@ -21,7 +21,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-08-03"
+    "last_checked": "2026-08-10"
   },
   "backends": [
     "crossref",
@@ -32,6 +32,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-08-03",
-  "updated_at": "2026-08-03"
+  "added_at": "2026-08-10",
+  "updated_at": "2026-08-10"
 }
