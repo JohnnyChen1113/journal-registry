@@ -9,7 +9,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/ni/",
     "openalex_source_id": "S41063453",
-    "works_per_year": 301,
+    "works_per_year": 304,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -19,8 +19,8 @@
     "rss": {
       "url": "https://www.nature.com/ni.rss",
       "status": "live",
-      "last_item_date": "2026-08-07",
-      "last_checked": "2026-08-10"
+      "last_item_date": "2026-08-14",
+      "last_checked": "2026-08-17"
     },
     "backends": [
       "rss",
@@ -32,8 +32,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-10",
-    "updated_at": "2026-08-10"
+    "added_at": "2026-08-17",
+    "updated_at": "2026-08-17"
   },
   {
     "issn_l": "1474-1733",
@@ -56,8 +56,8 @@
     "rss": {
       "url": "https://www.nature.com/nri.rss",
       "status": "live",
-      "last_item_date": "2026-08-06",
-      "last_checked": "2026-08-10"
+      "last_item_date": "2026-08-11",
+      "last_checked": "2026-08-17"
     },
     "backends": [
       "rss",
@@ -69,8 +69,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-10",
-    "updated_at": "2026-08-10"
+    "added_at": "2026-08-17",
+    "updated_at": "2026-08-17"
   },
   {
     "issn_l": "1074-7613",
@@ -82,7 +82,7 @@
     "publisher": "Cell Press",
     "homepage": "https://www.sciencedirect.com/topics/immunology-and-microbiology/immunity",
     "openalex_source_id": "S199671312",
-    "works_per_year": 227,
+    "works_per_year": 229,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -91,79 +91,9 @@
     "tier": "top",
     "rss": {
       "url": "https://www.cell.com/immunity/current.rss",
-      "status": "dead",
-      "last_item_date": null,
-      "last_checked": "2026-08-10"
-    },
-    "backends": [
-      "crossref",
-      "openalex"
-    ],
-    "quirks": null,
-    "curation": {
-      "by": "seed",
-      "verified_at": null
-    },
-    "added_at": "2026-08-10",
-    "updated_at": "2026-08-10"
-  },
-  {
-    "issn_l": "1471-4906",
-    "issn": [
-      "1471-4906",
-      "1471-4981"
-    ],
-    "name": "Trends in Immunology",
-    "publisher": "Elsevier BV",
-    "homepage": "https://www.journals.elsevier.com/trends-in-immunology",
-    "openalex_source_id": "S84926904",
-    "works_per_year": 125,
-    "oa_status": "closed",
-    "domain": "core-bio",
-    "field_tags": [
-      "immunology",
-      "reviews"
-    ],
-    "tier": "top",
-    "rss": {
-      "url": "https://www.cell.com/trends/immunology/current.rss",
-      "status": "dead",
-      "last_item_date": null,
-      "last_checked": "2026-08-10"
-    },
-    "backends": [
-      "crossref",
-      "openalex"
-    ],
-    "quirks": null,
-    "curation": {
-      "by": "seed",
-      "verified_at": null
-    },
-    "added_at": "2026-08-10",
-    "updated_at": "2026-08-10"
-  },
-  {
-    "issn_l": "1664-3224",
-    "issn": [
-      "1664-3224"
-    ],
-    "name": "Frontiers in Immunology",
-    "publisher": "Frontiers Media",
-    "homepage": "http://journal.frontiersin.org/journal/immunology",
-    "openalex_source_id": "S2595292759",
-    "works_per_year": 6251,
-    "oa_status": "oa",
-    "domain": "core-bio",
-    "field_tags": [
-      "immunology"
-    ],
-    "tier": "specialist",
-    "rss": {
-      "url": "https://www.frontiersin.org/journals/immunology/rss",
       "status": "live",
-      "last_item_date": "2026-08-10",
-      "last_checked": "2026-08-10"
+      "last_item_date": "2026-08-11",
+      "last_checked": "2026-08-17"
     },
     "backends": [
       "rss",
@@ -175,8 +105,80 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-10",
-    "updated_at": "2026-08-10"
+    "added_at": "2026-08-17",
+    "updated_at": "2026-08-17"
+  },
+  {
+    "issn_l": "1471-4906",
+    "issn": [
+      "1471-4906",
+      "1471-4981"
+    ],
+    "name": "Trends in Immunology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/trends-in-immunology",
+    "openalex_source_id": "S84926904",
+    "works_per_year": 126,
+    "oa_status": "closed",
+    "domain": "core-bio",
+    "field_tags": [
+      "immunology",
+      "reviews"
+    ],
+    "tier": "top",
+    "rss": {
+      "url": "https://www.cell.com/trends/immunology/current.rss",
+      "status": "live",
+      "last_item_date": "2026-07-01",
+      "last_checked": "2026-08-17"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-08-17",
+    "updated_at": "2026-08-17"
+  },
+  {
+    "issn_l": "1664-3224",
+    "issn": [
+      "1664-3224"
+    ],
+    "name": "Frontiers in Immunology",
+    "publisher": "Frontiers Media",
+    "homepage": "http://journal.frontiersin.org/journal/immunology",
+    "openalex_source_id": "S2595292759",
+    "works_per_year": 6319,
+    "oa_status": "oa",
+    "domain": "core-bio",
+    "field_tags": [
+      "immunology"
+    ],
+    "tier": "specialist",
+    "rss": {
+      "url": "https://www.frontiersin.org/journals/immunology/rss",
+      "status": "live",
+      "last_item_date": "2026-08-17",
+      "last_checked": "2026-08-17"
+    },
+    "backends": [
+      "rss",
+      "crossref",
+      "openalex"
+    ],
+    "quirks": null,
+    "curation": {
+      "by": "seed",
+      "verified_at": null
+    },
+    "added_at": "2026-08-17",
+    "updated_at": "2026-08-17"
   },
   {
     "issn_l": "0022-1767",
@@ -188,7 +190,7 @@
     "publisher": "American Association of Immunologists",
     "homepage": "http://www.jimmunol.org/",
     "openalex_source_id": "S38008053",
-    "works_per_year": 2189,
+    "works_per_year": 2193,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -199,7 +201,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-08-10"
+      "last_checked": "2026-08-17"
     },
     "backends": [
       "crossref",
@@ -210,7 +212,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-10",
-    "updated_at": "2026-08-10"
+    "added_at": "2026-08-17",
+    "updated_at": "2026-08-17"
   }
 ]

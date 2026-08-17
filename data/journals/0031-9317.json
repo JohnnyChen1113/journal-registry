@@ -8,7 +8,7 @@
   "publisher": "Wiley",
   "homepage": "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1399-3054",
   "openalex_source_id": "S185046733",
-  "works_per_year": 531,
+  "works_per_year": 535,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -19,7 +19,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-08-10"
+    "last_checked": "2026-08-17"
   },
   "backends": [
     "crossref",
@@ -30,6 +30,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-08-10",
-  "updated_at": "2026-08-10"
+  "added_at": "2026-08-17",
+  "updated_at": "2026-08-17"
 }

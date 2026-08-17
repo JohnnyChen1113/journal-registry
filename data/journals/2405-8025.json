@@ -8,7 +8,7 @@
   "publisher": "Elsevier BV",
   "homepage": "https://www.sciencedirect.com/journal/trends-in-cancer",
   "openalex_source_id": "S2765069123",
-  "works_per_year": 121,
+  "works_per_year": 123,
   "oa_status": "closed",
   "domain": "medicine",
   "field_tags": [
@@ -18,11 +18,12 @@
   "tier": "specialist",
   "rss": {
     "url": "https://www.cell.com/trends/cancer/current.rss",
-    "status": "dead",
-    "last_item_date": null,
-    "last_checked": "2026-08-10"
+    "status": "live",
+    "last_item_date": "2026-08-01",
+    "last_checked": "2026-08-17"
   },
   "backends": [
+    "rss",
     "crossref",
     "openalex"
   ],
@@ -31,6 +32,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-08-10",
-  "updated_at": "2026-08-10"
+  "added_at": "2026-08-17",
+  "updated_at": "2026-08-17"
 }

@@ -10,7 +10,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "http://www.nature.com/nm/index.html",
     "openalex_source_id": "S203256638",
-    "works_per_year": 653,
+    "works_per_year": 660,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -21,8 +21,8 @@
     "rss": {
       "url": "https://www.nature.com/nm.rss",
       "status": "live",
-      "last_item_date": "2026-08-07",
-      "last_checked": "2026-08-10"
+      "last_item_date": "2026-08-14",
+      "last_checked": "2026-08-17"
     },
     "backends": [
       "rss",
@@ -34,8 +34,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-10",
-    "updated_at": "2026-08-10"
+    "added_at": "2026-08-17",
+    "updated_at": "2026-08-17"
   },
   {
     "issn_l": "1946-6234",
@@ -47,7 +47,7 @@
     "publisher": "American Association for the Advancement of Science",
     "homepage": "http://stm.sciencemag.org",
     "openalex_source_id": "S24207032",
-    "works_per_year": 284,
+    "works_per_year": 287,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -58,8 +58,8 @@
     "rss": {
       "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=stm",
       "status": "live",
-      "last_item_date": "2026-08-05",
-      "last_checked": "2026-08-10"
+      "last_item_date": "2026-08-12",
+      "last_checked": "2026-08-17"
     },
     "backends": [
       "rss",
@@ -71,8 +71,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-10",
-    "updated_at": "2026-08-10"
+    "added_at": "2026-08-17",
+    "updated_at": "2026-08-17"
   },
   {
     "issn_l": "2666-3791",
@@ -83,7 +83,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.journals.elsevier.com/cell-reports-medicine",
     "openalex_source_id": "S4210207453",
-    "works_per_year": 405,
+    "works_per_year": 409,
     "oa_status": "oa",
     "domain": "medicine",
     "field_tags": [
@@ -93,11 +93,12 @@
     "tier": "specialist",
     "rss": {
       "url": "https://www.cell.com/cell-reports-medicine/current.rss",
-      "status": "dead",
-      "last_item_date": null,
-      "last_checked": "2026-08-10"
+      "status": "live",
+      "last_item_date": "2026-07-21",
+      "last_checked": "2026-08-17"
     },
     "backends": [
+      "rss",
       "crossref",
       "openalex"
     ],
@@ -106,8 +107,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-10",
-    "updated_at": "2026-08-10"
+    "added_at": "2026-08-17",
+    "updated_at": "2026-08-17"
   },
   {
     "issn_l": "2666-6340",
@@ -119,7 +120,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.sciencedirect.com/journal/med/issues",
     "openalex_source_id": "S4210167770",
-    "works_per_year": 164,
+    "works_per_year": 166,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -129,11 +130,12 @@
     "tier": "specialist",
     "rss": {
       "url": "https://www.cell.com/med/current.rss",
-      "status": "dead",
-      "last_item_date": null,
-      "last_checked": "2026-08-10"
+      "status": "live",
+      "last_item_date": "2026-08-14",
+      "last_checked": "2026-08-17"
     },
     "backends": [
+      "rss",
       "crossref",
       "openalex"
     ],
@@ -142,7 +144,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-10",
-    "updated_at": "2026-08-10"
+    "added_at": "2026-08-17",
+    "updated_at": "2026-08-17"
   }
 ]

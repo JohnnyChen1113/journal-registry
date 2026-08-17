@@ -10,7 +10,7 @@
   "publisher": "American Medical Association",
   "homepage": "http://jama.ama-assn.org/",
   "openalex_source_id": "S172573765",
-  "works_per_year": 1613,
+  "works_per_year": 1628,
   "oa_status": "closed",
   "domain": "medicine",
   "field_tags": [
@@ -22,7 +22,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-08-10"
+    "last_checked": "2026-08-17"
   },
   "backends": [
     "crossref",
@@ -33,6 +33,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-08-10",
-  "updated_at": "2026-08-10"
+  "added_at": "2026-08-17",
+  "updated_at": "2026-08-17"
 }

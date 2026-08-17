@@ -8,7 +8,7 @@
   "publisher": "Cell Press",
   "homepage": "https://www.sciencedirect.com/journal/neuron",
   "openalex_source_id": "S45757444",
-  "works_per_year": 328,
+  "works_per_year": 330,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -17,11 +17,12 @@
   "tier": "top",
   "rss": {
     "url": "https://www.cell.com/neuron/current.rss",
-    "status": "dead",
-    "last_item_date": null,
-    "last_checked": "2026-08-10"
+    "status": "live",
+    "last_item_date": "2026-08-05",
+    "last_checked": "2026-08-17"
   },
   "backends": [
+    "rss",
     "crossref",
     "openalex"
   ],
@@ -30,6 +31,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-08-10",
-  "updated_at": "2026-08-10"
+  "added_at": "2026-08-17",
+  "updated_at": "2026-08-17"
 }

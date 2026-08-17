@@ -21,7 +21,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-08-10"
+      "last_checked": "2026-08-17"
     },
     "backends": [
       "crossref",
@@ -32,7 +32,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-10",
-    "updated_at": "2026-08-10"
+    "added_at": "2026-08-17",
+    "updated_at": "2026-08-17"
   }
 ]
