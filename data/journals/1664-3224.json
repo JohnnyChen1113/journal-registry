@@ -7,7 +7,7 @@
   "publisher": "Frontiers Media",
   "homepage": "http://journal.frontiersin.org/journal/immunology",
   "openalex_source_id": "S2595292759",
-  "works_per_year": 6319,
+  "works_per_year": 6400,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -17,8 +17,8 @@
   "rss": {
     "url": "https://www.frontiersin.org/journals/immunology/rss",
     "status": "live",
-    "last_item_date": "2026-08-17",
-    "last_checked": "2026-08-17"
+    "last_item_date": "2026-08-24",
+    "last_checked": "2026-08-24"
   },
   "backends": [
     "rss",
@@ -30,6 +30,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-08-17",
-  "updated_at": "2026-08-17"
+  "added_at": "2026-08-24",
+  "updated_at": "2026-08-24"
 }

@@ -8,7 +8,7 @@
   "publisher": "Public Library of Science",
   "homepage": "http://www.plosgenetics.org/",
   "openalex_source_id": "S103870658",
-  "works_per_year": 309,
+  "works_per_year": 310,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -19,8 +19,8 @@
   "rss": {
     "url": "https://journals.plos.org/plosgenetics/feed/atom",
     "status": "live",
-    "last_item_date": "2026-08-13",
-    "last_checked": "2026-08-17"
+    "last_item_date": "2026-08-21",
+    "last_checked": "2026-08-24"
   },
   "backends": [
     "rss",
@@ -32,6 +32,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-08-17",
-  "updated_at": "2026-08-17"
+  "added_at": "2026-08-24",
+  "updated_at": "2026-08-24"
 }
