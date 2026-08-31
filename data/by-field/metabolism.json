@@ -19,7 +19,7 @@
       "url": "https://www.nature.com/natmetab.rss",
       "status": "live",
       "last_item_date": "2026-08-21",
-      "last_checked": "2026-08-24"
+      "last_checked": "2026-08-31"
     },
     "backends": [
       "rss",
@@ -31,8 +31,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-24",
-    "updated_at": "2026-08-24"
+    "added_at": "2026-08-31",
+    "updated_at": "2026-08-31"
   },
   {
     "issn_l": "1550-4131",
@@ -44,7 +44,7 @@
     "publisher": "Cell Press",
     "homepage": "https://www.sciencedirect.com/journal/cell-metabolism",
     "openalex_source_id": "S177533077",
-    "works_per_year": 188,
+    "works_per_year": 189,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -55,7 +55,7 @@
       "url": "https://www.cell.com/cell-metabolism/current.rss",
       "status": "live",
       "last_item_date": "2026-08-04",
-      "last_checked": "2026-08-24"
+      "last_checked": "2026-08-31"
     },
     "backends": [
       "rss",
@@ -67,7 +67,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-24",
-    "updated_at": "2026-08-24"
+    "added_at": "2026-08-31",
+    "updated_at": "2026-08-31"
   }
 ]

@@ -9,7 +9,7 @@
   "publisher": "Springer Science+Business Media",
   "homepage": "http://www.springer.com/biomed/virology/journal/705",
   "openalex_source_id": "S57491091",
-  "works_per_year": 251,
+  "works_per_year": 253,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -21,7 +21,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-08-24"
+    "last_checked": "2026-08-31"
   },
   "backends": [
     "crossref",
@@ -32,6 +32,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-08-24",
-  "updated_at": "2026-08-24"
+  "added_at": "2026-08-31",
+  "updated_at": "2026-08-31"
 }

@@ -2228,5 +2228,25 @@
     ],
     "status": "pending",
     "discovered_at": "2026-08-10"
+  },
+  {
+    "issn_l": "2218-676X",
+    "issn": [
+      "2218-676X",
+      "2219-6803"
+    ],
+    "name": "Translational Cancer Research",
+    "publisher": "AME Publishing Company",
+    "homepage": "http://tcr.thepbpc.org",
+    "openalex_source_id": "S2764965054",
+    "works_per_year": 619,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "ferroptosis and cancer prognosis",
+      "cancer immunotherapy and biomarkers",
+      "lung cancer treatments and mutations"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-08-31"
   }
 ]
