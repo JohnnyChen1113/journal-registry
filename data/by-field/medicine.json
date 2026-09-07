@@ -11,7 +11,7 @@
     "publisher": "Massachusetts Medical Society",
     "homepage": "http://www.nejm.org/",
     "openalex_source_id": "S62468778",
-    "works_per_year": 907,
+    "works_per_year": 915,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -23,7 +23,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-08-31"
+      "last_checked": "2026-09-07"
     },
     "backends": [
       "crossref",
@@ -34,8 +34,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-31",
-    "updated_at": "2026-08-31"
+    "added_at": "2026-09-07",
+    "updated_at": "2026-09-07"
   },
   {
     "issn_l": "0099-5355",
@@ -48,7 +48,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.sciencedirect.com/journal/the-lancet",
     "openalex_source_id": "S49861241",
-    "works_per_year": 1398,
+    "works_per_year": 1409,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -60,7 +60,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-08-31"
+      "last_checked": "2026-09-07"
     },
     "backends": [
       "crossref",
@@ -71,8 +71,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-31",
-    "updated_at": "2026-08-31"
+    "added_at": "2026-09-07",
+    "updated_at": "2026-09-07"
   },
   {
     "issn_l": "0002-9955",
@@ -86,7 +86,7 @@
     "publisher": "American Medical Association",
     "homepage": "http://jama.ama-assn.org/",
     "openalex_source_id": "S172573765",
-    "works_per_year": 1656,
+    "works_per_year": 1664,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -98,7 +98,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-08-31"
+      "last_checked": "2026-09-07"
     },
     "backends": [
       "crossref",
@@ -109,8 +109,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-31",
-    "updated_at": "2026-08-31"
+    "added_at": "2026-09-07",
+    "updated_at": "2026-09-07"
   },
   {
     "issn_l": "1078-8956",
@@ -123,7 +123,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "http://www.nature.com/nm/index.html",
     "openalex_source_id": "S203256638",
-    "works_per_year": 672,
+    "works_per_year": 676,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -134,8 +134,8 @@
     "rss": {
       "url": "https://www.nature.com/nm.rss",
       "status": "live",
-      "last_item_date": "2026-08-30",
-      "last_checked": "2026-08-31"
+      "last_item_date": "2026-09-07",
+      "last_checked": "2026-09-07"
     },
     "backends": [
       "rss",
@@ -147,8 +147,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-31",
-    "updated_at": "2026-08-31"
+    "added_at": "2026-09-07",
+    "updated_at": "2026-09-07"
   },
   {
     "issn_l": "1756-994X",
@@ -159,7 +159,7 @@
     "publisher": "BioMed Central",
     "homepage": "https://genomemedicine.biomedcentral.com/",
     "openalex_source_id": "S149201819",
-    "works_per_year": 158,
+    "works_per_year": 159,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -171,7 +171,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-08-31"
+      "last_checked": "2026-09-07"
     },
     "backends": [
       "crossref",
@@ -182,8 +182,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-31",
-    "updated_at": "2026-08-31"
+    "added_at": "2026-09-07",
+    "updated_at": "2026-09-07"
   },
   {
     "issn_l": "0959-8138",
@@ -206,7 +206,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-08-31"
+      "last_checked": "2026-09-07"
     },
     "backends": [
       "crossref",
@@ -217,8 +217,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-31",
-    "updated_at": "2026-08-31"
+    "added_at": "2026-09-07",
+    "updated_at": "2026-09-07"
   },
   {
     "issn_l": "1946-6234",
@@ -230,7 +230,7 @@
     "publisher": "American Association for the Advancement of Science",
     "homepage": "http://stm.sciencemag.org",
     "openalex_source_id": "S24207032",
-    "works_per_year": 293,
+    "works_per_year": 296,
     "oa_status": "closed",
     "domain": "medicine",
     "field_tags": [
@@ -241,8 +241,8 @@
     "rss": {
       "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=stm",
       "status": "live",
-      "last_item_date": "2026-08-26",
-      "last_checked": "2026-08-31"
+      "last_item_date": "2026-09-02",
+      "last_checked": "2026-09-07"
     },
     "backends": [
       "rss",
@@ -254,8 +254,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-31",
-    "updated_at": "2026-08-31"
+    "added_at": "2026-09-07",
+    "updated_at": "2026-09-07"
   },
   {
     "issn_l": "2666-3791",
@@ -266,7 +266,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.journals.elsevier.com/cell-reports-medicine",
     "openalex_source_id": "S4210207453",
-    "works_per_year": 416,
+    "works_per_year": 420,
     "oa_status": "oa",
     "domain": "medicine",
     "field_tags": [
@@ -278,7 +278,7 @@
       "url": "https://www.cell.com/cell-reports-medicine/current.rss",
       "status": "live",
       "last_item_date": "2026-08-18",
-      "last_checked": "2026-08-31"
+      "last_checked": "2026-09-07"
     },
     "backends": [
       "rss",
@@ -290,7 +290,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-08-31",
-    "updated_at": "2026-08-31"
+    "added_at": "2026-09-07",
+    "updated_at": "2026-09-07"
   }
 ]

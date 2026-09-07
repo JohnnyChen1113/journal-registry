@@ -7,7 +7,7 @@
   "publisher": "Springer Nature",
   "homepage": "https://www.nature.com/cddis/",
   "openalex_source_id": "S185208586",
-  "works_per_year": 938,
+  "works_per_year": 946,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -18,8 +18,8 @@
   "rss": {
     "url": "https://www.nature.com/cddis.rss",
     "status": "live",
-    "last_item_date": "2026-08-31",
-    "last_checked": "2026-08-31"
+    "last_item_date": "2026-09-07",
+    "last_checked": "2026-09-07"
   },
   "backends": [
     "rss",
@@ -31,6 +31,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-08-31",
-  "updated_at": "2026-08-31"
+  "added_at": "2026-09-07",
+  "updated_at": "2026-09-07"
 }
