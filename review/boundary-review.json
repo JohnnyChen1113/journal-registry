@@ -2248,5 +2248,44 @@
     ],
     "status": "pending",
     "discovered_at": "2026-08-31"
+  },
+  {
+    "issn_l": "1040-8428",
+    "issn": [
+      "1040-8428",
+      "1879-0461"
+    ],
+    "name": "Critical Reviews in Oncology/Hematology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/critical-reviews-in-oncology-hematology",
+    "openalex_source_id": "S185233701",
+    "works_per_year": 365,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "cancer immunotherapy and biomarkers",
+      "lung cancer treatments and mutations",
+      "diverse scientific and economic studies"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-09-14"
+  },
+  {
+    "issn_l": "1478-811X",
+    "issn": [
+      "1478-811X"
+    ],
+    "name": "Cell Communication and Signaling",
+    "publisher": "BioMed Central",
+    "homepage": "https://biosignaling.biomedcentral.com/",
+    "openalex_source_id": "S138104925",
+    "works_per_year": 608,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "extracellular vesicles in disease",
+      "immune cells in cancer",
+      "cancer cells and metastasis"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-09-14"
   }
 ]

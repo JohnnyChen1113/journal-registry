@@ -9,7 +9,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/nsmb/",
     "openalex_source_id": "S139253143",
-    "works_per_year": 239,
+    "works_per_year": 241,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -20,8 +20,8 @@
     "rss": {
       "url": "https://www.nature.com/nsmb.rss",
       "status": "live",
-      "last_item_date": "2026-09-01",
-      "last_checked": "2026-09-07"
+      "last_item_date": "2026-09-14",
+      "last_checked": "2026-09-14"
     },
     "backends": [
       "rss",
@@ -33,8 +33,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-09-07",
-    "updated_at": "2026-09-07"
+    "added_at": "2026-09-14",
+    "updated_at": "2026-09-14"
   },
   {
     "issn_l": "0969-2126",
@@ -57,7 +57,7 @@
       "url": "https://www.cell.com/structure/current.rss",
       "status": "live",
       "last_item_date": "2026-09-03",
-      "last_checked": "2026-09-07"
+      "last_checked": "2026-09-14"
     },
     "backends": [
       "rss",
@@ -69,8 +69,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-09-07",
-    "updated_at": "2026-09-07"
+    "added_at": "2026-09-14",
+    "updated_at": "2026-09-14"
   },
   {
     "issn_l": "0022-2836",
@@ -94,7 +94,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-09-07"
+      "last_checked": "2026-09-14"
     },
     "backends": [
       "crossref",
@@ -105,8 +105,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-09-07",
-    "updated_at": "2026-09-07"
+    "added_at": "2026-09-14",
+    "updated_at": "2026-09-14"
   },
   {
     "issn_l": "2001-0370",
@@ -129,7 +129,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-09-07"
+      "last_checked": "2026-09-14"
     },
     "backends": [
       "crossref",
@@ -140,7 +140,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-09-07",
-    "updated_at": "2026-09-07"
+    "added_at": "2026-09-14",
+    "updated_at": "2026-09-14"
   }
 ]
