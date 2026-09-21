@@ -7,7 +7,7 @@
   "publisher": "BioMed Central",
   "homepage": "https://bmcmicrobiol.biomedcentral.com",
   "openalex_source_id": "S128543880",
-  "works_per_year": 810,
+  "works_per_year": 822,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -18,7 +18,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-09-14"
+    "last_checked": "2026-09-21"
   },
   "backends": [
     "crossref",
@@ -29,6 +29,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-09-14",
-  "updated_at": "2026-09-14"
+  "added_at": "2026-09-21",
+  "updated_at": "2026-09-21"
 }

@@ -11,7 +11,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "http://www.nature.com/nbt",
     "openalex_source_id": "S106963461",
-    "works_per_year": 419,
+    "works_per_year": 421,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -22,8 +22,8 @@
     "rss": {
       "url": "https://www.nature.com/nbt.rss",
       "status": "live",
-      "last_item_date": "2026-09-14",
-      "last_checked": "2026-09-14"
+      "last_item_date": "2026-09-17",
+      "last_checked": "2026-09-21"
     },
     "backends": [
       "rss",
@@ -35,8 +35,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-09-14",
-    "updated_at": "2026-09-14"
+    "added_at": "2026-09-21",
+    "updated_at": "2026-09-21"
   },
   {
     "issn_l": "0167-7799",
@@ -49,7 +49,7 @@
     "publisher": "Elsevier BV",
     "homepage": "https://www.sciencedirect.com/journal/trends-in-biotechnology",
     "openalex_source_id": "S147849156",
-    "works_per_year": 241,
+    "works_per_year": 242,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -61,7 +61,7 @@
       "url": "https://www.cell.com/trends/biotechnology/current.rss",
       "status": "live",
       "last_item_date": "2026-09-01",
-      "last_checked": "2026-09-14"
+      "last_checked": "2026-09-21"
     },
     "backends": [
       "rss",
@@ -73,8 +73,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-09-14",
-    "updated_at": "2026-09-14"
+    "added_at": "2026-09-21",
+    "updated_at": "2026-09-21"
   },
   {
     "issn_l": "1467-7644",
@@ -98,7 +98,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-09-14"
+      "last_checked": "2026-09-21"
     },
     "backends": [
       "crossref",
@@ -109,7 +109,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-09-14",
-    "updated_at": "2026-09-14"
+    "added_at": "2026-09-21",
+    "updated_at": "2026-09-21"
   }
 ]

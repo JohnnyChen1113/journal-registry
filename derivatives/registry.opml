@@ -10,7 +10,6 @@
     <outline type="rss" text="Cell Genomics" xmlUrl="https://www.cell.com/cell-genomics/current.rss"/>
     <outline type="rss" text="Current Biology" xmlUrl="https://www.cell.com/current-biology/current.rss"/>
     <outline type="rss" text="Nature Medicine" xmlUrl="https://www.nature.com/nm.rss"/>
-    <outline type="rss" text="Proceedings of the National Academy of Sciences" xmlUrl="https://www.pnas.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=pnas"/>
     <outline type="rss" text="eLife" xmlUrl="https://elifesciences.org/rss/recent.xml"/>
     <outline type="rss" text="Nature Communications" xmlUrl="https://www.nature.com/ncomms.rss"/>
     <outline type="rss" text="Science Advances" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=sciadv"/>

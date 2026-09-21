@@ -21,7 +21,7 @@
       "url": "https://www.cell.com/cell-host-microbe/current.rss",
       "status": "live",
       "last_item_date": "2026-09-09",
-      "last_checked": "2026-09-14"
+      "last_checked": "2026-09-21"
     },
     "backends": [
       "rss",
@@ -33,7 +33,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-09-14",
-    "updated_at": "2026-09-14"
+    "added_at": "2026-09-21",
+    "updated_at": "2026-09-21"
   }
 ]

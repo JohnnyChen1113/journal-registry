@@ -7,7 +7,7 @@
   "publisher": "Nature Portfolio",
   "homepage": "https://www.nature.com/commsbio/",
   "openalex_source_id": "S4210225776",
-  "works_per_year": 1723,
+  "works_per_year": 1741,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -17,8 +17,8 @@
   "rss": {
     "url": "https://www.nature.com/commsbio.rss",
     "status": "live",
-    "last_item_date": "2026-09-14",
-    "last_checked": "2026-09-14"
+    "last_item_date": "2026-09-21",
+    "last_checked": "2026-09-21"
   },
   "backends": [
     "rss",
@@ -30,6 +30,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-09-14",
-  "updated_at": "2026-09-14"
+  "added_at": "2026-09-21",
+  "updated_at": "2026-09-21"
 }

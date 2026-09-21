@@ -7,7 +7,7 @@
   "publisher": "American Society for Microbiology",
   "homepage": "https://journals.asm.org/journal/spectrum",
   "openalex_source_id": "S2764766708",
-  "works_per_year": 1394,
+  "works_per_year": 1404,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -19,7 +19,7 @@
     "url": null,
     "status": "none",
     "last_item_date": null,
-    "last_checked": "2026-09-14"
+    "last_checked": "2026-09-21"
   },
   "backends": [
     "crossref",
@@ -30,6 +30,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-09-14",
-  "updated_at": "2026-09-14"
+  "added_at": "2026-09-21",
+  "updated_at": "2026-09-21"
 }

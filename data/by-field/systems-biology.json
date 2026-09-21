@@ -21,8 +21,8 @@
     "rss": {
       "url": "https://www.cell.com/cell-systems/current.rss",
       "status": "live",
-      "last_item_date": "2026-08-19",
-      "last_checked": "2026-09-14"
+      "last_item_date": "2026-09-02",
+      "last_checked": "2026-09-21"
     },
     "backends": [
       "rss",
@@ -34,8 +34,8 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-09-14",
-    "updated_at": "2026-09-14"
+    "added_at": "2026-09-21",
+    "updated_at": "2026-09-21"
   },
   {
     "issn_l": "1553-734X",
@@ -47,7 +47,7 @@
     "publisher": "Public Library of Science",
     "homepage": "http://journals.plos.org/ploscompbiol/",
     "openalex_source_id": "S86033158",
-    "works_per_year": 778,
+    "works_per_year": 788,
     "oa_status": "oa",
     "domain": "core-bio",
     "field_tags": [
@@ -59,7 +59,7 @@
       "url": null,
       "status": "none",
       "last_item_date": null,
-      "last_checked": "2026-09-14"
+      "last_checked": "2026-09-21"
     },
     "backends": [
       "crossref",
@@ -70,7 +70,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-09-14",
-    "updated_at": "2026-09-14"
+    "added_at": "2026-09-21",
+    "updated_at": "2026-09-21"
   }
 ]

@@ -11,7 +11,7 @@ issn_l,name,publisher,domain,tier,rss_status,backends
 "0099-5355","The Lancet","Elsevier BV","medicine","flagship","none","crossref|openalex"
 "0002-9955","JAMA","American Medical Association","medicine","flagship","none","crossref|openalex"
 "1078-8956","Nature Medicine","Nature Portfolio","medicine","top","live","rss|crossref|openalex"
-"0027-8424","Proceedings of the National Academy of Sciences","National Academy of Sciences","core-bio","flagship","live","rss|crossref|openalex"
+"0027-8424","Proceedings of the National Academy of Sciences","National Academy of Sciences","core-bio","flagship","dead","crossref|openalex"
 "2050-084X","eLife","eLife Sciences Publications Ltd","core-bio","top","live","rss|crossref|openalex"
 "2041-1723","Nature Communications","Nature Portfolio","core-bio","top","live","rss|crossref|openalex"
 "2375-2548","Science Advances","American Association for the Advancement of Science","core-bio","top","live","rss|crossref|openalex"
