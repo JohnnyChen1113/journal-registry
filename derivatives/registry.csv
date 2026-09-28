@@ -130,7 +130,7 @@ issn_l,name,publisher,domain,tier,rss_status,backends
 "1553-734X","PLoS Computational Biology","Public Library of Science","core-bio","top","none","crossref|openalex"
 "0301-4851","Molecular Biology Reports","Springer Nature","core-bio","specialist","none","crossref|openalex"
 "0885-5765","Physiological and Molecular Plant Pathology","Elsevier BV","core-bio","specialist","none","crossref|openalex"
-"2296-634X","Frontiers in Cell and Developmental Biology","Frontiers Media","core-bio","specialist","none","crossref|openalex"
+"2296-634X","Frontiers in Cell and Developmental Biology","Frontiers Media","core-bio","specialist","live","rss|crossref|openalex"
 "0721-7714","Plant Cell Reports","Springer Science+Business Media","core-bio","specialist","none","crossref|openalex"
 "2165-0497","Microbiology Spectrum","American Society for Microbiology","core-bio","specialist","none","crossref|openalex"
 "2161-5063","ACS Synthetic Biology","American Chemical Society","core-bio","top","none","crossref|openalex"

@@ -1882,6 +1882,7 @@
     ],
     "tier": "specialist",
     "backends": [
+      "rss",
       "crossref",
       "openalex"
     ]

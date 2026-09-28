@@ -8,7 +8,7 @@
   "publisher": "National Academy of Sciences",
   "homepage": "http://www.pnas.org/",
   "openalex_source_id": "S125754415",
-  "works_per_year": 3984,
+  "works_per_year": 4013,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -19,7 +19,7 @@
     "url": "https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas",
     "status": "dead",
     "last_item_date": null,
-    "last_checked": "2026-09-21"
+    "last_checked": "2026-09-28"
   },
   "backends": [
     "crossref",
@@ -30,6 +30,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-09-21",
-  "updated_at": "2026-09-21"
+  "added_at": "2026-09-28",
+  "updated_at": "2026-09-28"
 }

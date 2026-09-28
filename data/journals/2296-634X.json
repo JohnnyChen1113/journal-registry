@@ -7,7 +7,7 @@
   "publisher": "Frontiers Media",
   "homepage": "http://www.frontiersin.org/cell_and_developmental_biology",
   "openalex_source_id": "S2596924766",
-  "works_per_year": 1093,
+  "works_per_year": 1103,
   "oa_status": "oa",
   "domain": "core-bio",
   "field_tags": [
@@ -16,12 +16,13 @@
   ],
   "tier": "specialist",
   "rss": {
-    "url": null,
-    "status": "none",
-    "last_item_date": null,
-    "last_checked": "2026-09-21"
+    "url": "https://www.frontiersin.org/journals/amphibian-and-reptile-science/sections/comparative-development-regeneration-immunity/rss",
+    "status": "live",
+    "last_item_date": "2026-09-28",
+    "last_checked": "2026-09-28"
   },
   "backends": [
+    "rss",
     "crossref",
     "openalex"
   ],
@@ -30,6 +31,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-09-21",
-  "updated_at": "2026-09-21"
+  "added_at": "2026-09-28",
+  "updated_at": "2026-09-28"
 }

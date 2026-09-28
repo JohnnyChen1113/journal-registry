@@ -2287,5 +2287,47 @@
     ],
     "status": "pending",
     "discovered_at": "2026-09-14"
+  },
+  {
+    "issn_l": "0360-3016",
+    "issn": [
+      "0360-3016",
+      "1879-355X"
+    ],
+    "name": "International Journal of Radiation Oncology*Biology*Physics",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/international-journal-of-radiation-oncology-biology-physics",
+    "openalex_source_id": "S110533041",
+    "works_per_year": 3037,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "advanced radiotherapy techniques",
+      "head and neck cancer studies",
+      "lung cancer diagnosis and treatment"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-09-28"
+  },
+  {
+    "issn_l": "1861-3829",
+    "issn": [
+      "1861-3829",
+      "1861-3837",
+      "2948-264X",
+      "2948-2658"
+    ],
+    "name": "Journal of Plant Diseases and Protection",
+    "publisher": "Springer Science+Business Media",
+    "homepage": "https://www.springer.com/journal/41348",
+    "openalex_source_id": "S158730009",
+    "works_per_year": 325,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "plant pathogens and fungal diseases",
+      "plant-microbe interactions and immunity",
+      "insect pest control strategies"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-09-28"
   }
 ]

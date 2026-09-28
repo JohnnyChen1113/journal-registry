@@ -21,7 +21,7 @@
       "url": "https://www.cell.com/cell-stem-cell/current.rss",
       "status": "live",
       "last_item_date": "2026-09-03",
-      "last_checked": "2026-09-21"
+      "last_checked": "2026-09-28"
     },
     "backends": [
       "rss",
@@ -33,7 +33,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-09-21",
-    "updated_at": "2026-09-21"
+    "added_at": "2026-09-28",
+    "updated_at": "2026-09-28"
   }
 ]
