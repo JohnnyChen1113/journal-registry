@@ -2329,5 +2329,104 @@
     ],
     "status": "pending",
     "discovered_at": "2026-09-28"
+  },
+  {
+    "issn_l": "2059-2302",
+    "issn": [
+      "2059-2302",
+      "2059-2310"
+    ],
+    "name": "HLA",
+    "publisher": "Wiley",
+    "homepage": "https://onlinelibrary.wiley.com/journal/20592310",
+    "openalex_source_id": "S2925925584",
+    "works_per_year": 517,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "genetic associations and epidemiology",
+      "renal transplantation outcomes and treatments",
+      "hematopoietic stem cell transplantation"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-10-05"
+  },
+  {
+    "issn_l": "1549-9618",
+    "issn": [
+      "1549-9618",
+      "1549-9626"
+    ],
+    "name": "Journal of Chemical Theory and Computation",
+    "publisher": "American Chemical Society",
+    "homepage": "http://pubs.acs.org/journal/jctcce",
+    "openalex_source_id": "S189701308",
+    "works_per_year": 925,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "advanced chemical physics studies",
+      "advanced physical and chemical molecular interactions",
+      "protein structure and dynamics"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-10-05"
+  },
+  {
+    "issn_l": "0950-1991",
+    "issn": [
+      "0950-1991",
+      "1477-9129"
+    ],
+    "name": "Development",
+    "publisher": "The Company of Biologists",
+    "homepage": "http://dev.biologists.org/",
+    "openalex_source_id": "S86558740",
+    "works_per_year": 385,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "developmental biology and gene regulation",
+      "neurogenesis and neuroplasticity mechanisms",
+      "genomics and chromatin dynamics"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-10-05"
+  },
+  {
+    "issn_l": "1664-8714",
+    "issn": [
+      "1664-8714"
+    ],
+    "name": "Frontiers research topics",
+    "publisher": "Frontiers Media",
+    "homepage": null,
+    "openalex_source_id": "S4210203672",
+    "works_per_year": 1407,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "t-cell and b-cell immunology",
+      "cancer immunotherapy and biomarkers",
+      "neuroscience and neuropharmacology research"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-10-05"
+  },
+  {
+    "issn_l": "1520-5207",
+    "issn": [
+      "1520-5207",
+      "1520-6106"
+    ],
+    "name": "The Journal of Physical Chemistry B",
+    "publisher": "American Chemical Society",
+    "homepage": "http://pubs.acs.org/journals/jpcbfk/index.html",
+    "openalex_source_id": "S185621672",
+    "works_per_year": 1169,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "spectroscopy and quantum chemical studies",
+      "protein structure and dynamics",
+      "photochemistry and electron transfer studies"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-10-05"
   }
 ]

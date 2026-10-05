@@ -182,6 +182,7 @@
     ],
     "tier": "flagship",
     "backends": [
+      "rss",
       "crossref",
       "openalex"
     ]

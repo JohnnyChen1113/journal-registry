@@ -8,7 +8,7 @@
     "publisher": "Nature Portfolio",
     "homepage": "https://www.nature.com/nataging/",
     "openalex_source_id": "S4210214063",
-    "works_per_year": 225,
+    "works_per_year": 227,
     "oa_status": "closed",
     "domain": "core-bio",
     "field_tags": [
@@ -18,8 +18,8 @@
     "rss": {
       "url": "https://www.nature.com/nataging.rss",
       "status": "live",
-      "last_item_date": "2026-09-25",
-      "last_checked": "2026-09-28"
+      "last_item_date": "2026-10-05",
+      "last_checked": "2026-10-05"
     },
     "backends": [
       "rss",
@@ -31,7 +31,7 @@
       "by": "seed",
       "verified_at": null
     },
-    "added_at": "2026-09-28",
-    "updated_at": "2026-09-28"
+    "added_at": "2026-10-05",
+    "updated_at": "2026-10-05"
   }
 ]
