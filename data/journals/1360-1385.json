@@ -8,7 +8,7 @@
   "publisher": "Elsevier BV",
   "homepage": "https://www.sciencedirect.com/journal/trends-in-plant-science",
   "openalex_source_id": "S201780205",
-  "works_per_year": 186,
+  "works_per_year": 187,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -19,8 +19,8 @@
   "rss": {
     "url": "https://www.cell.com/trends/plant-science/current.rss",
     "status": "live",
-    "last_item_date": "2026-09-01",
-    "last_checked": "2026-10-05"
+    "last_item_date": "2026-10-01",
+    "last_checked": "2026-10-12"
   },
   "backends": [
     "rss",
@@ -32,6 +32,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-10-05",
-  "updated_at": "2026-10-05"
+  "added_at": "2026-10-12",
+  "updated_at": "2026-10-12"
 }

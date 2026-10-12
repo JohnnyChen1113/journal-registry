@@ -2428,5 +2428,65 @@
     ],
     "status": "pending",
     "discovered_at": "2026-10-05"
+  },
+  {
+    "issn_l": "0924-977X",
+    "issn": [
+      "0924-977X",
+      "1873-7862"
+    ],
+    "name": "European Neuropsychopharmacology",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/european-neuropsychopharmacology",
+    "openalex_source_id": "S168041952",
+    "works_per_year": 692,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "schizophrenia research and treatment",
+      "neurotransmitter receptor influence on behavior",
+      "treatment of major depression"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-10-12"
+  },
+  {
+    "issn_l": "0016-5107",
+    "issn": [
+      "0016-5107",
+      "1085-8741",
+      "1097-6779"
+    ],
+    "name": "Gastrointestinal Endoscopy",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.journals.elsevier.com/gastrointestinal-endoscopy",
+    "openalex_source_id": "S28527816",
+    "works_per_year": 3739,
+    "oa_status": "closed",
+    "suggested_field_tags": [
+      "gastrointestinal bleeding diagnosis and treatment",
+      "gallbladder and bile duct disorders",
+      "colorectal cancer screening and detection"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-10-12"
+  },
+  {
+    "issn_l": "2475-2991",
+    "issn": [
+      "2475-2991"
+    ],
+    "name": "Current Developments in Nutrition",
+    "publisher": "Elsevier BV",
+    "homepage": "https://www.sciencedirect.com/journal/current-developments-in-nutrition",
+    "openalex_source_id": "S4210219560",
+    "works_per_year": 1710,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "nutritional studies and diet",
+      "nutrition, health and food behavior",
+      "child nutrition and water access"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-10-12"
   }
 ]
