@@ -8,7 +8,7 @@
   "publisher": "Cell Press",
   "homepage": "https://www.sciencedirect.com/topics/immunology-and-microbiology/immunity",
   "openalex_source_id": "S199671312",
-  "works_per_year": 239,
+  "works_per_year": 243,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -18,8 +18,8 @@
   "rss": {
     "url": "https://www.cell.com/immunity/current.rss",
     "status": "live",
-    "last_item_date": "2026-09-08",
-    "last_checked": "2026-10-12"
+    "last_item_date": "2026-10-13",
+    "last_checked": "2026-10-19"
   },
   "backends": [
     "rss",
@@ -31,6 +31,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-10-12",
-  "updated_at": "2026-10-12"
+  "added_at": "2026-10-19",
+  "updated_at": "2026-10-19"
 }
