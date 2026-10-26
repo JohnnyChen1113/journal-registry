@@ -20,7 +20,7 @@
     "url": "https://www.nature.com/nri.rss",
     "status": "live",
     "last_item_date": "2026-10-09",
-    "last_checked": "2026-10-19"
+    "last_checked": "2026-10-26"
   },
   "backends": [
     "rss",
@@ -32,6 +32,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-10-19",
-  "updated_at": "2026-10-19"
+  "added_at": "2026-10-26",
+  "updated_at": "2026-10-26"
 }
