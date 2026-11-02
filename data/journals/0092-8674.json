@@ -8,7 +8,7 @@
   "publisher": "Cell Press",
   "homepage": "https://www.sciencedirect.com/journal/cell",
   "openalex_source_id": "S110447773",
-  "works_per_year": 523,
+  "works_per_year": 527,
   "oa_status": "closed",
   "domain": "core-bio",
   "field_tags": [
@@ -19,8 +19,8 @@
   "rss": {
     "url": "https://www.cell.com/cell/current.rss",
     "status": "live",
-    "last_item_date": "2026-10-15",
-    "last_checked": "2026-10-26"
+    "last_item_date": "2026-10-29",
+    "last_checked": "2026-11-02"
   },
   "backends": [
     "rss",
@@ -32,6 +32,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-10-26",
-  "updated_at": "2026-10-26"
+  "added_at": "2026-11-02",
+  "updated_at": "2026-11-02"
 }

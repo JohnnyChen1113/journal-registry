@@ -2488,5 +2488,24 @@
     ],
     "status": "pending",
     "discovered_at": "2026-10-12"
+  },
+  {
+    "issn_l": "2046-1402",
+    "issn": [
+      "2046-1402"
+    ],
+    "name": "F1000Research",
+    "publisher": "Faculty of 1000",
+    "homepage": "https://f1000research.com",
+    "openalex_source_id": "S4210239046",
+    "works_per_year": 5560,
+    "oa_status": "oa",
+    "suggested_field_tags": [
+      "genomics and phylogenetic studies",
+      "bioinformatics and genomic networks",
+      "scientific computing and data management"
+    ],
+    "status": "pending",
+    "discovered_at": "2026-11-02"
   }
 ]

@@ -20,8 +20,8 @@
   "rss": {
     "url": "https://www.nature.com/nrm.rss",
     "status": "live",
-    "last_item_date": "2026-10-22",
-    "last_checked": "2026-10-26"
+    "last_item_date": "2026-11-02",
+    "last_checked": "2026-11-02"
   },
   "backends": [
     "rss",
@@ -33,6 +33,6 @@
     "by": "seed",
     "verified_at": null
   },
-  "added_at": "2026-10-26",
-  "updated_at": "2026-10-26"
+  "added_at": "2026-11-02",
+  "updated_at": "2026-11-02"
 }
